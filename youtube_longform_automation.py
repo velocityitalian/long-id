@@ -239,6 +239,7 @@ For each phrase:
 1. English phrase (pure English, zero Indonesian) with commas for natural pauses
 2. Indonesian translation (Indonesian only)
 3. Pronunciation guide (phonetic English spelling)
+CRITICAL: Every translation MUST be in Indonesian. NEVER use German, Spanish, or any other language. Only Indonesian.
 
 Return as JSON array:
 [{{"english": "...", "indonesian": "...", "pronunciation": "..."}}]
