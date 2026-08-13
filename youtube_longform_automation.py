@@ -835,6 +835,9 @@ def generate_title_description(category_english: str, category_indonesian: str, 
         f"Speak Indonesian Fluently | {category_english} Phrases | English + Indonesian + Pronunciation",
     ]
 
+    # YouTube title limit is 100 chars - truncate any overlong title safely
+    titles = [t if len(t) <= 100 else (t[:97] + "...") for t in titles]
+
     description = f"""🇮🇩 Learn Indonesian with Velocity Indonesian! 🇮🇩
 
 In this video, you'll learn 60 essential Indonesian phrases about {category_english} ({category_indonesian}).
