@@ -78,7 +78,7 @@ CATEGORIES_INDONESIAN = {
 }
 
 # Edge TTS voices
-ENGLISH_VOICE = "en-US-AndrewNeural"
+ENGLISH_VOICE = "en-US-GuyNeural"
 LANG_VOICE = "id-ID-GadisNeural"
 
 # Phrase history file
