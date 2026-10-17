@@ -1,1 +1,725 @@
-﻿{"phrases": [], "last_updated": null}
+{
+  "phrases": [
+    {
+      "english": "I feel unwell, doctor.",
+      "indonesian": "Saya merasa tidak enak badan, dokter.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.560827"
+    },
+    {
+      "english": "Where is the nearest pharmacy?",
+      "indonesian": "Di mana apotek terdekat?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.560843"
+    },
+    {
+      "english": "I have a headache.",
+      "indonesian": "Saya pusing.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.560848"
+    },
+    {
+      "english": "Do you have this medicine?",
+      "indonesian": "Apakah ada obat ini?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.560851"
+    },
+    {
+      "english": "What's wrong with me?",
+      "indonesian": "Ada apa dengan saya?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.560855"
+    },
+    {
+      "english": "I need to see a doctor.",
+      "indonesian": "Saya perlu bertemu dokter.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.560872"
+    },
+    {
+      "english": "How much does this cost?",
+      "indonesian": "Berapa harganya ini?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.560876"
+    },
+    {
+      "english": "Can I get a prescription?",
+      "indonesian": "Bisa dapat resep?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.560884"
+    },
+    {
+      "english": "I have a fever.",
+      "indonesian": "Saya demam.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.560888"
+    },
+    {
+      "english": "Is it serious?",
+      "indonesian": "Apakah ini serius?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.560892"
+    },
+    {
+      "english": "I have a sore throat.",
+      "indonesian": "Tenggorokan saya sakit.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.560896"
+    },
+    {
+      "english": "Take this medicine, twice a day.",
+      "indonesian": "Minum obat ini, dua kali sehari.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.560899"
+    },
+    {
+      "english": "I have allergies.",
+      "indonesian": "Saya punya alergi.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.560902"
+    },
+    {
+      "english": "Where can I buy vitamins?",
+      "indonesian": "Beli vitamin di mana?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.560906"
+    },
+    {
+      "english": "I feel dizzy.",
+      "indonesian": "Saya pusing, kepala berputar.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.560909"
+    },
+    {
+      "english": "What is this for?",
+      "indonesian": "Ini untuk apa?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.560912"
+    },
+    {
+      "english": "I have a cough.",
+      "indonesian": "Saya batuk.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.560915"
+    },
+    {
+      "english": "Get well soon!",
+      "indonesian": "Semoga lekas sembuh!",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.560918"
+    },
+    {
+      "english": "Do I need to rest?",
+      "indonesian": "Perlu istirahat?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.560923"
+    },
+    {
+      "english": "I have a stomach ache.",
+      "indonesian": "Sakit perut.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.560926"
+    },
+    {
+      "english": "Can you recommend something?",
+      "indonesian": "Bisa rekomendasikan sesuatu?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.560929"
+    },
+    {
+      "english": "I have a fever, can you check?",
+      "indonesian": "Saya demam, bisa periksa?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.560932"
+    },
+    {
+      "english": "Is there a pharmacy nearby?",
+      "indonesian": "Ada apotek dekat sini?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.560935"
+    },
+    {
+      "english": "I need pain relief.",
+      "indonesian": "Saya butuh pereda nyeri.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.560938"
+    },
+    {
+      "english": "How long will it take?",
+      "indonesian": "Berapa lama prosesnya?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.560941"
+    },
+    {
+      "english": "I have a runny nose.",
+      "indonesian": "Hidung saya meler.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.560945"
+    },
+    {
+      "english": "Take this, and you'll feel better.",
+      "indonesian": "Minum ini, nanti lebih baik.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.560951"
+    },
+    {
+      "english": "I need bandages.",
+      "indonesian": "Saya perlu perban.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.560954"
+    },
+    {
+      "english": "Is this over the counter?",
+      "indonesian": "Ini beli tanpa resep?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.560957"
+    },
+    {
+      "english": "I feel a bit sick.",
+      "indonesian": "Saya agak sakit.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.560963"
+    },
+    {
+      "english": "What are your symptoms, please?",
+      "indonesian": "Apa saja gejalanya, tolong?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.560966"
+    },
+    {
+      "english": "How long have you felt this way?",
+      "indonesian": "Sudah berapa lama merasa begini?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.560970"
+    },
+    {
+      "english": "Can you describe the pain?",
+      "indonesian": "Bisa jelaskan rasa sakitnya?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.560973"
+    },
+    {
+      "english": "Have you taken any medication?",
+      "indonesian": "Sudah minum obat apa saja?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.560979"
+    },
+    {
+      "english": "Is there anything you're allergic to?",
+      "indonesian": "Ada alergi terhadap sesuatu?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.560983"
+    },
+    {
+      "english": "When did this start happening?",
+      "indonesian": "Kapan mulainya ini terjadi?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.560987"
+    },
+    {
+      "english": "Can I get a second opinion?",
+      "indonesian": "Bolehkah saya minta pendapat kedua?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.560990"
+    },
+    {
+      "english": "What should I avoid eating?",
+      "indonesian": "Apa yang sebaiknya saya hindari?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.560993"
+    },
+    {
+      "english": "Are there any side effects?",
+      "indonesian": "Apakah ada efek sampingnya?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.560996"
+    },
+    {
+      "english": "When should I come back?",
+      "indonesian": "Kapan saya harus kembali?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.560999"
+    },
+    {
+      "english": "Can you show me where?",
+      "indonesian": "Bisa tunjukkan di mana?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561002"
+    },
+    {
+      "english": "Is this a common illness?",
+      "indonesian": "Apakah ini penyakit umum?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561006"
+    },
+    {
+      "english": "What dosage do you recommend?",
+      "indonesian": "Dosis berapa yang Anda sarankan?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561009"
+    },
+    {
+      "english": "Can I pay with card?",
+      "indonesian": "Bisa bayar pakai kartu?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561012"
+    },
+    {
+      "english": "Do I need a referral?",
+      "indonesian": "Apakah perlu rujukan?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561015"
+    },
+    {
+      "english": "What should I do for relief?",
+      "indonesian": "Apa yang harus dilakukan untuk lega?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561018"
+    },
+    {
+      "english": "How can I prevent this?",
+      "indonesian": "Bagaimana cara mencegahnya?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561021"
+    },
+    {
+      "english": "Is there a specialist for this?",
+      "indonesian": "Ada spesialis untuk ini?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561024"
+    },
+    {
+      "english": "Can you explain that again?",
+      "indonesian": "Bisa jelaskan itu lagi?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561027"
+    },
+    {
+      "english": "What are the next steps?",
+      "indonesian": "Apa langkah selanjutnya?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561031"
+    },
+    {
+      "english": "Do you have anything natural?",
+      "indonesian": "Ada yang alami?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561034"
+    },
+    {
+      "english": "How often should I take this?",
+      "indonesian": "Berapa sering harus minum ini?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561037"
+    },
+    {
+      "english": "Could you write that down?",
+      "indonesian": "Bisa dituliskan?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561040"
+    },
+    {
+      "english": "What should I be aware of?",
+      "indonesian": "Apa yang perlu saya perhatikan?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561043"
+    },
+    {
+      "english": "Is this prescription still valid?",
+      "indonesian": "Resep ini masih berlaku?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561047"
+    },
+    {
+      "english": "Where is the examination room?",
+      "indonesian": "Ruang periksa di mana?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561050"
+    },
+    {
+      "english": "How do I use this device?",
+      "indonesian": "Cara pakai alat ini bagaimana?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561053"
+    },
+    {
+      "english": "What are the opening hours?",
+      "indonesian": "Jam buka berapa?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561056"
+    },
+    {
+      "english": "Can I get a discount?",
+      "indonesian": "Boleh dapat diskon?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561059"
+    },
+    {
+      "english": "When will test results be ready?",
+      "indonesian": "Hasil tes kapan siap?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561062"
+    },
+    {
+      "english": "My head is pounding, doctor.",
+      "indonesian": "Kepala saya berdenyut, dok.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561068"
+    },
+    {
+      "english": "I have a bad cough, please help.",
+      "indonesian": "Saya batuk parah, tolong bantu.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561074"
+    },
+    {
+      "english": "This medicine tastes awful.",
+      "indonesian": "Obat ini rasanya pahit sekali.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561078"
+    },
+    {
+      "english": "My stomach feels really upset.",
+      "indonesian": "Perut saya terasa mual sekali.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561081"
+    },
+    {
+      "english": "Just a little sore throat.",
+      "indonesian": "Hanya sedikit sakit tenggorokan.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561084"
+    },
+    {
+      "english": "I'm feeling a bit dizzy.",
+      "indonesian": "Saya merasa agak pusing.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561088"
+    },
+    {
+      "english": "Do you have any ointment for this?",
+      "indonesian": "Ada salep untuk ini?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561091"
+    },
+    {
+      "english": "I need something for my allergies.",
+      "indonesian": "Saya perlu obat alergi.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561095"
+    },
+    {
+      "english": "When will the prescription expire?",
+      "indonesian": "Kapan resep ini habis masa berlakunya?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561098"
+    },
+    {
+      "english": "It's just a minor issue, thankfully.",
+      "indonesian": "Untung cuma masalah kecil.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561101"
+    },
+    {
+      "english": "Take two pills, morning and night.",
+      "indonesian": "Minum dua pil, pagi dan malam.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561105"
+    },
+    {
+      "english": "I slept badly, very restless.",
+      "indonesian": "Tidur saya gelisah sekali.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561108"
+    },
+    {
+      "english": "My skin is very itchy.",
+      "indonesian": "Kulit saya gatal sekali.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561111"
+    },
+    {
+      "english": "What's the active ingredient?",
+      "indonesian": "Apa bahan aktifnya?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561115"
+    },
+    {
+      "english": "I prefer natural remedies if possible.",
+      "indonesian": "Saya lebih suka obat alami.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561118"
+    },
+    {
+      "english": "This is not what I expected.",
+      "indonesian": "Ini tidak seperti yang saya kira.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561121"
+    },
+    {
+      "english": "Don't worry too much, it's normal.",
+      "indonesian": "Jangan terlalu khawatir, itu wajar.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561128"
+    },
+    {
+      "english": "I need some vitamins, please.",
+      "indonesian": "Saya butuh vitamin.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561133"
+    },
+    {
+      "english": "This might sting a little.",
+      "indonesian": "Ini mungkin agak perih.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561136"
+    },
+    {
+      "english": "Can I have the generic version?",
+      "indonesian": "Bisa versi generiknya?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561139"
+    },
+    {
+      "english": "It feels like a bug bite.",
+      "indonesian": "Rasanya seperti digigit serangga.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561143"
+    },
+    {
+      "english": "Are there any travel-size options?",
+      "indonesian": "Ada ukuran travel?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561146"
+    },
+    {
+      "english": "My energy levels are low.",
+      "indonesian": "Tenaga saya kurang.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561149"
+    },
+    {
+      "english": "This is a good, quick fix.",
+      "indonesian": "Ini solusi cepat yang bagus.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561152"
+    },
+    {
+      "english": "Should I rest for a few days?",
+      "indonesian": "Haruskah saya istirahat?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561156"
+    },
+    {
+      "english": "I'm taking a break from work.",
+      "indonesian": "Saya ambil cuti sakit.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561159"
+    },
+    {
+      "english": "This will keep you healthy.",
+      "indonesian": "Ini agar tetap sehat.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561162"
+    },
+    {
+      "english": "Just a small scratch, no worries.",
+      "indonesian": "Hanya luka kecil, tidak apa-apa.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561166"
+    },
+    {
+      "english": "Listen to your body, okay?",
+      "indonesian": "Dengarkan tubuhmu, ya?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561172"
+    },
+    {
+      "english": "Take it easy for now.",
+      "indonesian": "Santai dulu saja.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561175"
+    },
+    {
+      "english": "My recovery, feels quite slow.",
+      "indonesian": "Pemulihanku, terasa cukup lambat.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561178"
+    },
+    {
+      "english": "I need to be more patient.",
+      "indonesian": "Saya harus lebih sabar.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561181"
+    },
+    {
+      "english": "This is a moment, for reflection.",
+      "indonesian": "Ini momen, untuk refleksi.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561189"
+    },
+    {
+      "english": "How are you truly feeling?",
+      "indonesian": "Bagaimana perasaanmu sebenarnya?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561193"
+    },
+    {
+      "english": "My trust, in the process grows.",
+      "indonesian": "Kepercayaan saya, pada prosesnya tumbuh.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561197"
+    },
+    {
+      "english": "It's okay, to feel vulnerable.",
+      "indonesian": "Tidak apa-apa, merasa rentan.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561201"
+    },
+    {
+      "english": "I appreciate, your understanding.",
+      "indonesian": "Saya menghargai, pengertian Anda.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561204"
+    },
+    {
+      "english": "This experience, taught me much.",
+      "indonesian": "Pengalaman ini, mengajarkanku banyak.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561208"
+    },
+    {
+      "english": "Are you feeling, any better?",
+      "indonesian": "Apakah Anda merasa, lebih baik?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561211"
+    },
+    {
+      "english": "My hope, is for a quick healing.",
+      "indonesian": "Harapan saya, adalah kesembuhan cepat.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561214"
+    },
+    {
+      "english": "We must stay, positive always.",
+      "indonesian": "Kita harus tetap, positif selalu.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561218"
+    },
+    {
+      "english": "It's important, to listen carefully.",
+      "indonesian": "Penting sekali, untuk mendengarkan hati-hati.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561221"
+    },
+    {
+      "english": "My body, needs extra care now.",
+      "indonesian": "Tubuhku, butuh perhatian ekstra sekarang.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561224"
+    },
+    {
+      "english": "Thank you, for your patience.",
+      "indonesian": "Terima kasih, atas kesabaran Anda.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561228"
+    },
+    {
+      "english": "I'm reflecting, on my health.",
+      "indonesian": "Saya merenungkan, kesehatan saya.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561231"
+    },
+    {
+      "english": "Do you feel, understood by me?",
+      "indonesian": "Apakah Anda merasa, dipahami oleh saya?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561235"
+    },
+    {
+      "english": "This setback, is temporary.",
+      "indonesian": "Kemunduran ini, bersifat sementara.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561238"
+    },
+    {
+      "english": "I'm learning, to cope better.",
+      "indonesian": "Saya belajar, mengatasi lebih baik.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561242"
+    },
+    {
+      "english": "My gratitude, runs very deep.",
+      "indonesian": "Rasa terima kasihku, sangat dalam.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561245"
+    },
+    {
+      "english": "I will be fine, eventually.",
+      "indonesian": "Saya akan baik-baik saja, pada akhirnya.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561249"
+    },
+    {
+      "english": "This journey, requires inner strength.",
+      "indonesian": "Perjalanan ini, butuh kekuatan batin.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561253"
+    },
+    {
+      "english": "My heart, feels lighter now.",
+      "indonesian": "Hatiku, terasa lebih ringan sekarang.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561256"
+    },
+    {
+      "english": "I need time, to truly heal.",
+      "indonesian": "Saya butuh waktu, untuk benar-benar pulih.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561259"
+    },
+    {
+      "english": "This feels, like a new start.",
+      "indonesian": "Ini terasa, seperti awal yang baru.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561263"
+    },
+    {
+      "english": "My spirit, feels more resilient.",
+      "indonesian": "Semangatku, terasa lebih tangguh.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561266"
+    },
+    {
+      "english": "I have faith, in your expertise.",
+      "indonesian": "Saya percaya, pada keahlian Anda.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561269"
+    },
+    {
+      "english": "This is a lesson, learned deeply.",
+      "indonesian": "Ini adalah pelajaran, yang dipelajari mendalam.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561275"
+    },
+    {
+      "english": "I feel, more at peace now.",
+      "indonesian": "Saya merasa, lebih tenang sekarang.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561278"
+    },
+    {
+      "english": "My vulnerability, is my strength.",
+      "indonesian": "Kerapuhanku, adalah kekuatanku.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561282"
+    },
+    {
+      "english": "I'm embracing, this slower pace.",
+      "indonesian": "Saya merangkul, ritme yang lebih lambat ini.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-17T07:25:10.561285"
+    }
+  ],
+  "last_updated": "2026-10-17T07:25:10.561287"
+}
