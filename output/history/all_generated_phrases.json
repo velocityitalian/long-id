@@ -1439,7 +1439,727 @@
       "indonesian": "Sabar saja, pada dirimu.",
       "category": "Growth",
       "generated_at": "2026-10-18T07:40:22.809489"
+    },
+    {
+      "english": "How much is this, please?",
+      "indonesian": "Berapa harganya, ya?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778389"
+    },
+    {
+      "english": "This is too expensive!",
+      "indonesian": "Mahal sekali ini!",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778402"
+    },
+    {
+      "english": "Can you give me a discount?",
+      "indonesian": "Bisa kurang, nggak?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778404"
+    },
+    {
+      "english": "I want to buy this.",
+      "indonesian": "Saya mau beli ini.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778406"
+    },
+    {
+      "english": "Do you have this one?",
+      "indonesian": "Ada barang ini?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778408"
+    },
+    {
+      "english": "I'm just looking, thanks.",
+      "indonesian": "Cuma lihat-lihat dulu.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778410"
+    },
+    {
+      "english": "What is the price?",
+      "indonesian": "Harga nya berapa?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778412"
+    },
+    {
+      "english": "That's a good price!",
+      "indonesian": "Wah, murah banget!",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778417"
+    },
+    {
+      "english": "I don't have enough money.",
+      "indonesian": "Uang saya kurang.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778421"
+    },
+    {
+      "english": "Can I pay by card?",
+      "indonesian": "Bisa bayar pakai kartu?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778424"
+    },
+    {
+      "english": "Where is the cashier?",
+      "indonesian": "Kasirnya di mana?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778425"
+    },
+    {
+      "english": "I need a shopping bag.",
+      "indonesian": "Saya perlu tas belanja.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778427"
+    },
+    {
+      "english": "How much for two?",
+      "indonesian": "Kalau dua, berapa?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778429"
+    },
+    {
+      "english": "Is it on sale?",
+      "indonesian": "Lagi diskon, ya?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778431"
+    },
+    {
+      "english": "I'll take this one.",
+      "indonesian": "Saya ambil yang ini.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778433"
+    },
+    {
+      "english": "It's a bit expensive.",
+      "indonesian": "Agak mahal, sih.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778435"
+    },
+    {
+      "english": "What's the best price?",
+      "indonesian": "Harga pasnya berapa?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778437"
+    },
+    {
+      "english": "Can I try it on?",
+      "indonesian": "Bisa dicoba dulu?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778439"
+    },
+    {
+      "english": "This is really cheap!",
+      "indonesian": "Murah banget, ini!",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778441"
+    },
+    {
+      "english": "I need to think about it.",
+      "indonesian": "Saya pikir-pikir dulu.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778443"
+    },
+    {
+      "english": "Do you accept foreign currency?",
+      "indonesian": "Terima uang asing?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778445"
+    },
+    {
+      "english": "This is exactly what I need.",
+      "indonesian": "Ini pas banget, nih.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778447"
+    },
+    {
+      "english": "How much for all of this?",
+      "indonesian": "Semuanya jadi berapa?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778449"
+    },
+    {
+      "english": "Can you wrap it up?",
+      "indonesian": "Bisa dibungkusin?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778450"
+    },
+    {
+      "english": "That's a bit too much.",
+      "indonesian": "Itu agak kemahalan.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778452"
+    },
+    {
+      "english": "I'm looking for a gift.",
+      "indonesian": "Saya cari kado.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778454"
+    },
+    {
+      "english": "Where can I find it?",
+      "indonesian": "Tempatnya di mana?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778456"
+    },
+    {
+      "english": "Is this the original price?",
+      "indonesian": "Ini harga asli?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778458"
+    },
+    {
+      "english": "I'll buy two, please.",
+      "indonesian": "Saya beli dua, ya.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778460"
+    },
+    {
+      "english": "That's a great deal!",
+      "indonesian": "Untung banget, nih!",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778463"
+    },
+    {
+      "english": "Is this the final price, boss?",
+      "indonesian": "Harga pasnya segini, Bos?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778467"
+    },
+    {
+      "english": "Can I bargain a little bit?",
+      "indonesian": "Bisa nego dikit, nggak?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778469"
+    },
+    {
+      "english": "What's the best you can do?",
+      "indonesian": "Bisa kurang berapa lagi?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778471"
+    },
+    {
+      "english": "Do you have a newer model?",
+      "indonesian": "Ada model yang lebih baru?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778475"
+    },
+    {
+      "english": "Where did you get this from?",
+      "indonesian": "Ini dapat dari mana?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778477"
+    },
+    {
+      "english": "Is this authentic, by chance?",
+      "indonesian": "Ini asli bukan, ya?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778480"
+    },
+    {
+      "english": "Could you show me something else?",
+      "indonesian": "Tolong tunjukin yang lain dong.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778483"
+    },
+    {
+      "english": "Is this quality good, really?",
+      "indonesian": "Kualitasnya bagus, nggak sih?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778485"
+    },
+    {
+      "english": "What do you recommend for me?",
+      "indonesian": "Rekomendasinya apa buat saya?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778487"
+    },
+    {
+      "english": "Is there a warranty on this?",
+      "indonesian": "Ada garansinya nggak, barang ini?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778489"
+    },
+    {
+      "english": "Can I get a receipt for this?",
+      "indonesian": "Boleh minta kuitansinya?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778491"
+    },
+    {
+      "english": "Is this the latest version?",
+      "indonesian": "Ini versi paling baru, kan?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778493"
+    },
+    {
+      "english": "How much is it, total?",
+      "indonesian": "Jadi totalnya berapa?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778577"
+    },
+    {
+      "english": "Do you have this in red?",
+      "indonesian": "Ada yang warna merah nggak?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778579"
+    },
+    {
+      "english": "Is this the last piece?",
+      "indonesian": "Ini barang sisa terakhir?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778581"
+    },
+    {
+      "english": "Can I exchange it later?",
+      "indonesian": "Bisa tukar nanti?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778583"
+    },
+    {
+      "english": "What's the difference, really?",
+      "indonesian": "Bedanya apa sih, sebenernya?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778585"
+    },
+    {
+      "english": "Is this available in stock?",
+      "indonesian": "Ini stoknya masih ada?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778587"
+    },
+    {
+      "english": "What size do you recommend?",
+      "indonesian": "Ukuran yang pas apa ya?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778589"
+    },
+    {
+      "english": "Is this on clearance now?",
+      "indonesian": "Ini lagi obral, ya?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778591"
+    },
+    {
+      "english": "Can I see the other colour?",
+      "indonesian": "Bisa lihat warna lain?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778593"
+    },
+    {
+      "english": "Is this made locally?",
+      "indonesian": "Ini buatan lokal?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778595"
+    },
+    {
+      "english": "What's this made of?",
+      "indonesian": "Ini bahannya apa?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778596"
+    },
+    {
+      "english": "How long does this last?",
+      "indonesian": "Ini awet nggak?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778598"
+    },
+    {
+      "english": "Can I pay in installments?",
+      "indonesian": "Bisa cicil nggak?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778600"
+    },
+    {
+      "english": "Is this the new collection?",
+      "indonesian": "Ini koleksi terbaru?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778602"
+    },
+    {
+      "english": "Is this a good deal, truly?",
+      "indonesian": "Murah banget ini, asli?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778604"
+    },
+    {
+      "english": "What else is on sale?",
+      "indonesian": "Yang diskon apalagi?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778606"
+    },
+    {
+      "english": "Believe in your bargain hunt skills!",
+      "indonesian": "Percaya kemampuan cari diskonmu!",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778608"
+    },
+    {
+      "english": "Shopping is therapy, enjoy it!",
+      "indonesian": "Belanja itu terapi, nikmati saja!",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778610"
+    },
+    {
+      "english": "Every Rupiah spent, is a good decision.",
+      "indonesian": "Setiap Rupiah keluar, keputusan bagus.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778614"
+    },
+    {
+      "english": "Don't stress over prices, be smart.",
+      "indonesian": "Jangan pusing harga, pintar saja.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778617"
+    },
+    {
+      "english": "You deserve this treat, you earned it.",
+      "indonesian": "Kamu pantas memanjakan diri, kamu dapat itu.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778620"
+    },
+    {
+      "english": "Look for value, not just cheapness.",
+      "indonesian": "Cari nilai, bukan sekadar murah.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778622"
+    },
+    {
+      "english": "A good find, feels so rewarding.",
+      "indonesian": "Temuan bagus, rasanya memuaskan.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778624"
+    },
+    {
+      "english": "Keep your budget happy, shop wisely.",
+      "indonesian": "Jaga dompetmu senang, belanja cerdas.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778626"
+    },
+    {
+      "english": "This purchase, is an investment.",
+      "indonesian": "Pembelian ini, adalah investasi.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778635"
+    },
+    {
+      "english": "Your taste is excellent, great choice!",
+      "indonesian": "Seleramu bagus sekali, pilihan mantap!",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778638"
+    },
+    {
+      "english": "Think smart, spend smart, be happy.",
+      "indonesian": "Pikir cerdas, belanja cerdas, bahagia.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778640"
+    },
+    {
+      "english": "You found a treasure, congratulations!",
+      "indonesian": "Kamu dapat harta karun, selamat!",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778643"
+    },
+    {
+      "english": "Don't rush decisions, be sure.",
+      "indonesian": "Jangan terburu ambil keputusan, pastikan.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778645"
+    },
+    {
+      "english": "This price is fair, good value.",
+      "indonesian": "Harga ini wajar, sepadan.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778647"
+    },
+    {
+      "english": "Enjoy the thrill of the chase!",
+      "indonesian": "Nikmati serunya berburu barang!",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778649"
+    },
+    {
+      "english": "Your shopping intuition is strong.",
+      "indonesian": "Insting belanjamu kuat.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778651"
+    },
+    {
+      "english": "Celebrate small wins, like good prices.",
+      "indonesian": "Rayakan kemenangan kecil, seperti harga bagus.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778653"
+    },
+    {
+      "english": "Focus on quality, it lasts longer.",
+      "indonesian": "Fokus kualitas, itu tahan lama.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778655"
+    },
+    {
+      "english": "Smart shopping, means a happy wallet.",
+      "indonesian": "Belanja cerdas, berarti dompet bahagia.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778657"
+    },
+    {
+      "english": "This deal is a true steal!",
+      "indonesian": "Penawaran ini murah sekali!",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778658"
+    },
+    {
+      "english": "You have a great eye for bargains.",
+      "indonesian": "Matamu jeli melihat barang murah.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778660"
+    },
+    {
+      "english": "Trust your gut feeling, shop on!",
+      "indonesian": "Percaya firasatmu, terus belanja!",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778662"
+    },
+    {
+      "english": "Consider it a wise investment.",
+      "indonesian": "Anggap saja investasi bijak.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778664"
+    },
+    {
+      "english": "You're a savvy shopper, well done!",
+      "indonesian": "Kamu pembeli pintar, bagus!",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778666"
+    },
+    {
+      "english": "It's okay to splurge sometimes.",
+      "indonesian": "Boleh saja boros sesekali.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778669"
+    },
+    {
+      "english": "This bargain is worth celebrating.",
+      "indonesian": "Diskon ini pantas dirayakan.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778670"
+    },
+    {
+      "english": "Shopping with a smile, makes it better.",
+      "indonesian": "Belanja sambil tersenyum, lebih baik.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778672"
+    },
+    {
+      "english": "Every item has its own story.",
+      "indonesian": "Setiap barang punya cerita.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778674"
+    },
+    {
+      "english": "Be patient, the right price will come.",
+      "indonesian": "Sabar, harga pas pasti datang.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778680"
+    },
+    {
+      "english": "Good finds bring good moods.",
+      "indonesian": "Temuan bagus bikin mood bagus.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778682"
+    },
+    {
+      "english": "This feels right, for my budget.",
+      "indonesian": "Rasanya pas, untuk anggaran saya.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778684"
+    },
+    {
+      "english": "I need to think, about this one.",
+      "indonesian": "Saya perlu berpikir, soal yang ini.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778686"
+    },
+    {
+      "english": "It’s not just the price, but the feeling.",
+      "indonesian": "Bukan cuma harga, tapi rasanya.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778692"
+    },
+    {
+      "english": "Does this truly, spark joy for me?",
+      "indonesian": "Apakah ini benar-benar, membuat saya senang?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778695"
+    },
+    {
+      "english": "I’m being patient, for a better offer.",
+      "indonesian": "Saya sabar dulu, menunggu tawaran lebih baik.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778698"
+    },
+    {
+      "english": "This reminds me, of something special.",
+      "indonesian": "Ini mengingatkan saya, pada sesuatu yang istimewa.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778701"
+    },
+    {
+      "english": "Is this, a genuine need or want?",
+      "indonesian": "Ini kebutuhan asli atau keinginan?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778704"
+    },
+    {
+      "english": "I feel a connection, with this item.",
+      "indonesian": "Saya merasa terhubung, dengan barang ini.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778706"
+    },
+    {
+      "english": "Let’s see, if my intuition is right.",
+      "indonesian": "Mari kita lihat, apakah firasat saya benar.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778709"
+    },
+    {
+      "english": "Sometimes, impulse buys are the best.",
+      "indonesian": "Kadang, beli impulsif itu yang terbaik.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778712"
+    },
+    {
+      "english": "I’m reflecting, on my spending habits.",
+      "indonesian": "Saya merenungkan, kebiasaan belanja saya.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778716"
+    },
+    {
+      "english": "This price feels, emotionally right.",
+      "indonesian": "Harga ini terasa, pas di hati.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778718"
+    },
+    {
+      "english": "I’m not in a hurry, to decide.",
+      "indonesian": "Saya tidak buru-buru, untuk memutuskan.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778722"
+    },
+    {
+      "english": "This purchase, has a deeper meaning.",
+      "indonesian": "Pembelian ini, punya makna lebih dalam.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778724"
+    },
+    {
+      "english": "Am I being honest, with myself?",
+      "indonesian": "Apakah saya jujur, pada diri sendiri?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778726"
+    },
+    {
+      "english": "This feels like, a soul purchase.",
+      "indonesian": "Ini terasa seperti, pembelian jiwa.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778728"
+    },
+    {
+      "english": "Let my feelings guide, the decision.",
+      "indonesian": "Biarkan perasaan saya memandu, keputusannya.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778730"
+    },
+    {
+      "english": "Is this truly, worth the emotional price?",
+      "indonesian": "Apakah ini sungguh, sepadan dengan harga emosional?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778732"
+    },
+    {
+      "english": "I’m taking my time, to be sure.",
+      "indonesian": "Saya luangkan waktu, untuk memastikan.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778735"
+    },
+    {
+      "english": "This reflects, my current state of mind.",
+      "indonesian": "Ini mencerminkan, keadaan pikiran saya saat ini.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778737"
+    },
+    {
+      "english": "My heart says yes, to this.",
+      "indonesian": "Hati saya bilang ya, untuk ini.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778739"
+    },
+    {
+      "english": "I need to feel, a genuine connection.",
+      "indonesian": "Saya perlu merasakan, koneksi yang tulus.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778741"
+    },
+    {
+      "english": "Patience is key, for good deals.",
+      "indonesian": "Kesabaran adalah kunci, untuk dapat harga bagus.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778743"
+    },
+    {
+      "english": "This feels like, a meaningful splurge.",
+      "indonesian": "Ini terasa seperti, pengeluaran berarti.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778745"
+    },
+    {
+      "english": "I’m listening, to my inner voice.",
+      "indonesian": "Saya mendengarkan, suara hati saya.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778747"
+    },
+    {
+      "english": "This is more than just a purchase.",
+      "indonesian": "Ini lebih dari sekadar pembelian.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778751"
+    },
+    {
+      "english": "I feel good, about this choice.",
+      "indonesian": "Saya merasa senang, dengan pilihan ini.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778752"
+    },
+    {
+      "english": "Let’s explore, different emotional prices.",
+      "indonesian": "Mari kita jelajahi, harga emosional yang berbeda.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778755"
+    },
+    {
+      "english": "This feels, authentically me.",
+      "indonesian": "Ini terasa, sangat asli saya.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778757"
+    },
+    {
+      "english": "Is the emotional value, there?",
+      "indonesian": "Apakah nilai emosionalnya, ada?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778759"
+    },
+    {
+      "english": "Is there a cheaper option, perhaps?",
+      "indonesian": "Ada yang lebih murah, mungkin?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778761"
+    },
+    {
+      "english": "Where can I find good deals?",
+      "indonesian": "Tempat cari diskon di mana?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-19T08:22:11.778763"
     }
   ],
-  "last_updated": "2026-10-18T07:40:22.809492"
+  "last_updated": "2026-10-19T08:22:11.778764"
 }
