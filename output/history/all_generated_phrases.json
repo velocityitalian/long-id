@@ -2879,7 +2879,727 @@
       "indonesian": "Sabar saja, kalau salah.",
       "category": "Kindness",
       "generated_at": "2026-10-20T08:06:30.871632"
+    },
+    {
+      "english": "Help, please, I need help!",
+      "indonesian": "Tolong, saya butuh bantuan!",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.889818"
+    },
+    {
+      "english": "Is anyone there?, anybody?",
+      "indonesian": "Ada orang di sana?, siapa saja?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.889830"
+    },
+    {
+      "english": "I'm lost, can you help me?",
+      "indonesian": "Saya tersesat, bisa bantu?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.889836"
+    },
+    {
+      "english": "Where is the nearest hospital?",
+      "indonesian": "Di mana rumah sakit terdekat?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.889839"
+    },
+    {
+      "english": "I need a doctor, urgently.",
+      "indonesian": "Saya perlu dokter, segera.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.889842"
+    },
+    {
+      "english": "My friend is sick, very sick.",
+      "indonesian": "Teman saya sakit, parah.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.889845"
+    },
+    {
+      "english": "What happened?, what's wrong?",
+      "indonesian": "Ada apa?, kenapa?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.889848"
+    },
+    {
+      "english": "Call an ambulance, quickly!",
+      "indonesian": "Panggil ambulans, cepat!",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.889853"
+    },
+    {
+      "english": "I feel dizzy, unwell.",
+      "indonesian": "Saya pusing, tidak enak badan.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.889857"
+    },
+    {
+      "english": "It hurts here, right here.",
+      "indonesian": "Sakit di sini, di sini.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.889860"
+    },
+    {
+      "english": "I have an allergy, to nuts.",
+      "indonesian": "Saya alergi, terhadap kacang.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.889863"
+    },
+    {
+      "english": "Do you have any medicine?",
+      "indonesian": "Apakah ada obat?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.889865"
+    },
+    {
+      "english": "I need first aid, please.",
+      "indonesian": "Saya perlu P3K, tolong.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.889868"
+    },
+    {
+      "english": "My stomach hurts, a lot.",
+      "indonesian": "Perut saya sakit, sekali.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.889870"
+    },
+    {
+      "english": "I can't breathe, help me!",
+      "indonesian": "Saya tidak bisa bernapas, tolong!",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.889955"
+    },
+    {
+      "english": "Is this an emergency?",
+      "indonesian": "Ini darurat?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.889958"
+    },
+    {
+      "english": "I need to lie down.",
+      "indonesian": "Saya perlu berbaring.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.889961"
+    },
+    {
+      "english": "Don't move, stay still.",
+      "indonesian": "Jangan bergerak, diam saja.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.889964"
+    },
+    {
+      "english": "I need water, some water.",
+      "indonesian": "Saya butuh air, sedikit air.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.889967"
+    },
+    {
+      "english": "Are you okay?, are you alright?",
+      "indonesian": "Kamu baik-baik saja?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.889970"
+    },
+    {
+      "english": "I feel weak, very weak.",
+      "indonesian": "Saya merasa lemas, sekali.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.889975"
+    },
+    {
+      "english": "I have a fever, I'm hot.",
+      "indonesian": "Saya demam, badan saya panas.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.889978"
+    },
+    {
+      "english": "I need to rest, a lot.",
+      "indonesian": "Saya perlu istirahat, banyak.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.889980"
+    },
+    {
+      "english": "I think I broke my arm.",
+      "indonesian": "Saya rasa lengan saya patah.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.889983"
+    },
+    {
+      "english": "What is this symptom?",
+      "indonesian": "Apa gejala ini?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.889985"
+    },
+    {
+      "english": "Can you show me?, please?",
+      "indonesian": "Bisa tunjukkan?, tolong?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.889988"
+    },
+    {
+      "english": "I need to see a specialist.",
+      "indonesian": "Saya perlu lihat spesialis.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.889990"
+    },
+    {
+      "english": "It's an accident, a bad one.",
+      "indonesian": "Ini kecelakaan, parah.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.889995"
+    },
+    {
+      "english": "Please stay calm, breathe deeply.",
+      "indonesian": "Tolong tenang, tarik napas dalam.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890000"
+    },
+    {
+      "english": "What is this feeling, exactly?",
+      "indonesian": "Apa rasa ini, persisnya?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890003"
+    },
+    {
+      "english": "Is something bothering you, dear?",
+      "indonesian": "Ada yang mengganggu dirimu, sayang?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890006"
+    },
+    {
+      "english": "Should I see someone, maybe?",
+      "indonesian": "Haruskah saya menemui seseorang, mungkin?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890008"
+    },
+    {
+      "english": "How do you feel, right now?",
+      "indonesian": "Bagaimana perasaanmu, saat ini?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890011"
+    },
+    {
+      "english": "Can you describe that, clearly?",
+      "indonesian": "Bisa jelaskan itu, dengan jelas?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890014"
+    },
+    {
+      "english": "Do you need anything, else?",
+      "indonesian": "Apakah Anda perlu sesuatu, lagi?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890017"
+    },
+    {
+      "english": "What should I do, about this?",
+      "indonesian": "Apa yang harus saya lakukan, mengenai ini?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890020"
+    },
+    {
+      "english": "Did this happen, before?",
+      "indonesian": "Apakah ini terjadi, sebelumnya?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890022"
+    },
+    {
+      "english": "Is this serious, do you think?",
+      "indonesian": "Apakah ini serius, menurutmu?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890025"
+    },
+    {
+      "english": "Can you recommend someone, good?",
+      "indonesian": "Bisa rekomendasikan seseorang, yang baik?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890028"
+    },
+    {
+      "english": "What's the best course, of action?",
+      "indonesian": "Apa tindakan terbaik, yang bisa diambil?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890031"
+    },
+    {
+      "english": "Are you sure, about that?",
+      "indonesian": "Apakah Anda yakin, soal itu?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890034"
+    },
+    {
+      "english": "Can I trust your advice, really?",
+      "indonesian": "Bolehkah saya percaya saranmu, sungguh?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890038"
+    },
+    {
+      "english": "What is your diagnosis, doctor?",
+      "indonesian": "Apa diagnosis Anda, dok?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890041"
+    },
+    {
+      "english": "Should I take this, medicine?",
+      "indonesian": "Haruskah saya minum obat ini?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890044"
+    },
+    {
+      "english": "How often, should I take it?",
+      "indonesian": "Berapa sering, saya harus meminumnya?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890047"
+    },
+    {
+      "english": "Where can I get this, treatment?",
+      "indonesian": "Di mana saya bisa mendapatkan, pengobatan ini?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890050"
+    },
+    {
+      "english": "Can you explain this, further?",
+      "indonesian": "Bisa jelaskan ini, lebih lanjut?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890052"
+    },
+    {
+      "english": "Is there a simpler way, perhaps?",
+      "indonesian": "Apakah ada cara yang lebih mudah, mungkin?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890055"
+    },
+    {
+      "english": "Can we talk, for a moment?",
+      "indonesian": "Bisa kita bicara, sebentar?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890057"
+    },
+    {
+      "english": "Are you feeling better, now?",
+      "indonesian": "Apakah kamu merasa lebih baik, sekarang?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890060"
+    },
+    {
+      "english": "Can you understand me, clearly?",
+      "indonesian": "Apakah Anda mengerti saya, dengan jelas?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890063"
+    },
+    {
+      "english": "What if this gets worse?",
+      "indonesian": "Bagaimana jika ini memburuk?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890065"
+    },
+    {
+      "english": "Should I wait, or go now?",
+      "indonesian": "Haruskah saya menunggu, atau pergi sekarang?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890070"
+    },
+    {
+      "english": "Can you show me, the way?",
+      "indonesian": "Bisa tunjukkan saya, jalannya?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890075"
+    },
+    {
+      "english": "Is there a quick fix, for this?",
+      "indonesian": "Apakah ada solusi cepat, untuk ini?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890077"
+    },
+    {
+      "english": "You've got this, believe in yourself.",
+      "indonesian": "Kamu pasti bisa, percaya dirimu.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890081"
+    },
+    {
+      "english": "Keep going, don't give up now.",
+      "indonesian": "Terus maju, jangan menyerah sekarang.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890083"
+    },
+    {
+      "english": "This is temporary, it will pass.",
+      "indonesian": "Ini sementara, akan berlalu.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890086"
+    },
+    {
+      "english": "You are stronger than you think.",
+      "indonesian": "Kamu lebih kuat dari dugaanmu.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890089"
+    },
+    {
+      "english": "Every step counts, towards healing.",
+      "indonesian": "Setiap langkah berarti, menuju kesembuhan.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890092"
+    },
+    {
+      "english": "Positive thoughts, bring positive results.",
+      "indonesian": "Pikiran positif, mendatangkan hasil positif.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890094"
+    },
+    {
+      "english": "Take it one day, at a time.",
+      "indonesian": "Jalani satu hari, demi satu hari.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890097"
+    },
+    {
+      "english": "You're doing great, really well done.",
+      "indonesian": "Kamu hebat sekali, kerja bagus.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890100"
+    },
+    {
+      "english": "Focus on recovery, your well-being.",
+      "indonesian": "Fokus pada pemulihan, kesehatanmu.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890103"
+    },
+    {
+      "english": "Small progress, is still progress.",
+      "indonesian": "Kemajuan kecil, tetaplah kemajuan.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890106"
+    },
+    {
+      "english": "Believe in the process, it works.",
+      "indonesian": "Percaya pada prosesnya, itu berhasil.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890109"
+    },
+    {
+      "english": "You are resilient, you can bounce back.",
+      "indonesian": "Kamu tangguh, kamu bisa bangkit kembali.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890111"
+    },
+    {
+      "english": "Your courage is inspiring, truly.",
+      "indonesian": "Keberanianmu menginspirasi, sungguh.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890114"
+    },
+    {
+      "english": "This challenge, will make you stronger.",
+      "indonesian": "Tantangan ini, akan membuatmu lebih kuat.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890117"
+    },
+    {
+      "english": "Let go of worry, embrace hope.",
+      "indonesian": "Lepaskan kekhawatiran, sambut harapan.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890119"
+    },
+    {
+      "english": "You are healing, day by day.",
+      "indonesian": "Kamu sedang pulih, hari demi hari.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890122"
+    },
+    {
+      "english": "Take deep breaths, you are safe.",
+      "indonesian": "Tarik napas dalam, kamu aman.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890125"
+    },
+    {
+      "english": "You're not alone, we support you.",
+      "indonesian": "Kamu tidak sendirian, kami mendukungmu.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890128"
+    },
+    {
+      "english": "Listen to your body's needs.",
+      "indonesian": "Dengarkan kebutuhan tubuhmu.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890130"
+    },
+    {
+      "english": "Patience is key, in recovery.",
+      "indonesian": "Kesabaran adalah kunci, dalam pemulihan.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890133"
+    },
+    {
+      "english": "Rest is productive, for your health.",
+      "indonesian": "Istirahat itu produktif, untuk kesehatanmu.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890136"
+    },
+    {
+      "english": "You are capable, of overcoming this.",
+      "indonesian": "Kamu mampu, untuk mengatasi ini.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890138"
+    },
+    {
+      "english": "Sending you strength, and good vibes.",
+      "indonesian": "Mengirimimu kekuatan, dan energi positif.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890141"
+    },
+    {
+      "english": "Every little bit, helps you heal.",
+      "indonesian": "Sedikit demi sedikit, membantumu sembuh.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890144"
+    },
+    {
+      "english": "You are doing your best, that's enough.",
+      "indonesian": "Kamu sudah berusaha terbaik, itu cukup.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890147"
+    },
+    {
+      "english": "Stay positive, through the tough times.",
+      "indonesian": "Tetap positif, melewati masa sulit.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890149"
+    },
+    {
+      "english": "Your determination, is admirable.",
+      "indonesian": "Determinasi kamu, patut dikagumi.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890152"
+    },
+    {
+      "english": "Trust your instincts, they guide you.",
+      "indonesian": "Percayai instingmu, itu menuntunmu.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890155"
+    },
+    {
+      "english": "We believe in your recovery.",
+      "indonesian": "Kami percaya pada kesembuhanmu.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890157"
+    },
+    {
+      "english": "You are brave, facing this challenge.",
+      "indonesian": "Kamu berani, menghadapi tantangan ini.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890162"
+    },
+    {
+      "english": "I need time, to process this.",
+      "indonesian": "Saya perlu waktu, untuk memproses ini.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890165"
+    },
+    {
+      "english": "My feelings are a bit mixed.",
+      "indonesian": "Perasaan saya agak campur aduk.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890169"
+    },
+    {
+      "english": "Let's reflect, on what happened.",
+      "indonesian": "Mari kita renungkan, apa yang terjadi.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890172"
+    },
+    {
+      "english": "Honesty is important, right now.",
+      "indonesian": "Kejujuran itu penting, saat ini.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890174"
+    },
+    {
+      "english": "This situation, made me think deeply.",
+      "indonesian": "Situasi ini, membuat saya berpikir dalam.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890177"
+    },
+    {
+      "english": "I'm trying, to be more open.",
+      "indonesian": "Saya mencoba, untuk lebih terbuka.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890179"
+    },
+    {
+      "english": "It's okay, to not be okay.",
+      "indonesian": "Tidak apa-apa, jika tidak baik-baik saja.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890184"
+    },
+    {
+      "english": "What do you truly, think about it?",
+      "indonesian": "Apa yang sebenarnya, Anda pikirkan tentang itu?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890187"
+    },
+    {
+      "english": "I feel vulnerable, and that's alright.",
+      "indonesian": "Saya merasa rentan, dan itu tidak apa-apa.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890190"
+    },
+    {
+      "english": "We need patience, with this recovery.",
+      "indonesian": "Kita butuh kesabaran, dengan pemulihan ini.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890193"
+    },
+    {
+      "english": "My worries, are starting to fade.",
+      "indonesian": "Kekhawatiran saya, mulai memudar.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890195"
+    },
+    {
+      "english": "I'm thinking, about future steps.",
+      "indonesian": "Saya sedang memikirkan, langkah selanjutnya.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890198"
+    },
+    {
+      "english": "This experience, taught me a lot.",
+      "indonesian": "Pengalaman ini, mengajarkan saya banyak hal.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890201"
+    },
+    {
+      "english": "Let's share our honest thoughts.",
+      "indonesian": "Mari kita berbagi pemikiran jujur kita.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890203"
+    },
+    {
+      "english": "I need some quiet, time to heal.",
+      "indonesian": "Saya perlu waktu tenang, untuk menyembuh.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890206"
+    },
+    {
+      "english": "My perspective, has shifted greatly.",
+      "indonesian": "Perspektif saya, telah banyak berubah.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890208"
+    },
+    {
+      "english": "Are you comfortable, sharing your feelings?",
+      "indonesian": "Apakah Anda nyaman, berbagi perasaan?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890211"
+    },
+    {
+      "english": "This requires, deep consideration.",
+      "indonesian": "Ini memerlukan, pertimbangan mendalam.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890214"
+    },
+    {
+      "english": "What are your inner thoughts?",
+      "indonesian": "Apa pikiran batin Anda?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890216"
+    },
+    {
+      "english": "Acceptance is part, of the process.",
+      "indonesian": "Penerimaan adalah bagian, dari prosesnya.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890219"
+    },
+    {
+      "english": "I’m focusing, on emotional strength.",
+      "indonesian": "Saya fokus, pada kekuatan emosional.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890223"
+    },
+    {
+      "english": "This feels important, to discuss.",
+      "indonesian": "Ini terasa penting, untuk dibahas.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890225"
+    },
+    {
+      "english": "Can we speak, with sincerity?",
+      "indonesian": "Bisakah kita bicara, dengan tulus?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890228"
+    },
+    {
+      "english": "My mindset, is shifting slowly.",
+      "indonesian": "Pola pikir saya, berubah perlahan.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890230"
+    },
+    {
+      "english": "I need reassurance, that it's okay.",
+      "indonesian": "Saya butuh kepastian, bahwa ini baik-baik saja.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890236"
+    },
+    {
+      "english": "How are you feeling, internally?",
+      "indonesian": "Bagaimana perasaan Anda, secara internal?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890238"
+    },
+    {
+      "english": "This journey, requires inner peace.",
+      "indonesian": "Perjalanan ini, membutuhkan kedamaian batin.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890241"
+    },
+    {
+      "english": "I'm allowing myself, to feel.",
+      "indonesian": "Saya membiarkan diri saya, merasakan.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890244"
+    },
+    {
+      "english": "True healing, involves the heart.",
+      "indonesian": "Penyembuhan sejati, melibatkan hati.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890247"
+    },
+    {
+      "english": "I need a doctor, please.",
+      "indonesian": "Saya perlu dokter, tolong.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890250"
+    },
+    {
+      "english": "Call for an ambulance, fast!",
+      "indonesian": "Panggil ambulans, cepat!",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890253"
+    },
+    {
+      "english": "My head really hurts.",
+      "indonesian": "Kepala saya sakit sekali.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890257"
+    },
+    {
+      "english": "I feel dizzy, suddenly.",
+      "indonesian": "Saya pusing, tiba-tiba.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890260"
+    },
+    {
+      "english": "Take this medicine, twice daily.",
+      "indonesian": "Minum obat ini, dua kali sehari.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890264"
+    },
+    {
+      "english": "What are the symptoms, please?",
+      "indonesian": "Apa saja gejalanya, tolong?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-21T08:12:19.890267"
     }
   ],
-  "last_updated": "2026-10-20T08:06:30.871634"
+  "last_updated": "2026-10-21T08:12:19.890269"
 }
