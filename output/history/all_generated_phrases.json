@@ -5759,7 +5759,727 @@
       "indonesian": "Tanya arah, kalau tersesat.",
       "category": "Success",
       "generated_at": "2026-10-24T07:49:23.125989"
+    },
+    {
+      "english": "Just a moment, please.",
+      "indonesian": "Sebentar ya, tunggu sebentar.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332103"
+    },
+    {
+      "english": "Hold on a sec.",
+      "indonesian": "Tunggu sebentar, dong.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332111"
+    },
+    {
+      "english": "Give me a little time.",
+      "indonesian": "Kasih aku waktu sedikit.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332113"
+    },
+    {
+      "english": "Don't rush me, okay?",
+      "indonesian": "Jangan buru-buru, ya?",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332115"
+    },
+    {
+      "english": "I need a minute.",
+      "indonesian": "Aku perlu satu menit.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332116"
+    },
+    {
+      "english": "Let me finish first.",
+      "indonesian": "Biar aku selesaikan dulu.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332117"
+    },
+    {
+      "english": "It takes time, you know.",
+      "indonesian": "Itu butuh waktu, tahu.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332119"
+    },
+    {
+      "english": "We have to wait.",
+      "indonesian": "Kita harus menunggu.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332122"
+    },
+    {
+      "english": "Just chill for a bit.",
+      "indonesian": "Santai dulu aja.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332124"
+    },
+    {
+      "english": "It's not ready yet.",
+      "indonesian": "Belum siap, nih.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332127"
+    },
+    {
+      "english": "Let's be patient.",
+      "indonesian": "Ayo sabar.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332129"
+    },
+    {
+      "english": "Slow and steady wins.",
+      "indonesian": "Pelan tapi pasti.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332130"
+    },
+    {
+      "english": "I'm trying my best.",
+      "indonesian": "Aku berusaha kok.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332132"
+    },
+    {
+      "english": "Can you wait a little?",
+      "indonesian": "Bisa tunggu sebentar?",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332133"
+    },
+    {
+      "english": "Patience, young grasshopper.",
+      "indonesian": "Sabar, anak muda.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332135"
+    },
+    {
+      "english": "This will take a while.",
+      "indonesian": "Ini akan lama.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332136"
+    },
+    {
+      "english": "Almost there, hang in.",
+      "indonesian": "Hampir sampai, tahan.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332138"
+    },
+    {
+      "english": "Don't give up yet.",
+      "indonesian": "Jangan menyerah dulu.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332139"
+    },
+    {
+      "english": "It's a process, you see.",
+      "indonesian": "Ini proses, kan.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332142"
+    },
+    {
+      "english": "Let's take a deep breath.",
+      "indonesian": "Tarik napas dalam-dalam.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332143"
+    },
+    {
+      "english": "Soon it will be done.",
+      "indonesian": "Sebentar lagi jadi.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332146"
+    },
+    {
+      "english": "Just bear with me.",
+      "indonesian": "Sabar sedikit ya.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332147"
+    },
+    {
+      "english": "Give it some breathing room.",
+      "indonesian": "Beri ruang sedikit.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332148"
+    },
+    {
+      "english": "I need to think.",
+      "indonesian": "Aku perlu mikir.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332150"
+    },
+    {
+      "english": "Can you be patient?",
+      "indonesian": "Bisa sabar nggak?",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332151"
+    },
+    {
+      "english": "We're almost there.",
+      "indonesian": "Sudah mau jadi.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332152"
+    },
+    {
+      "english": "It's worth the wait.",
+      "indonesian": "Pantas ditunggu.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332154"
+    },
+    {
+      "english": "How long will this take, roughly?",
+      "indonesian": "Kira-kira berapa lama ini?",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332155"
+    },
+    {
+      "english": "Is there a quicker way, perhaps?",
+      "indonesian": "Ada cara lebih cepat, mungkin?",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332157"
+    },
+    {
+      "english": "What's the next step, after this?",
+      "indonesian": "Apa langkah selanjutnya, setelah ini?",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332159"
+    },
+    {
+      "english": "Should I prepare anything else?",
+      "indonesian": "Ada lagi yang perlu saya siapkan?",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332161"
+    },
+    {
+      "english": "Can you explain the delay, please?",
+      "indonesian": "Bisa jelaskan keterlambatannya?",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332163"
+    },
+    {
+      "english": "Is there a workaround for now?",
+      "indonesian": "Ada solusi sementara?",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332165"
+    },
+    {
+      "english": "How do you handle such waiting?",
+      "indonesian": "Bagaimana Anda menghadapi menunggu?",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332166"
+    },
+    {
+      "english": "Any tips for staying calm?",
+      "indonesian": "Ada tips agar tetap tenang?",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332168"
+    },
+    {
+      "english": "What's causing this holdup?",
+      "indonesian": "Apa penyebab penundaan ini?",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332169"
+    },
+    {
+      "english": "Can I check on the progress?",
+      "indonesian": "Boleh saya cek perkembangannya?",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332171"
+    },
+    {
+      "english": "Is there an estimated time?",
+      "indonesian": "Ada perkiraan waktunya?",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332172"
+    },
+    {
+      "english": "When can I expect an update?",
+      "indonesian": "Kapan saya bisa dapat kabar?",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332174"
+    },
+    {
+      "english": "What should I do while waiting?",
+      "indonesian": "Apa yang harus saya lakukan selagi menunggu?",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332175"
+    },
+    {
+      "english": "Is this standard procedure?",
+      "indonesian": "Ini prosedur biasa?",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332177"
+    },
+    {
+      "english": "Could you speed this up a bit?",
+      "indonesian": "Bisa dipercepat sedikit?",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332178"
+    },
+    {
+      "english": "How much longer do we need?",
+      "indonesian": "Berapa lama lagi yang kita butuhkan?",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332179"
+    },
+    {
+      "english": "What's the holdup, exactly?",
+      "indonesian": "Apa kendalanya, tepatnya?",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332181"
+    },
+    {
+      "english": "Any alternative solutions available?",
+      "indonesian": "Ada solusi alternatif?",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332182"
+    },
+    {
+      "english": "Is this going according to plan?",
+      "indonesian": "Apakah ini sesuai rencana?",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332184"
+    },
+    {
+      "english": "What's the current status?",
+      "indonesian": "Bagaimana statusnya sekarang?",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332187"
+    },
+    {
+      "english": "Can you give me an estimate?",
+      "indonesian": "Bisa beri perkiraan?",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332188"
+    },
+    {
+      "english": "What are the odds of success?",
+      "indonesian": "Bagaimana peluang berhasilnya?",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332189"
+    },
+    {
+      "english": "Is there anything I missed?",
+      "indonesian": "Ada yang terlewat oleh saya?",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332191"
+    },
+    {
+      "english": "How do we proceed from here?",
+      "indonesian": "Bagaimana kita lanjut dari sini?",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332192"
+    },
+    {
+      "english": "Is the problem being addressed?",
+      "indonesian": "Masalahnya sedang ditangani?",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332193"
+    },
+    {
+      "english": "What's the expected resolution time?",
+      "indonesian": "Berapa lama masalah selesai?",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332196"
+    },
+    {
+      "english": "Can we get a status update?",
+      "indonesian": "Bisa minta kabar terbaru?",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332197"
+    },
+    {
+      "english": "Is this the best possible outcome?",
+      "indonesian": "Ini hasil terbaik?",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332199"
+    },
+    {
+      "english": "What are the next actions planned?",
+      "indonesian": "Apa langkah selanjutnya?",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332200"
+    },
+    {
+      "english": "Your effort, it shows.",
+      "indonesian": "Usahamu, terlihat kok.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332201"
+    },
+    {
+      "english": "This progress, is amazing.",
+      "indonesian": "Kemajuan ini, luar biasa.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332203"
+    },
+    {
+      "english": "Stay positive, my friend.",
+      "indonesian": "Tetap semangat, kawan.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332205"
+    },
+    {
+      "english": "Good job, keep learning.",
+      "indonesian": "Kerja bagus, terus belajar.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332207"
+    },
+    {
+      "english": "Almost there, don't quit.",
+      "indonesian": "Sedikit lagi, jangan menyerah.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332208"
+    },
+    {
+      "english": "You're handling it well.",
+      "indonesian": "Kamu menanganinya dengan baik.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332210"
+    },
+    {
+      "english": "Patience, it's a virtue.",
+      "indonesian": "Sabar, itu sifat terpuji.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332212"
+    },
+    {
+      "english": "Focus on the goal.",
+      "indonesian": "Fokus pada tujuanmu.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332213"
+    },
+    {
+      "english": "Slowly but surely.",
+      "indonesian": "Perlahan tapi pasti.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332214"
+    },
+    {
+      "english": "It will pay off.",
+      "indonesian": "Akan terbayar nanti.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332216"
+    },
+    {
+      "english": "You're growing stronger.",
+      "indonesian": "Kamu semakin kuat.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332217"
+    },
+    {
+      "english": "Keep up the good work.",
+      "indonesian": "Terus pertahankan kerja bagus.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332218"
+    },
+    {
+      "english": "You're doing so well.",
+      "indonesian": "Kamu melakukannya dengan baik.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332221"
+    },
+    {
+      "english": "Just breathe, it's okay.",
+      "indonesian": "Tarik napas saja, tidak apa.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332222"
+    },
+    {
+      "english": "Have faith in the process.",
+      "indonesian": "Percaya pada prosesnya.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332224"
+    },
+    {
+      "english": "Don't rush, be steady.",
+      "indonesian": "Jangan terburu, tetap stabil.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332225"
+    },
+    {
+      "english": "This requires patience.",
+      "indonesian": "Ini butuh kesabaran.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332228"
+    },
+    {
+      "english": "You're nearly there.",
+      "indonesian": "Kamu hampir sampai.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332229"
+    },
+    {
+      "english": "Your resilience, shines through.",
+      "indonesian": "Ketangguhanmu, terlihat jelas.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332231"
+    },
+    {
+      "english": "Keep that positive vibe.",
+      "indonesian": "Pertahankan energi positif itu.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332232"
+    },
+    {
+      "english": "Good things take time.",
+      "indonesian": "Hal baik butuh waktu.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332234"
+    },
+    {
+      "english": "Trust the journey.",
+      "indonesian": "Percayalah pada perjalanan ini.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332235"
+    },
+    {
+      "english": "Your patience is noticed.",
+      "indonesian": "Kesabaranmu, diperhatikan.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332236"
+    },
+    {
+      "english": "You're doing excellent work.",
+      "indonesian": "Kamu mengerjakan tugas dengan sangat baik.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332238"
+    },
+    {
+      "english": "Stay focused, you'll succeed.",
+      "indonesian": "Tetap fokus, kamu akan berhasil.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332239"
+    },
+    {
+      "english": "Slowly, but surely, we'll get there.",
+      "indonesian": "Perlahan, tapi pasti, kita akan sampai.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332241"
+    },
+    {
+      "english": "This calmness, feels so good.",
+      "indonesian": "Ketenangan ini, terasa sangat baik.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332242"
+    },
+    {
+      "english": "Deep breaths, will help us.",
+      "indonesian": "Tarik napas dalam, itu akan membantu.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332245"
+    },
+    {
+      "english": "This waiting game, is tough.",
+      "indonesian": "Permainan menunggu ini, sungguh sulit.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332246"
+    },
+    {
+      "english": "Your understanding, means a lot.",
+      "indonesian": "Pengertianmu, sangat berarti bagiku.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332248"
+    },
+    {
+      "english": "Let's not rush, this moment.",
+      "indonesian": "Jangan terburu-buru, nikmati saat ini.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332249"
+    },
+    {
+      "english": "I feel calm, with you here.",
+      "indonesian": "Aku merasa tenang, denganmu di sini.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332251"
+    },
+    {
+      "english": "This requires, a steady hand.",
+      "indonesian": "Ini butuh, tangan yang stabil.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332252"
+    },
+    {
+      "english": "Trust the timing, it's unfolding.",
+      "indonesian": "Percayalah pada waktunya, sedang terungkap.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332254"
+    },
+    {
+      "english": "My patience, is tested now.",
+      "indonesian": "Kesabaranku, sedang diuji sekarang.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332255"
+    },
+    {
+      "english": "We just need, a little more time.",
+      "indonesian": "Kita hanya perlu, sedikit waktu lagi.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332257"
+    },
+    {
+      "english": "This calm feeling, is beautiful.",
+      "indonesian": "Perasaan tenang ini, sungguh indah.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332258"
+    },
+    {
+      "english": "I'm trying, to be patient.",
+      "indonesian": "Aku berusaha, untuk sabar.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332259"
+    },
+    {
+      "english": "Everything unfolds, at its own pace.",
+      "indonesian": "Semua terungkap, dengan kecepatannya sendiri.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332261"
+    },
+    {
+      "english": "Your patience, is inspiring me.",
+      "indonesian": "Kesabaranmu, menginspirasiku.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332262"
+    },
+    {
+      "english": "Let's embrace, this waiting period.",
+      "indonesian": "Mari kita nikmati, masa menunggu ini.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332264"
+    },
+    {
+      "english": "I feel serene, right now.",
+      "indonesian": "Aku merasa damai, saat ini.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332265"
+    },
+    {
+      "english": "This requires, much inner strength.",
+      "indonesian": "Ini butuh, banyak kekuatan batin.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332267"
+    },
+    {
+      "english": "We must be, more understanding.",
+      "indonesian": "Kita harus lebih, saling mengerti.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332268"
+    },
+    {
+      "english": "This waiting, feels peaceful now.",
+      "indonesian": "Penantian ini, terasa damai sekarang.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332271"
+    },
+    {
+      "english": "I'm finding, my inner peace.",
+      "indonesian": "Aku menemukan, kedamaian batinku.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332272"
+    },
+    {
+      "english": "Don't worry, it will happen.",
+      "indonesian": "Jangan khawatir, ini akan terjadi.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332274"
+    },
+    {
+      "english": "Your patience, is truly admirable.",
+      "indonesian": "Kesabaranmu, sungguh mengagumkan.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332275"
+    },
+    {
+      "english": "We are progressing, step by step.",
+      "indonesian": "Kita berkembang, selangkah demi selangkah.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332276"
+    },
+    {
+      "english": "This requires, gentle perseverance.",
+      "indonesian": "Ini butuh, kegigihan yang lembut.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332278"
+    },
+    {
+      "english": "I appreciate, your calm demeanor.",
+      "indonesian": "Aku menghargai, ketenanganmu.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332279"
+    },
+    {
+      "english": "Let's wait, with hopeful hearts.",
+      "indonesian": "Mari menunggu, dengan hati penuh harap.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332281"
+    },
+    {
+      "english": "This is a test, of endurance.",
+      "indonesian": "Ini adalah ujian, ketahanan.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332282"
+    },
+    {
+      "english": "I'm enjoying, this peaceful moment.",
+      "indonesian": "Aku menikmati, momen damai ini.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332284"
+    },
+    {
+      "english": "Let's take it one step, at a time.",
+      "indonesian": "Kita jalani satu langkah, demi satu langkah.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332285"
+    },
+    {
+      "english": "Be patient, with the slow progress.",
+      "indonesian": "Sabar ya, dengan kemajuan yang lambat.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332287"
+    },
+    {
+      "english": "Just keep trying, don't give up.",
+      "indonesian": "Terus coba saja, jangan menyerah.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332288"
+    },
+    {
+      "english": "This needs careful planning, and time.",
+      "indonesian": "Ini butuh perencanaan matang, dan waktu.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332289"
+    },
+    {
+      "english": "We will manage, when the time is right.",
+      "indonesian": "Kita akan beres, kalau waktunya pas.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332291"
+    },
+    {
+      "english": "Don't stress, just let it flow.",
+      "indonesian": "Jangan pusing, biarkan saja mengalir.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332294"
+    },
+    {
+      "english": "Wait a bit longer, it's almost done.",
+      "indonesian": "Tunggu sebentar lagi, hampir selesai kok.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332295"
+    },
+    {
+      "english": "Hurry up, but be careful.",
+      "indonesian": "Cepetan, tapi hati-hati ya.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332297"
+    },
+    {
+      "english": "Let's have some faith, it will work out.",
+      "indonesian": "Ayo kita percaya, nanti berhasil.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332298"
+    },
+    {
+      "english": "Relax, no need to be anxious.",
+      "indonesian": "Santai saja, tidak usah cemas.",
+      "category": "Patience",
+      "generated_at": "2026-10-25T08:00:42.332300"
     }
   ],
-  "last_updated": "2026-10-24T07:49:23.125991"
+  "last_updated": "2026-10-25T08:00:42.332301"
 }
