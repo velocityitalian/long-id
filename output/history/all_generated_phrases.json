@@ -6479,7 +6479,727 @@
       "indonesian": "Santai saja, tidak usah cemas.",
       "category": "Patience",
       "generated_at": "2026-10-25T08:00:42.332300"
+    },
+    {
+      "english": "Your dreams are valid.",
+      "indonesian": "Mimpimu itu berharga.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.711941"
+    },
+    {
+      "english": "Start today, not tomorrow.",
+      "indonesian": "Mulai hari ini, bukan nanti.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.711954"
+    },
+    {
+      "english": "Find your passion, live it.",
+      "indonesian": "Temukan passionmu, jalani.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.711958"
+    },
+    {
+      "english": "Be brave, take risks.",
+      "indonesian": "Beranilah, ambil risiko.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.711961"
+    },
+    {
+      "english": "Create your own path.",
+      "indonesian": "Ciptakan jalanmu sendiri.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.711964"
+    },
+    {
+      "english": "Never stop learning, always.",
+      "indonesian": "Jangan berhenti belajar, terus.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.711967"
+    },
+    {
+      "english": "Your effort matters greatly.",
+      "indonesian": "Usahamu sangat berarti.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.711969"
+    },
+    {
+      "english": "Think positive, act bold.",
+      "indonesian": "Pikir positif, bertindak berani.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.711975"
+    },
+    {
+      "english": "Make each moment count.",
+      "indonesian": "Jadikan setiap momen berarti.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.711979"
+    },
+    {
+      "english": "The future is yours.",
+      "indonesian": "Masa depan adalah milikmu.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.711982"
+    },
+    {
+      "english": "Stay focused on goals.",
+      "indonesian": "Tetap fokus pada tujuan.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.711984"
+    },
+    {
+      "english": "Believe in your power.",
+      "indonesian": "Percayalah pada kekuatanmu.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.711987"
+    },
+    {
+      "english": "Chase your biggest dreams.",
+      "indonesian": "Kejar mimpi terbesarmu.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.711989"
+    },
+    {
+      "english": "Let your light shine.",
+      "indonesian": "Biarkan cahayamu bersinar.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.711992"
+    },
+    {
+      "english": "Inspire others with action.",
+      "indonesian": "Inspirasi orang lain dengan tindakan.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.711994"
+    },
+    {
+      "english": "Never underestimate yourself.",
+      "indonesian": "Jangan pernah meremehkan diri sendiri.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.711997"
+    },
+    {
+      "english": "Great things ahead, surely.",
+      "indonesian": "Hal hebat di depan, pasti.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712002"
+    },
+    {
+      "english": "Be the change you want.",
+      "indonesian": "Jadilah perubahan yang kau inginkan.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712004"
+    },
+    {
+      "english": "Rise above the doubts.",
+      "indonesian": "Bangkit di atas keraguan.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712007"
+    },
+    {
+      "english": "Dare to be different.",
+      "indonesian": "Beranilah berbeda.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712009"
+    },
+    {
+      "english": "Keep your spirit high.",
+      "indonesian": "Jaga semangatmu tetap tinggi.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712011"
+    },
+    {
+      "english": "What inspires you most, truly?",
+      "indonesian": "Apa yang paling menginspirasimu, sungguh?",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712016"
+    },
+    {
+      "english": "How do you find motivation daily?",
+      "indonesian": "Bagaimana caramu mencari motivasi setiap hari?",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712019"
+    },
+    {
+      "english": "Can you share your secret, please?",
+      "indonesian": "Boleh cerita rahasiamu, boleh?",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712024"
+    },
+    {
+      "english": "What's your biggest goal right now?",
+      "indonesian": "Apa cita-citamu terbesar saat ini?",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712027"
+    },
+    {
+      "english": "Where do you get your ideas from?",
+      "indonesian": "Dari mana kamu dapat ide-idemu?",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712030"
+    },
+    {
+      "english": "Who do you look up to, admire?",
+      "indonesian": "Siapa panutanmu, yang kau kagumi?",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712033"
+    },
+    {
+      "english": "What challenges do you face bravely?",
+      "indonesian": "Tantangan apa yang kamu hadapi dengan berani?",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712036"
+    },
+    {
+      "english": "How do you overcome self-doubt often?",
+      "indonesian": "Bagaimana kamu mengatasi keraguan diri seringkali?",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712039"
+    },
+    {
+      "english": "What advice do you have for us?",
+      "indonesian": "Nasihat apa yang bisa kamu berikan?",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712042"
+    },
+    {
+      "english": "Tell me, what drives your success?",
+      "indonesian": "Coba katakan, apa pendorong suksesmu?",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712044"
+    },
+    {
+      "english": "What's your philosophy on hard work?",
+      "indonesian": "Apa filosofimu tentang kerja keras?",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712047"
+    },
+    {
+      "english": "How do you stay positive always?",
+      "indonesian": "Bagaimana kamu selalu berpikir positif?",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712050"
+    },
+    {
+      "english": "What small steps led you here?",
+      "indonesian": "Langkah kecil apa yang membawamu ke sini?",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712052"
+    },
+    {
+      "english": "Do you believe in destiny, fate?",
+      "indonesian": "Apakah kamu percaya takdir, nasib?",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712055"
+    },
+    {
+      "english": "What habit helped you the most?",
+      "indonesian": "Kebiasaan apa yang paling membantumu?",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712057"
+    },
+    {
+      "english": "Where do you see yourself in ten years?",
+      "indonesian": "Di mana kamu melihat dirimu sepuluh tahun lagi?",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712060"
+    },
+    {
+      "english": "What's your wildest dream, tell me?",
+      "indonesian": "Apa impian terliarmu, ceritakan?",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712063"
+    },
+    {
+      "english": "How do you balance work and life?",
+      "indonesian": "Bagaimana kamu menyeimbangkan kerja dan hidup?",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712065"
+    },
+    {
+      "english": "What's a lesson you learned recently?",
+      "indonesian": "Pelajaran apa yang kamu dapat baru-baru ini?",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712068"
+    },
+    {
+      "english": "Who encouraged you to start?",
+      "indonesian": "Siapa yang mendorongmu untuk memulai?",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712071"
+    },
+    {
+      "english": "How do you define your purpose?",
+      "indonesian": "Bagaimana kamu mendefinisikan tujuanmu?",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712073"
+    },
+    {
+      "english": "What legacy do you wish to leave?",
+      "indonesian": "Warisan apa yang ingin kamu tinggalkan?",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712076"
+    },
+    {
+      "english": "What's one thing you're grateful for?",
+      "indonesian": "Satu hal apa yang membuatmu bersyukur?",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712081"
+    },
+    {
+      "english": "How do you celebrate small wins?",
+      "indonesian": "Bagaimana kamu merayakan kemenangan kecil?",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712083"
+    },
+    {
+      "english": "What future do you envision now?",
+      "indonesian": "Masa depan seperti apa yang kamu bayangkan?",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712086"
+    },
+    {
+      "english": "What's your biggest inspiration source?",
+      "indonesian": "Apa sumber inspirasimu terbesar?",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712088"
+    },
+    {
+      "english": "Keep pushing forward, never stop.",
+      "indonesian": "Terus maju, jangan pernah berhenti.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712091"
+    },
+    {
+      "english": "Your effort is truly noticed.",
+      "indonesian": "Usahamu sungguh berarti.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712096"
+    },
+    {
+      "english": "Embrace challenges with a smile.",
+      "indonesian": "Hadapi tantangan dengan senyum.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712099"
+    },
+    {
+      "english": "Believe in the process, slowly.",
+      "indonesian": "Percaya prosesnya, pelan-pelan.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712101"
+    },
+    {
+      "english": "Every small step matters a lot.",
+      "indonesian": "Setiap langkah kecil berarti.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712104"
+    },
+    {
+      "english": "Stay positive, think clearly.",
+      "indonesian": "Tetap positif, berpikir jernih.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712107"
+    },
+    {
+      "english": "You have the strength inside.",
+      "indonesian": "Kamu punya kekuatan di dalam.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712110"
+    },
+    {
+      "english": "Good job, you're improving fast.",
+      "indonesian": "Bagus, kamu berkembang pesat.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712113"
+    },
+    {
+      "english": "Don't give up on your vision.",
+      "indonesian": "Jangan menyerah pada visimu.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712117"
+    },
+    {
+      "english": "Your dedication is admirable.",
+      "indonesian": "Dedikasimu patut dikagumi.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712120"
+    },
+    {
+      "english": "Find joy in the journey itself.",
+      "indonesian": "Temukan bahagia dalam perjalanan.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712123"
+    },
+    {
+      "english": "Let passion guide your way.",
+      "indonesian": "Biarkan gairah menuntunmu.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712125"
+    },
+    {
+      "english": "Your ideas are very valuable.",
+      "indonesian": "Idemu sangat berharga.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712128"
+    },
+    {
+      "english": "Positive thoughts create positive results.",
+      "indonesian": "Pikiran positif hasilkan hasil positif.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712130"
+    },
+    {
+      "english": "Never underestimate your progress.",
+      "indonesian": "Jangan remehkan kemajuanmu.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712133"
+    },
+    {
+      "english": "Success comes from consistent effort.",
+      "indonesian": "Sukses datang dari usaha konsisten.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712136"
+    },
+    {
+      "english": "What are you grateful for today?",
+      "indonesian": "Apa yang kamu syukuri hari ini?",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712139"
+    },
+    {
+      "english": "Your unique talent shines brightly.",
+      "indonesian": "Bakatu unikmu bersinar terang.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712141"
+    },
+    {
+      "english": "Celebrate every victory, no matter how small.",
+      "indonesian": "Rayakan tiap kemenangan kecil.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712144"
+    },
+    {
+      "english": "Stay determined, reach your peak.",
+      "indonesian": "Tetap bertekad, capai puncaknya.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712147"
+    },
+    {
+      "english": "Your mindset is your greatest asset.",
+      "indonesian": "Pola pikirmu aset terbesarmu.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712149"
+    },
+    {
+      "english": "Keep striving for excellence always.",
+      "indonesian": "Terus berjuang untuk keunggulan.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712152"
+    },
+    {
+      "english": "You make a difference, truly.",
+      "indonesian": "Kamu membuat perbedaan, sungguh.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712154"
+    },
+    {
+      "english": "Go for it, don't be shy.",
+      "indonesian": "Gaspol aja, jangan malu-malu.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712157"
+    },
+    {
+      "english": "Don't overthink, just do it.",
+      "indonesian": "Jangan kebanyakan mikir, langsung jalan.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712160"
+    },
+    {
+      "english": "It's not the end of the world.",
+      "indonesian": "Bukan akhir dunia kok.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712163"
+    },
+    {
+      "english": "Little by little, it gets done.",
+      "indonesian": "Sedikit-sedikit, lama-lama jadi bukit.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712166"
+    },
+    {
+      "english": "What's the point of worrying?",
+      "indonesian": "Buat apa dipikirin terus?",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712168"
+    },
+    {
+      "english": "Just try your best, that's enough.",
+      "indonesian": "Jalani aja yang terbaik, cukup kok.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712171"
+    },
+    {
+      "english": "Don't get stuck, keep moving.",
+      "indonesian": "Jangan mentok, ayo gerak.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712174"
+    },
+    {
+      "english": "Let's see what happens next.",
+      "indonesian": "Lihat nanti gimana jadinya.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712177"
+    },
+    {
+      "english": "Don't sweat the small stuff.",
+      "indonesian": "Jangan ambil pusing yang kecil-kecil.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712179"
+    },
+    {
+      "english": "This is your time to shine.",
+      "indonesian": "Ini saatnya kamu bersinar.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712184"
+    },
+    {
+      "english": "Just wing it, you'll figure it out.",
+      "indonesian": "Jabanin aja, nanti ketemu jalannya.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712187"
+    },
+    {
+      "english": "What's the worst that can happen?",
+      "indonesian": "Paling parah, kejadiannya gimana?",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712190"
+    },
+    {
+      "english": "Focus on one thing at a time.",
+      "indonesian": "Fokus satu-satu dulu.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712192"
+    },
+    {
+      "english": "It's never too late to start.",
+      "indonesian": "Nggak ada kata terlambat buat mulai.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712195"
+    },
+    {
+      "english": "Think outside the box, creatively.",
+      "indonesian": "Berpikir di luar kebiasaan, yuk.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712198"
+    },
+    {
+      "english": "Let go of what you can't control.",
+      "indonesian": "Lepasin aja yang bukan urusanmu.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712203"
+    },
+    {
+      "english": "Tomorrow is another day, so relax.",
+      "indonesian": "Besok masih ada hari, santai aja.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712205"
+    },
+    {
+      "english": "The journey is the reward, enjoy it.",
+      "indonesian": "Nikmati aja perjalanannya, itu hadiahnya.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712208"
+    },
+    {
+      "english": "Don't compare yourself to others.",
+      "indonesian": "Jangan bandingin diri sama orang lain.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712210"
+    },
+    {
+      "english": "Stay humble, stay hungry.",
+      "indonesian": "Tetap rendah hati, tetap semangat.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712213"
+    },
+    {
+      "english": "This too shall pass, my friend.",
+      "indonesian": "Ini juga akan berlalu, kawan.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712216"
+    },
+    {
+      "english": "Make the most of today's opportunity.",
+      "indonesian": "Manfaatkan peluang hari ini sebaiknya.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712218"
+    },
+    {
+      "english": "Learn from mistakes, then move on.",
+      "indonesian": "Ambil pelajaran dari salah, lalu jalan terus.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712221"
+    },
+    {
+      "english": "Believe in your gut feeling, trust it.",
+      "indonesian": "Percaya intuisi, pegang itu.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712223"
+    },
+    {
+      "english": "Keep it simple, make it work.",
+      "indonesian": "Sederhana aja, yang penting jalan.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712226"
+    },
+    {
+      "english": "Feelings, run deep, be honest.",
+      "indonesian": "Perasaan, itu dalam, jujurlah.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712229"
+    },
+    {
+      "english": "My heart, truly wants this.",
+      "indonesian": "Hatiku, sungguh menginginkannya.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712232"
+    },
+    {
+      "english": "This moment, feels right, you know?",
+      "indonesian": "Momen ini, terasa pas, kan?",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712235"
+    },
+    {
+      "english": "Deep inside, I feel a change.",
+      "indonesian": "Dalam hati, kurasa ada perubahan.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712237"
+    },
+    {
+      "english": "Inner peace, is important.",
+      "indonesian": "Kedamaian batin, itu penting.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712240"
+    },
+    {
+      "english": "Reflect, on your path.",
+      "indonesian": "Renungkanlah, jalan hidupmu.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712243"
+    },
+    {
+      "english": "What truly, matters to you?",
+      "indonesian": "Apa yang benar-benar, berarti bagimu?",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712246"
+    },
+    {
+      "english": "Listen, to your intuition.",
+      "indonesian": "Dengarkanlah, kata hatimu.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712249"
+    },
+    {
+      "english": "Embrace, your emotions openly.",
+      "indonesian": "Rangkul, emosimu secara terbuka.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712251"
+    },
+    {
+      "english": "A gentle heart, can be strong.",
+      "indonesian": "Hati yang lembut, bisa kuat.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712254"
+    },
+    {
+      "english": "This feeling, is genuine.",
+      "indonesian": "Perasaan ini, sungguh nyata.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712257"
+    },
+    {
+      "english": "My soul, feels at ease.",
+      "indonesian": "Jiwaku, terasa lega.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712261"
+    },
+    {
+      "english": "Take time, to just be.",
+      "indonesian": "Luangkan waktu, untuk sekadar ada.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712264"
+    },
+    {
+      "english": "Gratitude, fills my spirit.",
+      "indonesian": "Rasa syukur, mengisi jiwaku.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712267"
+    },
+    {
+      "english": "Honesty, builds true connection.",
+      "indonesian": "Kejujuran, membangun koneksi sejati.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712270"
+    },
+    {
+      "english": "The quiet moments, are precious.",
+      "indonesian": "Momen hening, itu berharga.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712272"
+    },
+    {
+      "english": "My thoughts, are becoming clearer.",
+      "indonesian": "Pikiranku, semakin jernih.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712277"
+    },
+    {
+      "english": "Allow yourself, to feel fully.",
+      "indonesian": "Izinkan dirimu, merasakan sepenuhnya.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712280"
+    },
+    {
+      "english": "True strength, comes from within.",
+      "indonesian": "Kekuatan sejati, datang dari dalam.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712282"
+    },
+    {
+      "english": "Let compassion, be your guide.",
+      "indonesian": "Jadikan welas asih, panduanmu.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712285"
+    },
+    {
+      "english": "My spirit, is gently stirring.",
+      "indonesian": "Semangatku, perlahan bangkit.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712290"
+    },
+    {
+      "english": "Accept yourself, flaws and all.",
+      "indonesian": "Terimalah dirimu, apa adanya.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712293"
+    },
+    {
+      "english": "This inner wisdom, guides me.",
+      "indonesian": "Kearifan batin ini, menuntunku.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712296"
+    },
+    {
+      "english": "Vulnerability, is a brave act.",
+      "indonesian": "Kerapuhan, adalah tindakan berani.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712299"
+    },
+    {
+      "english": "My hope, feels renewed.",
+      "indonesian": "Harapanku, terasa terbarukan.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-26T08:23:06.712301"
     }
   ],
-  "last_updated": "2026-10-25T08:00:42.332301"
+  "last_updated": "2026-10-26T08:23:06.712303"
 }
