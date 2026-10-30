@@ -8639,7 +8639,727 @@
       "indonesian": "Apa yang bisa kita kendalikan, sekarang?",
       "category": "Hope",
       "generated_at": "2026-10-28T09:13:07.899053"
+    },
+    {
+      "english": "Welcome, please come in, have a seat.",
+      "indonesian": "Selamat datang, silakan masuk, duduk.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583267"
+    },
+    {
+      "english": "Thank you for the invitation, I'm honored.",
+      "indonesian": "Terima kasih undangannya, saya terhormat.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583281"
+    },
+    {
+      "english": "This is delicious, what is it called?",
+      "indonesian": "Ini enak sekali, namanya apa?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583285"
+    },
+    {
+      "english": "May I help you with anything?",
+      "indonesian": "Ada yang bisa saya bantu?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583288"
+    },
+    {
+      "english": "It's very kind of you, thank you.",
+      "indonesian": "Baik sekali Anda, terima kasih.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583291"
+    },
+    {
+      "english": "Please, don't trouble yourself too much.",
+      "indonesian": "Tolong, jangan merepotkan diri.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583294"
+    },
+    {
+      "english": "It's a pleasure to meet you.",
+      "indonesian": "Senang bertemu dengan Anda.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583297"
+    },
+    {
+      "english": "This is a beautiful gift, thank you.",
+      "indonesian": "Hadiahnya cantik sekali, terima kasih.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583303"
+    },
+    {
+      "english": "Where is the restroom, please?",
+      "indonesian": "Permisi, toilet di mana?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583306"
+    },
+    {
+      "english": "I'm sorry, I don't understand.",
+      "indonesian": "Maaf, saya tidak mengerti.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583310"
+    },
+    {
+      "english": "Can you repeat that, please?",
+      "indonesian": "Bisa diulang, tolong?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583313"
+    },
+    {
+      "english": "What time does the event start?",
+      "indonesian": "Acara mulai jam berapa?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583316"
+    },
+    {
+      "english": "It's nice weather today, isn't it?",
+      "indonesian": "Cuaca bagus hari ini, ya?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583319"
+    },
+    {
+      "english": "Excuse me, may I ask a question?",
+      "indonesian": "Permisi, boleh saya bertanya?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583322"
+    },
+    {
+      "english": "This tradition is very interesting.",
+      "indonesian": "Tradisi ini sangat menarik.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583324"
+    },
+    {
+      "english": "I'm learning Indonesian, how am I doing?",
+      "indonesian": "Saya belajar bahasa Indonesia, bagaimana?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583327"
+    },
+    {
+      "english": "That's a great idea, let's do it.",
+      "indonesian": "Ide bagus, ayo lakukan.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583330"
+    },
+    {
+      "english": "What is the meaning of this?",
+      "indonesian": "Apa artinya ini?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583332"
+    },
+    {
+      "english": "Please, take your time.",
+      "indonesian": "Silakan, santai saja.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583335"
+    },
+    {
+      "english": "I'm so happy to be here.",
+      "indonesian": "Saya senang sekali di sini.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583338"
+    },
+    {
+      "english": "Don't worry, it's okay.",
+      "indonesian": "Jangan khawatir, tidak apa-apa.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583340"
+    },
+    {
+      "english": "Is this the correct way?",
+      "indonesian": "Ini jalan yang benar?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583343"
+    },
+    {
+      "english": "It looks amazing, well done!",
+      "indonesian": "Kelihatannya luar biasa, bagus!",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583346"
+    },
+    {
+      "english": "How do you say this word?",
+      "indonesian": "Bagaimana bilang kata ini?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583348"
+    },
+    {
+      "english": "Let's try something new today.",
+      "indonesian": "Ayo coba sesuatu yang baru.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583351"
+    },
+    {
+      "english": "This is a special occasion.",
+      "indonesian": "Ini acara spesial.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583355"
+    },
+    {
+      "english": "Are you ready to go?",
+      "indonesian": "Siap untuk pergi?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583358"
+    },
+    {
+      "english": "What a lovely gesture!",
+      "indonesian": "Sikap yang manis sekali!",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583360"
+    },
+    {
+      "english": "Enjoy your meal, please.",
+      "indonesian": "Silakan nikmati makanan Anda.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583363"
+    },
+    {
+      "english": "What's this ritual called?",
+      "indonesian": "Upacara ini namanya apa?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583365"
+    },
+    {
+      "english": "Can you explain this ceremony?",
+      "indonesian": "Bisa jelaskan upacara ini?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583368"
+    },
+    {
+      "english": "How do people celebrate this?",
+      "indonesian": "Bagaimana orang merayakan ini?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583371"
+    },
+    {
+      "english": "Is there a specific dress code?",
+      "indonesian": "Ada aturan pakaian khusus?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583375"
+    },
+    {
+      "english": "When does this tradition usually happen?",
+      "indonesian": "Kapan tradisi ini biasanya terjadi?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583378"
+    },
+    {
+      "english": "What's the significance of this?",
+      "indonesian": "Apa makna dari ini?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583381"
+    },
+    {
+      "english": "May I observe the ceremony?",
+      "indonesian": "Boleh saya melihat upacaranya?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583384"
+    },
+    {
+      "english": "Is participation encouraged?",
+      "indonesian": "Apakah partisipasi dianjurkan?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583386"
+    },
+    {
+      "english": "What should I bring, if anything?",
+      "indonesian": "Apa yang harus saya bawa?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583389"
+    },
+    {
+      "english": "Can you teach me a traditional dance?",
+      "indonesian": "Ajari saya tari tradisional?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583392"
+    },
+    {
+      "english": "What is the history behind this?",
+      "indonesian": "Apa sejarah di balik ini?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583394"
+    },
+    {
+      "english": "Are there any specific gestures?",
+      "indonesian": "Ada gerakan tertentu?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583397"
+    },
+    {
+      "english": "What kind of music is played?",
+      "indonesian": "Musik jenis apa yang dimainkan?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583399"
+    },
+    {
+      "english": "Can I take photos here?",
+      "indonesian": "Boleh saya foto di sini?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583402"
+    },
+    {
+      "english": "How do I greet the elders properly?",
+      "indonesian": "Bagaimana menyapa tetua?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583404"
+    },
+    {
+      "english": "Is there a customary gift?",
+      "indonesian": "Ada hadiah adat?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583407"
+    },
+    {
+      "english": "What does this symbol mean?",
+      "indonesian": "Simbol ini artinya apa?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583409"
+    },
+    {
+      "english": "Can you guide me through this?",
+      "indonesian": "Bisa bantu saya?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583412"
+    },
+    {
+      "english": "What foods are typically served?",
+      "indonesian": "Makanan apa biasanya disajikan?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583415"
+    },
+    {
+      "english": "Is it okay to ask about beliefs?",
+      "indonesian": "Boleh tanya soal kepercayaan?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583417"
+    },
+    {
+      "english": "What's the proper etiquette here?",
+      "indonesian": "Etiketnya bagaimana di sini?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583420"
+    },
+    {
+      "english": "Can I learn a few local phrases?",
+      "indonesian": "Bisa belajar frasa lokal?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583422"
+    },
+    {
+      "english": "What is the purpose of this ritual?",
+      "indonesian": "Tujuan ritual ini apa?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583425"
+    },
+    {
+      "english": "How is this event organized?",
+      "indonesian": "Acara ini disusun bagaimana?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583427"
+    },
+    {
+      "english": "Can you share a personal story?",
+      "indonesian": "Bisa cerita pengalaman pribadi?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583431"
+    },
+    {
+      "english": "What's the traditional greeting?",
+      "indonesian": "Salam tradisionalnya apa?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583434"
+    },
+    {
+      "english": "Is this for a specific holiday?",
+      "indonesian": "Ini untuk hari libur apa?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583437"
+    },
+    {
+      "english": "Can you explain the symbolism?",
+      "indonesian": "Jelaskan simbolismenya?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583439"
+    },
+    {
+      "english": "Your spirit, shines brightly.",
+      "indonesian": "Semangatmu, bersinar terang.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583442"
+    },
+    {
+      "english": "Your effort, is truly admirable.",
+      "indonesian": "Usahamu, sungguh terpuji.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583444"
+    },
+    {
+      "english": "You've got this, amazing!",
+      "indonesian": "Kamu bisa, luar biasa!",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583447"
+    },
+    {
+      "english": "Your dedication, inspires me.",
+      "indonesian": "Dedikasimu, menginspirasiku.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583450"
+    },
+    {
+      "english": "Embrace the journey, my friend.",
+      "indonesian": "Nikmati perjalanannya, kawan.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583452"
+    },
+    {
+      "english": "Your attitude, is wonderful.",
+      "indonesian": "Sikapmu, sungguh indah.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583455"
+    },
+    {
+      "english": "Keep that spark, alive.",
+      "indonesian": "Jaga percikan itu, tetap menyala.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583458"
+    },
+    {
+      "english": "You have a good heart.",
+      "indonesian": "Kamu punya hati yang baik.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583462"
+    },
+    {
+      "english": "That's a brilliant idea!",
+      "indonesian": "Ide cemerlang sekali!",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583465"
+    },
+    {
+      "english": "Never give up, on dreams.",
+      "indonesian": "Jangan menyerah, pada mimpi.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583468"
+    },
+    {
+      "english": "Stay strong, in spirit.",
+      "indonesian": "Tetap kuat, dalam jiwa.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583470"
+    },
+    {
+      "english": "Believe in progress, not perfection.",
+      "indonesian": "Percaya kemajuan, bukan kesempurnaan.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583473"
+    },
+    {
+      "english": "You have a bright future.",
+      "indonesian": "Masa depanmu, cerah.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583476"
+    },
+    {
+      "english": "Keep that smile, going.",
+      "indonesian": "Senyummu, teruskan.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583478"
+    },
+    {
+      "english": "You're growing, beautifully.",
+      "indonesian": "Kamu bertumbuh, dengan indah.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583483"
+    },
+    {
+      "english": "Embrace challenges, bravely.",
+      "indonesian": "Hadapi tantangan, dengan berani.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583486"
+    },
+    {
+      "english": "Many hands, make light work.",
+      "indonesian": "Banyak tangan, ringankan kerja.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583489"
+    },
+    {
+      "english": "Respect elders, always.",
+      "indonesian": "Hormati yang tua, selalu.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583491"
+    },
+    {
+      "english": "Sharing, is caring.",
+      "indonesian": "Berbagi, itu peduli.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583494"
+    },
+    {
+      "english": "Unity, in diversity.",
+      "indonesian": "Bhinneka, tunggal ika.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583497"
+    },
+    {
+      "english": "Be humble, always.",
+      "indonesian": "Rendah hati, senantiasa.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583499"
+    },
+    {
+      "english": "Gratitude, opens doors.",
+      "indonesian": "Syukur, membuka pintu.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583502"
+    },
+    {
+      "english": "Live simply, give generously.",
+      "indonesian": "Hidup sederhana, beri banyak.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583507"
+    },
+    {
+      "english": "Family, is everything.",
+      "indonesian": "Keluarga, segalanya.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583509"
+    },
+    {
+      "english": "Community, spirit, strong.",
+      "indonesian": "Gotong royong, semangat kuat.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583512"
+    },
+    {
+      "english": "Preserve, the heritage.",
+      "indonesian": "Lestarikan, budayanya.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583515"
+    },
+    {
+      "english": "Patience, brings reward.",
+      "indonesian": "Sabar, berbuah manis.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583517"
+    },
+    {
+      "english": "Work hard, play fair.",
+      "indonesian": "Kerja keras, main adil.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583520"
+    },
+    {
+      "english": "Wisdom, from experience.",
+      "indonesian": "Bijak, dari pengalaman.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583522"
+    },
+    {
+      "english": "Open heart, open mind.",
+      "indonesian": "Hati terbuka, pikiran terbuka.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583525"
+    },
+    {
+      "english": "Respect, all beliefs.",
+      "indonesian": "Hormati, semua keyakinan.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583528"
+    },
+    {
+      "english": "Kindness, costs nothing.",
+      "indonesian": "Baik hati, tak perlu biaya.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583530"
+    },
+    {
+      "english": "Listen to your elders.",
+      "indonesian": "Dengarkan orang tuamu.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583533"
+    },
+    {
+      "english": "Harmony, with nature.",
+      "indonesian": "Harmoni, dengan alam.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583535"
+    },
+    {
+      "english": "Tradition, connects us.",
+      "indonesian": "Tradisi, menyatukan kita.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583538"
+    },
+    {
+      "english": "Peace, begins within.",
+      "indonesian": "Damai, mulai dari diri.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583540"
+    },
+    {
+      "english": "Learn from the past.",
+      "indonesian": "Belajar dari masa lalu.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583543"
+    },
+    {
+      "english": "Offer, a helping hand.",
+      "indonesian": "Ulurkan, tangan membantu.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583545"
+    },
+    {
+      "english": "Honesty, is key.",
+      "indonesian": "Kejujuran, adalah kunci.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583548"
+    },
+    {
+      "english": "Respect, differences.",
+      "indonesian": "Hargai, perbedaan.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583553"
+    },
+    {
+      "english": "Joy, in simplicity.",
+      "indonesian": "Bahagia, dalam sederhana.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583555"
+    },
+    {
+      "english": "Listen, to the heart.",
+      "indonesian": "Dengarkan, hati nurani.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583558"
+    },
+    {
+      "english": "Share, your blessings.",
+      "indonesian": "Bagikan, rezekimu.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583560"
+    },
+    {
+      "english": "Love, your homeland.",
+      "indonesian": "Cintai, tanah airmu.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583562"
+    },
+    {
+      "english": "Ask locals, for directions, please.",
+      "indonesian": "Tanya warga lokal, arah jalan, ya.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583565"
+    },
+    {
+      "english": "Try local food, don't be shy.",
+      "indonesian": "Coba makanan lokal, jangan malu.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583568"
+    },
+    {
+      "english": "Learn basic phrases, it helps a lot.",
+      "indonesian": "Hafalkan frasa dasar, sangat membantu.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583571"
+    },
+    {
+      "english": "Dress modestly, in temples and homes.",
+      "indonesian": "Berpakaian sopan, di pura dan rumah.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583574"
+    },
+    {
+      "english": "Remove shoes, before entering a house.",
+      "indonesian": "Lepas sepatu, sebelum masuk rumah.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583577"
+    },
+    {
+      "english": "Use your right hand, for giving things.",
+      "indonesian": "Gunakan tangan kanan, untuk memberi.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583579"
+    },
+    {
+      "english": "Bargain politely, with a smile.",
+      "indonesian": "Tawar menawar sopan, sambil tersenyum.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583584"
+    },
+    {
+      "english": "Understand local customs, show respect.",
+      "indonesian": "Pahami adat setempat, tunjukkan hormat.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583587"
+    },
+    {
+      "english": "Patience is key, things move slower.",
+      "indonesian": "Sabar itu penting, semuanya agak lambat.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583590"
+    },
+    {
+      "english": "Adapt to the situation, be flexible.",
+      "indonesian": "Sesuaikan diri, dengan keadaan.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583593"
+    },
+    {
+      "english": "Ask permission, before taking photos.",
+      "indonesian": "Minta izin dulu, sebelum foto.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583595"
+    },
+    {
+      "english": "Observe, and then participate, gently.",
+      "indonesian": "Amati dulu, baru ikut perlahan.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583598"
+    },
+    {
+      "english": "Respect personal space, it's valued.",
+      "indonesian": "Hargai ruang pribadi, itu penting.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583601"
+    },
+    {
+      "english": "When invited, try to attend gatherings.",
+      "indonesian": "Kalau diundang, usahakan hadir.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583604"
+    },
+    {
+      "english": "Carry small cash, for smaller vendors.",
+      "indonesian": "Bawa uang kecil, untuk pedagang kecil.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583607"
+    },
+    {
+      "english": "Don't be afraid, to ask for help.",
+      "indonesian": "Jangan takut, minta tolong.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583610"
+    },
+    {
+      "english": "Understand the concept, of 'jam karet'.",
+      "indonesian": "Pahami konsep, 'jam karet'.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583613"
+    },
+    {
+      "english": "A little gift, is often appreciated.",
+      "indonesian": "Sedikit oleh-oleh, sering dihargai.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583615"
+    },
+    {
+      "english": "Be open to new experiences, they enrich.",
+      "indonesian": "Terbuka pada pengalaman baru, itu memperkaya.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-30T09:24:31.583618"
     }
   ],
-  "last_updated": "2026-10-28T09:13:07.899055"
+  "last_updated": "2026-10-30T09:24:31.583620"
 }
