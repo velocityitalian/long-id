@@ -10079,7 +10079,727 @@
       "indonesian": "Belajar menolak, dengan sopan.",
       "category": "Inner Peace",
       "generated_at": "2026-10-31T09:10:37.291205"
+    },
+    {
+      "english": "Excuse me, can I have the menu?",
+      "indonesian": "Permisi, boleh minta menunya?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.610956"
+    },
+    {
+      "english": "I want to order, please.",
+      "indonesian": "Saya mau pesan, ya.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.610969"
+    },
+    {
+      "english": "Just water, please.",
+      "indonesian": "Air putih saja.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.610973"
+    },
+    {
+      "english": "It's delicious, thank you.",
+      "indonesian": "Enak sekali, terima kasih.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.610976"
+    },
+    {
+      "english": "Can I have the bill?",
+      "indonesian": "Boleh minta bonnya?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.610979"
+    },
+    {
+      "english": "Is service included?",
+      "indonesian": "Sudah termasuk pelayanan?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.610983"
+    },
+    {
+      "english": "I'm allergic to nuts.",
+      "indonesian": "Saya alergi kacang.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.610986"
+    },
+    {
+      "english": "Can I have it spicy?",
+      "indonesian": "Bisa dibikin pedas?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.610992"
+    },
+    {
+      "english": "Not too spicy, please.",
+      "indonesian": "Jangan terlalu pedas.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.610996"
+    },
+    {
+      "english": "I'll have the same.",
+      "indonesian": "Saya pesan yang sama.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.610999"
+    },
+    {
+      "english": "Is there anything vegetarian?",
+      "indonesian": "Ada menu vegetarian?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611001"
+    },
+    {
+      "english": "Can I get a table for two?",
+      "indonesian": "Bisa minta meja untuk dua?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611004"
+    },
+    {
+      "english": "This is too salty.",
+      "indonesian": "Ini terlalu asin.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611007"
+    },
+    {
+      "english": "I'm still deciding.",
+      "indonesian": "Saya masih lihat-lihat.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611009"
+    },
+    {
+      "english": "Can I have a doggy bag?",
+      "indonesian": "Bisa bungkus makanannya?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611012"
+    },
+    {
+      "english": "What's today's special?",
+      "indonesian": "Menu spesial hari ini apa?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611014"
+    },
+    {
+      "english": "Takeaway, please.",
+      "indonesian": "Bawa pulang, ya.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611017"
+    },
+    {
+      "english": "Can I have some chili sauce?",
+      "indonesian": "Boleh minta saus sambal?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611020"
+    },
+    {
+      "english": "This is not what I ordered.",
+      "indonesian": "Ini bukan pesanan saya.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611022"
+    },
+    {
+      "english": "Everything was great!",
+      "indonesian": "Semuanya enak sekali!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611025"
+    },
+    {
+      "english": "Can I have some ice?",
+      "indonesian": "Boleh minta es batu?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611027"
+    },
+    {
+      "english": "Do you have Wi-Fi?",
+      "indonesian": "Ada Wi-Fi?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611030"
+    },
+    {
+      "english": "It's a bit cold.",
+      "indonesian": "Agak dingin.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611033"
+    },
+    {
+      "english": "I'm full, thank you.",
+      "indonesian": "Saya sudah kenyang.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611037"
+    },
+    {
+      "english": "More rice, please.",
+      "indonesian": "Nasi tambah, dong.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611040"
+    },
+    {
+      "english": "What do you recommend, please?",
+      "indonesian": "Ada rekomendasi, boleh?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611043"
+    },
+    {
+      "english": "What's your signature dish?",
+      "indonesian": "Menu andalan kalian apa?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611046"
+    },
+    {
+      "english": "Is this spicy, or mild?",
+      "indonesian": "Ini pedas, atau tidak?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611048"
+    },
+    {
+      "english": "How much is this dish?",
+      "indonesian": "Berapa harga masakan ini?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611051"
+    },
+    {
+      "english": "Can I try a little bit?",
+      "indonesian": "Bisa coba sedikit saja?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611054"
+    },
+    {
+      "english": "What's good here, actually?",
+      "indonesian": "Sebenarnya, apa yang enak di sini?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611057"
+    },
+    {
+      "english": "Do you have any specials today?",
+      "indonesian": "Ada promo hari ini?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611059"
+    },
+    {
+      "english": "Can you explain this dish?",
+      "indonesian": "Bisa jelaskan makanan ini?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611062"
+    },
+    {
+      "english": "Is this a local specialty?",
+      "indonesian": "Ini khas daerah sini?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611064"
+    },
+    {
+      "english": "What's popular with customers?",
+      "indonesian": "Yang paling laku di sini apa?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611067"
+    },
+    {
+      "english": "Can I have a different table?",
+      "indonesian": "Bisa pindah meja lain?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611070"
+    },
+    {
+      "english": "What kind of drinks do you have?",
+      "indonesian": "Minumannya ada apa saja?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611074"
+    },
+    {
+      "english": "Is this made fresh, right?",
+      "indonesian": "Ini baru dibuat kan?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611077"
+    },
+    {
+      "english": "Can I get a recommendation for dessert?",
+      "indonesian": "Dessertnya, ada saran?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611080"
+    },
+    {
+      "english": "Is this enough for two?",
+      "indonesian": "Ini cukup untuk berdua?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611082"
+    },
+    {
+      "english": "What's the best thing to drink?",
+      "indonesian": "Minuman terbaiknya apa?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611085"
+    },
+    {
+      "english": "Can I split the bill, please?",
+      "indonesian": "Bisa bayar masing-masing?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611088"
+    },
+    {
+      "english": "Do you have non-dairy milk?",
+      "indonesian": "Ada susu nabati?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611090"
+    },
+    {
+      "english": "What's unique about this place?",
+      "indonesian": "Apa yang unik dari sini?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611093"
+    },
+    {
+      "english": "Can I see the wine list?",
+      "indonesian": "Boleh lihat daftar anggurnya?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611095"
+    },
+    {
+      "english": "Is this a popular dish?",
+      "indonesian": "Ini favorit banyak orang?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611098"
+    },
+    {
+      "english": "What's the chef's specialty?",
+      "indonesian": "Spesialisasi chef-nya apa?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611101"
+    },
+    {
+      "english": "Can I have a recommendation?",
+      "indonesian": "Bisa kasih saran?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611103"
+    },
+    {
+      "english": "Is this seafood fresh?",
+      "indonesian": "Ini seafood-nya segar?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611106"
+    },
+    {
+      "english": "What's good for a light meal?",
+      "indonesian": "Yang ringan buat makan apa?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611110"
+    },
+    {
+      "english": "Can I have some bread?",
+      "indonesian": "Boleh minta roti?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611113"
+    },
+    {
+      "english": "What's a good pairing?",
+      "indonesian": "Cocoknya makan sama apa?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611115"
+    },
+    {
+      "english": "Is this restaurant busy often?",
+      "indonesian": "Restoran ini ramai terus?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611118"
+    },
+    {
+      "english": "Can I have a side dish?",
+      "indonesian": "Mau pesan lauk pendamping?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611120"
+    },
+    {
+      "english": "Enjoy your meal, buddy!",
+      "indonesian": "Selamat makan, kawan!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611123"
+    },
+    {
+      "english": "This looks delicious, wow!",
+      "indonesian": "Ini kelihatan enak sekali, wah!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611126"
+    },
+    {
+      "english": "You've got this, just order!",
+      "indonesian": "Kamu bisa kok, pesan saja!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611128"
+    },
+    {
+      "english": "Don't be shy, try something new.",
+      "indonesian": "Jangan malu, coba yang baru.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611132"
+    },
+    {
+      "english": "Order with confidence, you'll do great.",
+      "indonesian": "Pesan dengan percaya diri, kamu pasti hebat.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611135"
+    },
+    {
+      "english": "You're doing so well, keep it up!",
+      "indonesian": "Kamu sudah hebat, lanjutkan!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611138"
+    },
+    {
+      "english": "Every bite is a new adventure.",
+      "indonesian": "Setiap suapan adalah petualangan baru.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611140"
+    },
+    {
+      "english": "Bravo! Your order is perfect.",
+      "indonesian": "Bagus sekali! Pesananmu sempurna.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611143"
+    },
+    {
+      "english": "Thinking positive, eating happy.",
+      "indonesian": "Berpikir positif, makan bahagia.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611146"
+    },
+    {
+      "english": "You are a food explorer, fantastic!",
+      "indonesian": "Kamu penjelajah makanan, hebat!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611149"
+    },
+    {
+      "english": "What a delicious choice, amazing!",
+      "indonesian": "Pilihan yang lezat, luar biasa!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611152"
+    },
+    {
+      "english": "Learning Indonesian, one dish at a time.",
+      "indonesian": "Belajar bahasa Indonesia, satu hidangan.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611155"
+    },
+    {
+      "english": "You're a natural at this!",
+      "indonesian": "Kamu memang jagoan!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611159"
+    },
+    {
+      "english": "Taste the success, you ordered well.",
+      "indonesian": "Rasakan suksesnya, pesananmu bagus.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611162"
+    },
+    {
+      "english": "Every meal is a chance to grow.",
+      "indonesian": "Setiap makan adalah kesempatan belajar.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611167"
+    },
+    {
+      "english": "You're shining bright, ordering like a pro.",
+      "indonesian": "Kamu bersinar, pesan seperti profesional.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611170"
+    },
+    {
+      "english": "Keep that adventurous spirit!",
+      "indonesian": "Tetap semangat petualangmu!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611173"
+    },
+    {
+      "english": "This is an excellent decision!",
+      "indonesian": "Ini keputusan yang bagus sekali!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611175"
+    },
+    {
+      "english": "You're mastering Indonesian cuisine!",
+      "indonesian": "Kamu menguasai kuliner Indonesia!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611178"
+    },
+    {
+      "english": "Fantastic effort, well done!",
+      "indonesian": "Usaha yang luar biasa, hebat!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611181"
+    },
+    {
+      "english": "Foodie dreams coming true!",
+      "indonesian": "Impian kuliner jadi kenyataan!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611183"
+    },
+    {
+      "english": "You chose wisely, well done.",
+      "indonesian": "Pilihanmu tepat, bagus sekali.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611186"
+    },
+    {
+      "english": "Embrace the flavors, enjoy!",
+      "indonesian": "Nikmati rasanya, selamat makan!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611189"
+    },
+    {
+      "english": "Such a brilliant order!",
+      "indonesian": "Pesanan yang cerdas sekali!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611193"
+    },
+    {
+      "english": "You're a natural Indonesian foodie.",
+      "indonesian": "Kamu memang penggila makanan Indonesia.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611196"
+    },
+    {
+      "english": "That's a very smart choice.",
+      "indonesian": "Itu pilihan yang sangat pintar.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611199"
+    },
+    {
+      "english": "Keep exploring, it's rewarding.",
+      "indonesian": "Terus jelajahi, itu memuaskan.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611202"
+    },
+    {
+      "english": "Success! You ordered like a local.",
+      "indonesian": "Berhasil! Pesanmu seperti orang lokal.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611204"
+    },
+    {
+      "english": "Positive vibes, delicious food.",
+      "indonesian": "Suasana positif, makanan lezat.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611207"
+    },
+    {
+      "english": "You're doing great, a true foodie!",
+      "indonesian": "Kamu hebat, pencinta makanan sejati!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611210"
+    },
+    {
+      "english": "This dish, it makes me nostalgic.",
+      "indonesian": "Hidangan ini, bikin kangen masa lalu.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611213"
+    },
+    {
+      "english": "I'm patiently waiting, no rush at all.",
+      "indonesian": "Aku sabar menunggu, santai saja kok.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611216"
+    },
+    {
+      "english": "This is more than just food, you know?",
+      "indonesian": "Ini lebih dari sekadar makanan, lho.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611219"
+    },
+    {
+      "english": "Sometimes, simple food, is the best.",
+      "indonesian": "Kadang, makanan sederhana, itu terbaik.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611222"
+    },
+    {
+      "english": "I'm really reflecting on my choices now.",
+      "indonesian": "Aku benar-benar merenungi pilihanku sekarang.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611225"
+    },
+    {
+      "english": "This experience, it feeds my soul.",
+      "indonesian": "Pengalaman ini, menyentuh jiwaku.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611227"
+    },
+    {
+      "english": "Let's just enjoy the moment, okay?",
+      "indonesian": "Mari kita nikmati saja momennya, ya?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611230"
+    },
+    {
+      "english": "This tastes like home, truly.",
+      "indonesian": "Ini rasanya seperti rumah, sungguh.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611233"
+    },
+    {
+      "english": "My heart feels full, surprisingly.",
+      "indonesian": "Hatiku terasa penuh, anehnya.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611236"
+    },
+    {
+      "english": "I'm so at peace here, honestly.",
+      "indonesian": "Aku sangat damai di sini, jujur.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611239"
+    },
+    {
+      "english": "This is deeply satisfying, you know.",
+      "indonesian": "Ini sangat memuaskan, tahu nggak.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611242"
+    },
+    {
+      "english": "What a beautiful, calm atmosphere.",
+      "indonesian": "Suasananya indah sekali, tenang.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611244"
+    },
+    {
+      "english": "I appreciate this slow, simple meal.",
+      "indonesian": "Aku menghargai makanan pelan, sederhana ini.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611247"
+    },
+    {
+      "english": "This reminds me of good times.",
+      "indonesian": "Ini mengingatkanku pada masa indah.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611250"
+    },
+    {
+      "english": "My expectations, they were exceeded.",
+      "indonesian": "Ekspektasiku, terlampaui sudah.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611253"
+    },
+    {
+      "english": "I'm genuinely happy with this.",
+      "indonesian": "Aku sungguh bahagia dengan ini.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611256"
+    },
+    {
+      "english": "There's a certain charm here.",
+      "indonesian": "Ada pesona tersendiri di sini.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611260"
+    },
+    {
+      "english": "This feels very authentic, doesn't it?",
+      "indonesian": "Ini terasa sangat otentik, kan?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611263"
+    },
+    {
+      "english": "I'm savouring every single bite.",
+      "indonesian": "Aku menikmati setiap gigitan.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611266"
+    },
+    {
+      "english": "This is a moment of pure bliss.",
+      "indonesian": "Ini momen kebahagiaan murni.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611268"
+    },
+    {
+      "english": "I'm so grateful for this meal.",
+      "indonesian": "Aku sangat bersyukur atas makanan ini.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611271"
+    },
+    {
+      "english": "The simplicity is quite profound.",
+      "indonesian": "Kesederhanaannya cukup mendalam.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611273"
+    },
+    {
+      "english": "This food, it speaks to me.",
+      "indonesian": "Makanan ini, berbicara padaku.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611276"
+    },
+    {
+      "english": "I'm feeling very thoughtful right now.",
+      "indonesian": "Aku merasa sangat merenung sekarang.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611279"
+    },
+    {
+      "english": "This place has such a vibe.",
+      "indonesian": "Tempat ini punya aura begitu.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611282"
+    },
+    {
+      "english": "It's nice to just be present.",
+      "indonesian": "Enak rasanya hadir begitu saja.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611286"
+    },
+    {
+      "english": "This connection, it's food-related.",
+      "indonesian": "Koneksi ini, berhubungan dengan makanan.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611289"
+    },
+    {
+      "english": "My heart feels warm and happy.",
+      "indonesian": "Hatiku terasa hangat dan senang.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611294"
+    },
+    {
+      "english": "This is a truly memorable meal.",
+      "indonesian": "Ini makanan yang benar-benar berkesan.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611297"
+    },
+    {
+      "english": "I'm rediscovering flavors, amazing.",
+      "indonesian": "Aku menemukan kembali rasa, luar biasa.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611300"
+    },
+    {
+      "english": "Excuse me, water, please.",
+      "indonesian": "Permisi, air putih, dong.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611303"
+    },
+    {
+      "english": "This is too spicy, for me.",
+      "indonesian": "Ini pedas sekali, buat saya.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611306"
+    },
+    {
+      "english": "Can I get a doggy bag?",
+      "indonesian": "Bisa minta bungkus makanan?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611308"
+    },
+    {
+      "english": "I'm still deciding, thank you.",
+      "indonesian": "Saya masih lihat-lihat, terima kasih.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611311"
+    },
+    {
+      "english": "Could we have separate bills?",
+      "indonesian": "Bisa pisah tagihan, tidak?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611314"
+    },
+    {
+      "english": "Where's the restroom, sorry?",
+      "indonesian": "Toiletnya di mana, maaf?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-01T09:58:07.611317"
     }
   ],
-  "last_updated": "2026-10-31T09:10:37.291209"
+  "last_updated": "2026-11-01T09:58:07.611318"
 }
