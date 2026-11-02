@@ -10799,7 +10799,727 @@
       "indonesian": "Toiletnya di mana, maaf?",
       "category": "Ordering Food & Dining",
       "generated_at": "2026-11-01T09:58:07.611317"
+    },
+    {
+      "english": "So happy, really!",
+      "indonesian": "Senang sekali, sungguh!",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615548"
+    },
+    {
+      "english": "Feeling great today.",
+      "indonesian": "Merasa hebat hari ini.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615561"
+    },
+    {
+      "english": "This is wonderful!",
+      "indonesian": "Ini luar biasa!",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615564"
+    },
+    {
+      "english": "What a joy!",
+      "indonesian": "Sungguh menyenangkan!",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615567"
+    },
+    {
+      "english": "Pure happiness.",
+      "indonesian": "Kebahagiaan murni.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615570"
+    },
+    {
+      "english": "So cheerful!",
+      "indonesian": "Ceria sekali!",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615572"
+    },
+    {
+      "english": "I'm in a good mood.",
+      "indonesian": "Aku sedang senang.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615575"
+    },
+    {
+      "english": "This makes me smile.",
+      "indonesian": "Ini membuatku tersenyum.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615580"
+    },
+    {
+      "english": "Such good news!",
+      "indonesian": "Berita bagus sekali!",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615586"
+    },
+    {
+      "english": "So pleased.",
+      "indonesian": "Sangat puas.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615589"
+    },
+    {
+      "english": "Feeling content.",
+      "indonesian": "Merasa puas.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615591"
+    },
+    {
+      "english": "What a delight!",
+      "indonesian": "Betapa menyenangkan!",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615593"
+    },
+    {
+      "english": "My heart is full.",
+      "indonesian": "Hatiku penuh.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615598"
+    },
+    {
+      "english": "So excited!",
+      "indonesian": "Sangat bersemangat!",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615600"
+    },
+    {
+      "english": "Feeling joyful.",
+      "indonesian": "Merasa gembira.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615602"
+    },
+    {
+      "english": "What a great day!",
+      "indonesian": "Hari yang hebat!",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615605"
+    },
+    {
+      "english": "So blessed.",
+      "indonesian": "Sangat diberkati.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615607"
+    },
+    {
+      "english": "Feeling upbeat.",
+      "indonesian": "Merasa ceria.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615609"
+    },
+    {
+      "english": "What a relief!",
+      "indonesian": "Syukurlah!",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615612"
+    },
+    {
+      "english": "So thrilled!",
+      "indonesian": "Sangat gembira!",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615614"
+    },
+    {
+      "english": "This is brilliant!",
+      "indonesian": "Ini cemerlang!",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615616"
+    },
+    {
+      "english": "Pure bliss.",
+      "indonesian": "Kebahagiaan murni.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615619"
+    },
+    {
+      "english": "Feeling so good.",
+      "indonesian": "Merasa sangat baik.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615621"
+    },
+    {
+      "english": "What a treat!",
+      "indonesian": "Sungguh nikmat!",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615623"
+    },
+    {
+      "english": "This makes me happy.",
+      "indonesian": "Ini membuatku senang.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615625"
+    },
+    {
+      "english": "What brings you joy, today?",
+      "indonesian": "Apa yang membuatmu bahagia, hari ini?",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615629"
+    },
+    {
+      "english": "How can we be happier?",
+      "indonesian": "Bagaimana cara kita jadi lebih bahagia?",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615631"
+    },
+    {
+      "english": "Any tips for staying positive?",
+      "indonesian": "Ada saran agar tetap positif?",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615634"
+    },
+    {
+      "english": "Did something good happen?",
+      "indonesian": "Ada kejadian baik ya?",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615637"
+    },
+    {
+      "english": "What makes you smile often?",
+      "indonesian": "Apa yang sering bikin tersenyum?",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615639"
+    },
+    {
+      "english": "Are you looking for happiness?",
+      "indonesian": "Kamu sedang mencari kebahagiaan?",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615644"
+    },
+    {
+      "english": "Where do you find peace?",
+      "indonesian": "Di mana kamu menemukan kedamaian?",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615647"
+    },
+    {
+      "english": "Tell me something uplifting.",
+      "indonesian": "Ceritakan sesuatu yang membangkitkan semangat.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615650"
+    },
+    {
+      "english": "What's your secret to joy?",
+      "indonesian": "Apa rahasia kebahagiaanmu?",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615652"
+    },
+    {
+      "english": "Do you believe in happy accidents?",
+      "indonesian": "Percaya pada kebetulan yang menyenangkan?",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615655"
+    },
+    {
+      "english": "What is happiness for you?",
+      "indonesian": "Apa arti kebahagiaan bagimu?",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615658"
+    },
+    {
+      "english": "Can we share our happiness?",
+      "indonesian": "Bisakah kita berbagi kebahagiaan?",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615660"
+    },
+    {
+      "english": "What makes life meaningful?",
+      "indonesian": "Apa yang membuat hidup bermakna?",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615663"
+    },
+    {
+      "english": "Any advice for difficult times?",
+      "indonesian": "Ada nasihat untuk masa sulit?",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615665"
+    },
+    {
+      "english": "What's a happy memory?",
+      "indonesian": "Apa kenangan bahagia?",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615668"
+    },
+    {
+      "english": "How do you express gratitude?",
+      "indonesian": "Bagaimana cara mengungkapkan rasa syukur?",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615670"
+    },
+    {
+      "english": "Did you achieve your goal?",
+      "indonesian": "Apakah kamu mencapai tujuanmu?",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615673"
+    },
+    {
+      "english": "What makes you feel grateful?",
+      "indonesian": "Apa yang membuatmu merasa bersyukur?",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615675"
+    },
+    {
+      "english": "Is this a good opportunity?",
+      "indonesian": "Ini kesempatan bagus kan?",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615679"
+    },
+    {
+      "english": "What are you looking forward to?",
+      "indonesian": "Apa yang kamu nantikan?",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615682"
+    },
+    {
+      "english": "Can we celebrate this?",
+      "indonesian": "Bisa kita rayakan ini?",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615685"
+    },
+    {
+      "english": "What sparked your happiness?",
+      "indonesian": "Apa yang memicu kebahagiaanmu?",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615687"
+    },
+    {
+      "english": "Are you feeling hopeful now?",
+      "indonesian": "Kamu merasa optimis sekarang?",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615690"
+    },
+    {
+      "english": "What makes your day better?",
+      "indonesian": "Apa yang membuat harimu lebih baik?",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615692"
+    },
+    {
+      "english": "Did you accomplish something great?",
+      "indonesian": "Kamu berhasil melakukan hal hebat?",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615694"
+    },
+    {
+      "english": "How do you stay optimistic?",
+      "indonesian": "Bagaimana kamu tetap optimis?",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615697"
+    },
+    {
+      "english": "What's your favorite happy place?",
+      "indonesian": "Apa tempat favoritmu yang membuat bahagia?",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615700"
+    },
+    {
+      "english": "You always shine, you know?",
+      "indonesian": "Kamu selalu bersinar, tahu?",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615703"
+    },
+    {
+      "english": "Your smile is truly contagious.",
+      "indonesian": "Senyummu sungguh menular.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615705"
+    },
+    {
+      "english": "Your spirit is so uplifting.",
+      "indonesian": "Semangatmu sangat membangkitkan.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615708"
+    },
+    {
+      "english": "What a wonderful mindset you have.",
+      "indonesian": "Pola pikir yang luar biasa kamu punya.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615711"
+    },
+    {
+      "english": "Always be proud of yourself.",
+      "indonesian": "Selalu bangga pada dirimu.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615715"
+    },
+    {
+      "english": "You make things brighter, honestly.",
+      "indonesian": "Kamu membuat segalanya lebih cerah, jujur.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615718"
+    },
+    {
+      "english": "Your inner strength is amazing.",
+      "indonesian": "Kekuatan batinmu luar biasa.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615721"
+    },
+    {
+      "english": "Never underestimate your sparkle.",
+      "indonesian": "Jangan pernah remehkan kilauanmu.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615723"
+    },
+    {
+      "english": "That outlook is so inspiring.",
+      "indonesian": "Pandangan itu sangat menginspirasi.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615726"
+    },
+    {
+      "english": "You have such a beautiful energy.",
+      "indonesian": "Kamu punya energi yang indah.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615734"
+    },
+    {
+      "english": "Your positivity is a gift.",
+      "indonesian": "Positifmu adalah sebuah hadiah.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615736"
+    },
+    {
+      "english": "Embrace every happy moment.",
+      "indonesian": "Rangkullah setiap momen bahagia.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615739"
+    },
+    {
+      "english": "Let your optimism lead you.",
+      "indonesian": "Biarkan optimismemu menuntunmu.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615742"
+    },
+    {
+      "english": "You radiate such good vibes.",
+      "indonesian": "Kamu memancarkan energi baik sekali.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615744"
+    },
+    {
+      "english": "Your presence brings so much light.",
+      "indonesian": "Kehadiranmu membawa begitu banyak cahaya.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615747"
+    },
+    {
+      "english": "Keep that hopeful heart beating.",
+      "indonesian": "Teruslah jaga hatimu yang penuh harap.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615749"
+    },
+    {
+      "english": "You inspire me to be better.",
+      "indonesian": "Kamu menginspirasiku jadi lebih baik.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615751"
+    },
+    {
+      "english": "What a strong, happy soul!",
+      "indonesian": "Jiwa yang kuat, bahagia sekali!",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615754"
+    },
+    {
+      "english": "Your happiness is truly radiant.",
+      "indonesian": "Kebahagiaanmu sungguh bersinar.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615757"
+    },
+    {
+      "english": "You make a real difference, believe.",
+      "indonesian": "Kamu membuat perbedaan nyata, percayalah.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615759"
+    },
+    {
+      "english": "Keep chasing that sunshine feeling.",
+      "indonesian": "Terus kejar perasaan ceria itu.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615762"
+    },
+    {
+      "english": "You've got such a bright outlook.",
+      "indonesian": "Kamu punya pandangan yang cerah sekali.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615764"
+    },
+    {
+      "english": "Your spirit just lifts everyone.",
+      "indonesian": "Semangatmu mengangkat semua orang.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615767"
+    },
+    {
+      "english": "You're a source of pure joy.",
+      "indonesian": "Kamu adalah sumber kebahagiaan murni.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615771"
+    },
+    {
+      "english": "May your joy overflow, always.",
+      "indonesian": "Semoga kebahagiaanmu meluap, selalu.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615774"
+    },
+    {
+      "english": "You make the world feel lighter.",
+      "indonesian": "Kamu membuat dunia terasa lebih ringan.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615776"
+    },
+    {
+      "english": "Your inner glow is so lovely.",
+      "indonesian": "Cahaya batinmu sangat menawan.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615779"
+    },
+    {
+      "english": "Life is sweet, like honey.",
+      "indonesian": "Hidup itu manis, bagai madu.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615782"
+    },
+    {
+      "english": "Happy heart, easy life.",
+      "indonesian": "Hati senang, hidup pun lapang.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615784"
+    },
+    {
+      "english": "Enjoy the small joys.",
+      "indonesian": "Nikmati saja suka yang kecil.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615787"
+    },
+    {
+      "english": "Everything is going well.",
+      "indonesian": "Semuanya berjalan lancar.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615789"
+    },
+    {
+      "english": "This is truly a blessing.",
+      "indonesian": "Ini benar-benar berkah.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615792"
+    },
+    {
+      "english": "Feeling at peace, truly.",
+      "indonesian": "Merasa damai, sungguh.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615794"
+    },
+    {
+      "english": "Good news, makes me smile.",
+      "indonesian": "Kabar baik, bikin senyum.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615799"
+    },
+    {
+      "english": "Contentment is true wealth.",
+      "indonesian": "Puas itu harta sejati.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615801"
+    },
+    {
+      "english": "A day without worry.",
+      "indonesian": "Sehari tanpa rasa cemas.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615804"
+    },
+    {
+      "english": "Simple life, happy heart.",
+      "indonesian": "Hidup sederhana, hati bahagia.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615806"
+    },
+    {
+      "english": "The mood is very good.",
+      "indonesian": "Suasananya lagi enak.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615809"
+    },
+    {
+      "english": "Everything feels right now.",
+      "indonesian": "Semua terasa pas sekarang.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615811"
+    },
+    {
+      "english": "This moment, pure bliss.",
+      "indonesian": "Momen ini, bahagia murni.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615814"
+    },
+    {
+      "english": "So relieved, finally.",
+      "indonesian": "Lega sekali, akhirnya.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615817"
+    },
+    {
+      "english": "A pleasant surprise, indeed.",
+      "indonesian": "Kejutan menyenangkan, memang.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615819"
+    },
+    {
+      "english": "My heart feels light.",
+      "indonesian": "Hati saya terasa ringan.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615822"
+    },
+    {
+      "english": "We're in a good mood.",
+      "indonesian": "Kita sedang senang.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615825"
+    },
+    {
+      "english": "Hope is a bright light.",
+      "indonesian": "Harapan adalah cahaya terang.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615827"
+    },
+    {
+      "english": "This is truly fulfilling.",
+      "indonesian": "Ini sungguh memuaskan.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615829"
+    },
+    {
+      "english": "Let's celebrate this joy.",
+      "indonesian": "Mari rayakan kebahagiaan ini.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615832"
+    },
+    {
+      "english": "Peace of mind is priceless.",
+      "indonesian": "Ketenangan jiwa tak ternilai.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615834"
+    },
+    {
+      "english": "Life flows smoothly now.",
+      "indonesian": "Hidup mengalir lancar kini.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615837"
+    },
+    {
+      "english": "Feeling grateful, truly.",
+      "indonesian": "Bersyukur sekali, sungguh.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615839"
+    },
+    {
+      "english": "A moment of pure delight.",
+      "indonesian": "Saat penuh kegembiraan murni.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615842"
+    },
+    {
+      "english": "Everything aligns perfectly.",
+      "indonesian": "Semua selaras sempurna.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615844"
+    },
+    {
+      "english": "Joy comes from within.",
+      "indonesian": "Bahagia datang dari dalam.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615846"
+    },
+    {
+      "english": "This is good fortune.",
+      "indonesian": "Ini nasib baik.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615849"
+    },
+    {
+      "english": "Learn something new, every day.",
+      "indonesian": "Belajar hal baru, setiap hari.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615851"
+    },
+    {
+      "english": "Practice kindness, it matters.",
+      "indonesian": "Latih kebaikan, itu penting.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615856"
+    },
+    {
+      "english": "Share a smile, freely.",
+      "indonesian": "Bagikan senyum, dengan sukarela.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615858"
+    },
+    {
+      "english": "Help a neighbor, when you can.",
+      "indonesian": "Bantu tetangga, jika bisa.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615861"
+    },
+    {
+      "english": "Forgive quickly, it feels good.",
+      "indonesian": "Maafkan cepat, rasanya lega.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615864"
+    },
+    {
+      "english": "Express gratitude, often.",
+      "indonesian": "Ucapkan terima kasih, sering-sering.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615868"
+    },
+    {
+      "english": "Take a deep breath, relax.",
+      "indonesian": "Tarik napas dalam, rileks.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615871"
+    },
+    {
+      "english": "Declutter your space, clear your mind.",
+      "indonesian": "Rapikan tempatmu, tenangkan pikiranmu.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615874"
+    },
+    {
+      "english": "Move your body, feel alive.",
+      "indonesian": "Gerakkan badanmu, rasakan hidup.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615877"
+    },
+    {
+      "english": "Spend time outdoors, breathe fresh air.",
+      "indonesian": "Habiskan waktu di luar, hirup udara segar.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615879"
+    },
+    {
+      "english": "Connect with loved ones, genuinely.",
+      "indonesian": "Terhubung dengan orang tersayang, tulus.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615882"
+    },
+    {
+      "english": "Celebrate small wins, they count.",
+      "indonesian": "Rayakan kemenangan kecil, itu berarti.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615885"
+    },
+    {
+      "english": "Set boundaries, protect your peace.",
+      "indonesian": "Tetapkan batasan, jaga kedamaianmu.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615887"
+    },
+    {
+      "english": "Simplify your schedule, reduce stress.",
+      "indonesian": "Sederhanakan jadwalmu, kurangi stres.",
+      "category": "Happiness",
+      "generated_at": "2026-11-02T10:25:17.615890"
     }
   ],
-  "last_updated": "2026-11-01T09:58:07.611318"
+  "last_updated": "2026-11-02T10:25:17.615892"
 }
