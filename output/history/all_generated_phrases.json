@@ -11519,7 +11519,727 @@
       "indonesian": "Sederhanakan jadwalmu, kurangi stres.",
       "category": "Happiness",
       "generated_at": "2026-11-02T10:25:17.615890"
+    },
+    {
+      "english": "Got a minute, let's talk hobbies",
+      "indonesian": "Kamu ada waktu, yuk bahas hobi",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226008"
+    },
+    {
+      "english": "What do you do for fun, these days?",
+      "indonesian": "Kamu ngapain buat seru-seruan akhir-akhir ini?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226022"
+    },
+    {
+      "english": "I’m into photography, it’s relaxing",
+      "indonesian": "Aku lagi suka fotografi, santai banget",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226026"
+    },
+    {
+      "english": "Oh, you’re into that too? Nice!",
+      "indonesian": "Oh, kamu juga suka itu? Keren!",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226029"
+    },
+    {
+      "english": "I tried it once, now I’m hooked",
+      "indonesian": "Aku coba sekali, sekarang jadi ketagihan",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226032"
+    },
+    {
+      "english": "That sounds fun, tell me more",
+      "indonesian": "Kedengarannya seru, ceritain dong",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226034"
+    },
+    {
+      "english": "Wait, when do you usually start?",
+      "indonesian": "Tunggu, biasanya kamu mulai jam berapa?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226037"
+    },
+    {
+      "english": "I don’t have much time, but I try",
+      "indonesian": "Waktuku nggak banyak, tapi aku usahain",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226042"
+    },
+    {
+      "english": "Nice, I need a new hobby",
+      "indonesian": "Mantap, aku butuh hobi baru",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226045"
+    },
+    {
+      "english": "Do you want to join, this weekend?",
+      "indonesian": "Kamu mau ikut, weekend ini?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226047"
+    },
+    {
+      "english": "I’m free tonight, let's do something",
+      "indonesian": "Aku kosong malam ini, yuk jalan",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226051"
+    },
+    {
+      "english": "Let’s keep it simple, just for fun",
+      "indonesian": "Santai aja, buat seru-seruan doang",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226054"
+    },
+    {
+      "english": "I’m good, just browsing for ideas",
+      "indonesian": "Aku oke, lagi cari-cari ide aja",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226057"
+    },
+    {
+      "english": "Really? That’s impressive, how did you start?",
+      "indonesian": "Serius? Keren, awalnya gimana?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226060"
+    },
+    {
+      "english": "I’ll bring snacks, you bring the vibe",
+      "indonesian": "Aku bawa camilan, kamu bawa suasana",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226063"
+    },
+    {
+      "english": "No worries, we can do it later",
+      "indonesian": "Nggak apa-apa, nanti aja",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226065"
+    },
+    {
+      "english": "I’m curious, what’s your favorite thing?",
+      "indonesian": "Aku penasaran, yang paling kamu suka apa?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226068"
+    },
+    {
+      "english": "That’s a great idea, let’s try today",
+      "indonesian": "Itu ide bagus, kita coba hari ini",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226071"
+    },
+    {
+      "english": "Oops, I forgot, remind me later",
+      "indonesian": "Aduh, aku lupa, ingetin nanti",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226073"
+    },
+    {
+      "english": "Okay, let’s start simple, no pressure",
+      "indonesian": "Oke, mulai dari yang gampang dulu, santai",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226075"
+    },
+    {
+      "english": "How often do you practice, usually?",
+      "indonesian": "Biasanya latihan berapa kali seminggu?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226077"
+    },
+    {
+      "english": "I’m learning slowly, but I’m enjoying it",
+      "indonesian": "Aku belajar pelan-pelan, tapi seru kok",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226080"
+    },
+    {
+      "english": "That’s so cool, where can I get it?",
+      "indonesian": "Keren banget, belinya di mana?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226082"
+    },
+    {
+      "english": "I’ll check it out, thanks for sharing",
+      "indonesian": "Aku cek dulu, makasih ya",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226084"
+    },
+    {
+      "english": "Are you free after work, today?",
+      "indonesian": "Kamu free setelah kerja, hari ini?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226086"
+    },
+    {
+      "english": "I need motivation, give me a push",
+      "indonesian": "Aku butuh semangat, dorong aku dong",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226088"
+    },
+    {
+      "english": "Great, we can hang out after this",
+      "indonesian": "Sip, habis ini kita nongkrong",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226090"
+    },
+    {
+      "english": "What’s your go-to weekend plan?",
+      "indonesian": "Rencana weekend kamu biasanya apa?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226093"
+    },
+    {
+      "english": "I’ll save this, we should do it soon",
+      "indonesian": "Aku simpen ini, kita coba lagi nanti",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226095"
+    },
+    {
+      "english": "Let’s make time, hobbies are worth it",
+      "indonesian": "Kita luangin waktu, hobi itu penting",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226098"
+    },
+    {
+      "english": "What do you usually do on weekends, though?",
+      "indonesian": "Biasanya kamu ngapain di akhir pekan, ya?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226100"
+    },
+    {
+      "english": "Any hobby you recommend for beginners?",
+      "indonesian": "Ada hobi yang cocok buat pemula?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226102"
+    },
+    {
+      "english": "Do you have a routine for your free time?",
+      "indonesian": "Kamu punya rutinitas buat waktu luang?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226104"
+    },
+    {
+      "english": "Where do you go to practice, usually?",
+      "indonesian": "Latihannya biasanya di mana?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226106"
+    },
+    {
+      "english": "What’s your easiest hobby to start, first?",
+      "indonesian": "Hobi yang paling gampang kamu mulai apa dulu?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226109"
+    },
+    {
+      "english": "Can I ask, what keeps you interested?",
+      "indonesian": "Boleh tanya, yang bikin kamu betah apa?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226111"
+    },
+    {
+      "english": "Have you tried any new activities lately?",
+      "indonesian": "Akhir-akhir ini kamu coba hal baru?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226113"
+    },
+    {
+      "english": "What do you do when you need a break?",
+      "indonesian": "Kalau capek, kamu biasanya ngapain?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226115"
+    },
+    {
+      "english": "Which hobby feels most relaxing for you?",
+      "indonesian": "Hobi mana yang paling bikin tenang buat kamu?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226117"
+    },
+    {
+      "english": "Do you join clubs, or stay solo?",
+      "indonesian": "Kamu gabung komunitas, atau suka sendiri?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226118"
+    },
+    {
+      "english": "How do you plan your hobby time, realistically?",
+      "indonesian": "Biasanya kamu ngatur waktunya gimana?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226120"
+    },
+    {
+      "english": "What equipment do you need, like at all?",
+      "indonesian": "Peralatan apa yang wajib kamu siapin?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226124"
+    },
+    {
+      "english": "Are there beginner-friendly apps you like?",
+      "indonesian": "Ada aplikasi yang ramah pemula yang kamu suka?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226126"
+    },
+    {
+      "english": "Do you prefer indoor hobbies, or outdoor ones?",
+      "indonesian": "Kamu lebih suka hobi di dalam, atau di luar?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226128"
+    },
+    {
+      "english": "What’s the most fun part of it?",
+      "indonesian": "Bagian paling seru di sana apa?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226132"
+    },
+    {
+      "english": "How did you come across that hobby?",
+      "indonesian": "Kamu dapet hobi itu dari mana?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226133"
+    },
+    {
+      "english": "If I start today, what should I do first?",
+      "indonesian": "Kalau aku mulai hari ini, step pertama apa?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226137"
+    },
+    {
+      "english": "Do you set goals, or just enjoy it?",
+      "indonesian": "Kamu punya target, atau santai aja?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226138"
+    },
+    {
+      "english": "When you’re bored, what usually saves you?",
+      "indonesian": "Kalau lagi bosen, biasanya apa yang jadi obatnya?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226141"
+    },
+    {
+      "english": "What’s one hobby you keep coming back to?",
+      "indonesian": "Hobi apa yang selalu kamu ulang lagi?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226143"
+    },
+    {
+      "english": "Is it okay if I borrow your tips?",
+      "indonesian": "Boleh nggak aku minta tips kamu?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226145"
+    },
+    {
+      "english": "Any safety tips for that hobby?",
+      "indonesian": "Ada tips biar aman waktu ngelakuin itu?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226147"
+    },
+    {
+      "english": "How long does it usually take to improve?",
+      "indonesian": "Biasanya butuh berapa lama buat berkembang?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226149"
+    },
+    {
+      "english": "Do you prefer guided lessons, or learning alone?",
+      "indonesian": "Kamu lebih suka kursus, atau belajar sendiri?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226151"
+    },
+    {
+      "english": "What’s your best place to get inspiration?",
+      "indonesian": "Di mana kamu paling sering cari inspirasi?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226153"
+    },
+    {
+      "english": "Are you trying anything new for this month?",
+      "indonesian": "Bulan ini kamu mau coba apa yang baru?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226155"
+    },
+    {
+      "english": "What do you do to stay motivated?",
+      "indonesian": "Kamu gimana biar tetap semangat?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226157"
+    },
+    {
+      "english": "If I’m stuck, can you help me out?",
+      "indonesian": "Kalau aku mentok, kamu bisa bantu?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226159"
+    },
+    {
+      "english": "Do you like sharing your progress with others?",
+      "indonesian": "Kamu suka cerita perkembangan kamu ke orang?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226161"
+    },
+    {
+      "english": "What’s your next hobby goal, short-term?",
+      "indonesian": "Target hobi kamu yang dekat apa?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226163"
+    },
+    {
+      "english": "Practice a little, day by day, ya.",
+      "indonesian": "Latihan dikit-dikit, pelan-pelan tiap hari, ya.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226166"
+    },
+    {
+      "english": "No pain, no gain, meski sambil santai.",
+      "indonesian": "Sakit dulu, baru jadi, meski santai.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226168"
+    },
+    {
+      "english": "Kerja dulu, baru main, kuncinya di situ.",
+      "indonesian": "Kerja dulu, baru main, kuncinya di situ.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226170"
+    },
+    {
+      "english": "Kalau sudah hobi, waktu cepat lewat.",
+      "indonesian": "Kalau sudah hobi, waktu cepat lewat.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226172"
+    },
+    {
+      "english": "Makin sering, makin jago, itu nyata.",
+      "indonesian": "Makin sering, makin jago, itu kenyataan.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226174"
+    },
+    {
+      "english": "Santai saja, yang penting konsisten.",
+      "indonesian": "Santai saja, yang penting konsisten.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226176"
+    },
+    {
+      "english": "Sedikit demi sedikit, jadi juga hasilnya.",
+      "indonesian": "Sedikit demi sedikit, lama-lama jadi.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226178"
+    },
+    {
+      "english": "Biar jalan, daripada cuma mikir terus.",
+      "indonesian": "Biar jalan, daripada cuma mikir terus.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226181"
+    },
+    {
+      "english": "Rutin itu obat, biar pikiran adem.",
+      "indonesian": "Rutin itu obat, biar pikiran adem.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226183"
+    },
+    {
+      "english": "Isi waktu luang, jangan cuma rebahan.",
+      "indonesian": "Isi waktu luang, jangan cuma rebahan.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226184"
+    },
+    {
+      "english": "Sambil belajar, sambil menikmati proses.",
+      "indonesian": "Sambil belajar, sambil menikmati proses.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226186"
+    },
+    {
+      "english": "Hobi itu pelarian yang sehat, lho.",
+      "indonesian": "Hobi itu pelarian yang sehat, lho.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226188"
+    },
+    {
+      "english": "Jangan kebanyakan gaya, yang penting niat.",
+      "indonesian": "Jangan kebanyakan gaya, yang penting niat.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226190"
+    },
+    {
+      "english": "Kalau mood jelek, coba yang ringan dulu.",
+      "indonesian": "Kalau mood jelek, coba yang ringan dulu.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226193"
+    },
+    {
+      "english": "Biar makin mahir, ya, latihan itu kuncinya.",
+      "indonesian": "Biar makin mahir, latihan itu kuncinya.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226195"
+    },
+    {
+      "english": "Beri waktu, jangan terburu-buru.",
+      "indonesian": "Kasih waktu, jangan keburu-buru.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226198"
+    },
+    {
+      "english": "Seru itu bonus, disiplin dulu ya.",
+      "indonesian": "Seru itu bonus, yang penting disiplin.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226200"
+    },
+    {
+      "english": "Bercanda boleh, tapi tetap pegang jadwal.",
+      "indonesian": "Bercanda boleh, tapi tetap pegang jadwal.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226202"
+    },
+    {
+      "english": "Yang penting bergerak, jangan diam saja.",
+      "indonesian": "Yang penting bergerak, jangan diem saja.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226204"
+    },
+    {
+      "english": "Kalau pas waktunya, gas pelan, ya.",
+      "indonesian": "Kalau sudah waktunya, gas pelan-pelan, ya.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226206"
+    },
+    {
+      "english": "Nggak apa-apa gagal, yang penting belajar.",
+      "indonesian": "Nggak apa-apa gagal, yang penting belajar.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226208"
+    },
+    {
+      "english": "Kebiasaan itu dibangun, bukan instan.",
+      "indonesian": "Kebiasaan itu dibangun, bukan instan.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226210"
+    },
+    {
+      "english": "Di rumah pun bisa, jangan minder.",
+      "indonesian": "Di rumah juga bisa, jangan minder.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226212"
+    },
+    {
+      "english": "Ambil yang cocok, jangan ikut-ikutan.",
+      "indonesian": "Ambil yang cocok, jangan ikut-ikutan.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226214"
+    },
+    {
+      "english": "Kalau sudah ketemu ritmenya, enak.",
+      "indonesian": "Kalau sudah ketemu ritmenya, enak.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226216"
+    },
+    {
+      "english": "Hobi itu jembatan, menuju ketenangan.",
+      "indonesian": "Hobi itu jembatan, menuju ketenangan.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226218"
+    },
+    {
+      "english": "Sudah, jangan kepikiran terus, lanjut lagi.",
+      "indonesian": "Sudah, jangan kepikiran terus, lanjut lagi.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226220"
+    },
+    {
+      "english": "Mulai dari yang simpel, nanti berkembang sendiri.",
+      "indonesian": "Mulai dari yang simpel, nanti berkembang sendiri.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226222"
+    },
+    {
+      "english": "Biar serasa hidup, jangan cuma numpang rutinitas.",
+      "indonesian": "Biar kerasa hidup, jangan cuma numpang rutinitas.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226224"
+    },
+    {
+      "english": "Kalau capek, istirahat dulu, otak segar lagi.",
+      "indonesian": "Kalau capek, istirahat dulu, biar otak segar lagi.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226227"
+    },
+    {
+      "english": "Honestly, I crave calm during hobbies.",
+      "indonesian": "Jujur ya, aku pengin hati tetap tenang saat hobi.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226229"
+    },
+    {
+      "english": "Sometimes I do it for peace, not skill.",
+      "indonesian": "Kadang aku lakukan buat damai, bukan cuma jago.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226233"
+    },
+    {
+      "english": "I like taking it slow, no pressure.",
+      "indonesian": "Aku suka pelan-pelan, tanpa tekanan.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226236"
+    },
+    {
+      "english": "I tell myself, be patient, enjoy every step.",
+      "indonesian": "Aku bilang, sabar dulu, nikmati tiap proses.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226238"
+    },
+    {
+      "english": "When I’m tired, I choose softer hobbies.",
+      "indonesian": "Kalau aku capek, aku pilih hobi yang lebih ringan.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226241"
+    },
+    {
+      "english": "I’m learning to stop overthinking, slowly.",
+      "indonesian": "Aku belajar berhenti overthinking, pelan-pelan.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226244"
+    },
+    {
+      "english": "My free time feels better when it’s honest.",
+      "indonesian": "Waktu luangku terasa lebih baik kalau jujur.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226247"
+    },
+    {
+      "english": "I don’t need perfect, I just need present.",
+      "indonesian": "Aku nggak perlu sempurna, yang penting hadir.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226255"
+    },
+    {
+      "english": "I feel proud when I keep showing up.",
+      "indonesian": "Aku bangga, saat aku tetap datang dan latihan.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226257"
+    },
+    {
+      "english": "Honestly, I’m chasing consistency, not hype.",
+      "indonesian": "Jujur, aku ngejar konsisten, bukan cuma tren.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226261"
+    },
+    {
+      "english": "Sometimes I cry, then I go draw again.",
+      "indonesian": "Kadang aku sedih, lalu aku gambar lagi.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226263"
+    },
+    {
+      "english": "This hobby helps me breathe, really.",
+      "indonesian": "Hobi ini bikin aku bisa napas lega, serius.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226264"
+    },
+    {
+      "english": "I’m not rushed, I’m building quietly.",
+      "indonesian": "Aku nggak buru-buru, aku bangun pelan.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226267"
+    },
+    {
+      "english": "I want my hobby to match my mood.",
+      "indonesian": "Aku pengin hobiku nyatu sama suasana hatiku.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226269"
+    },
+    {
+      "english": "If today feels heavy, I go easy.",
+      "indonesian": "Kalau hari ini berat, aku pilih yang ringan dulu.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226271"
+    },
+    {
+      "english": "I’m okay starting over, no shame.",
+      "indonesian": "Aku oke kalau mulai lagi, nggak ada malu.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226276"
+    },
+    {
+      "english": "My hobbies feel like a safe place.",
+      "indonesian": "Hobi buatanku terasa seperti tempat aman.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226277"
+    },
+    {
+      "english": "I keep it real, I’m still figuring things out.",
+      "indonesian": "Aku tetap jujur, aku masih cari-cari.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226280"
+    },
+    {
+      "english": "There’s something healing in small routines.",
+      "indonesian": "Ada yang ngebatin dari rutinitas kecil.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226282"
+    },
+    {
+      "english": "I don’t force it, I just follow the spark.",
+      "indonesian": "Aku nggak maksa, aku cuma ikutin percikan.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226285"
+    },
+    {
+      "english": "When I’m calm, my progress feels smoother.",
+      "indonesian": "Saat aku tenang, kemajuanku terasa lebih halus.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226288"
+    },
+    {
+      "english": "I let mistakes teach me, not scare me.",
+      "indonesian": "Aku biarin salah buat ngajar, bukan menakut-nakuti.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226290"
+    },
+    {
+      "english": "I want my free time to feel meaningful.",
+      "indonesian": "Aku pengin waktu luangku berasa berarti.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226292"
+    },
+    {
+      "english": "I’m proud of the boring days, too.",
+      "indonesian": "Aku bangga juga sama hari-hari yang biasa.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226294"
+    },
+    {
+      "english": "I pause, breathe, then continue my hobby.",
+      "indonesian": "Aku berhenti sebentar, tarik napas, lanjut hobi lagi.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226296"
+    },
+    {
+      "english": "Sometimes I just want to enjoy, honestly.",
+      "indonesian": "Kadang aku cuma mau menikmati, jujur ya.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226298"
+    },
+    {
+      "english": "I’m learning self-kindness through my hobbies.",
+      "indonesian": "Aku lagi belajar sayang sama diri lewat hobi.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226301"
+    },
+    {
+      "english": "I don’t compare, I compare only to myself.",
+      "indonesian": "Aku nggak bandingin, aku cuma bandingin sama diriku.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226303"
+    },
+    {
+      "english": "This hobby keeps my heart steady, every week.",
+      "indonesian": "Hobi ini bikin hatiku stabil, tiap minggu.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226305"
+    },
+    {
+      "english": "If you feel messy inside, make something.",
+      "indonesian": "Kalau kamu merasa berantakan di dalam, bikin sesuatu.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-03T10:23:37.226307"
     }
   ],
-  "last_updated": "2026-11-02T10:25:17.615892"
+  "last_updated": "2026-11-03T10:23:37.226309"
 }
