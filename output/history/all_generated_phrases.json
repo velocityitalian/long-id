@@ -12239,7 +12239,727 @@
       "indonesian": "Kalau kamu merasa berantakan di dalam, bikin sesuatu.",
       "category": "Hobbies & Free Time",
       "generated_at": "2026-11-03T10:23:37.226307"
+    },
+    {
+      "english": "Hi, where is the check-in desk?",
+      "indonesian": "Hai, di mana loket check-in?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845202"
+    },
+    {
+      "english": "Sorry, I’m looking for boarding gate.",
+      "indonesian": "Permisi, saya cari gate keberangkatan.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845216"
+    },
+    {
+      "english": "Which platform is my flight from?",
+      "indonesian": "Pesawat saya dari platform yang mana?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845219"
+    },
+    {
+      "english": "Is this line for economy passengers?",
+      "indonesian": "Ini antrean untuk penumpang ekonomi?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845222"
+    },
+    {
+      "english": "How much is the extra luggage fee?",
+      "indonesian": "Berapa biaya tambahan bagasi?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845225"
+    },
+    {
+      "english": "Do I need to print the ticket?",
+      "indonesian": "Saya perlu print tiketnya?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845228"
+    },
+    {
+      "english": "My passport, where do I show it?",
+      "indonesian": "Paspor saya, di mana saya tunjukkan?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845231"
+    },
+    {
+      "english": "I missed the gate, what should I do?",
+      "indonesian": "Saya ketinggalan gate, harus bagaimana?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845236"
+    },
+    {
+      "english": "Excuse me, can I get help here?",
+      "indonesian": "Permisi, bisa dibantu di sini?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845240"
+    },
+    {
+      "english": "Where is the immigration counter?",
+      "indonesian": "Di mana loket imigrasi?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845243"
+    },
+    {
+      "english": "Do we have to take our shoes off?",
+      "indonesian": "Apakah saya harus lepas sepatu?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845245"
+    },
+    {
+      "english": "One moment, I’m checking my booking.",
+      "indonesian": "Sebentar, saya cek booking saya.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845249"
+    },
+    {
+      "english": "Great, it’s the right counter.",
+      "indonesian": "Bagus, ini loket yang benar.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845253"
+    },
+    {
+      "english": "Oh no, my flight was delayed.",
+      "indonesian": "Aduh, penerbangan saya telat.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845255"
+    },
+    {
+      "english": "Is the Wi‑Fi password for free?",
+      "indonesian": "Wi‑Fi ini gratis, password-nya apa?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845258"
+    },
+    {
+      "english": "Where’s the nearest ATM, please?",
+      "indonesian": "ATM terdekat di mana?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845262"
+    },
+    {
+      "english": "I have cash, where can I exchange?",
+      "indonesian": "Saya punya uang cash, tukar di mana?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845264"
+    },
+    {
+      "english": "Can I store my luggage here?",
+      "indonesian": "Bisa titip bagasi di sini?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845267"
+    },
+    {
+      "english": "Do I need to re-check my bag?",
+      "indonesian": "Perlu check ulang bagasi saya?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845270"
+    },
+    {
+      "english": "How long is the layover?",
+      "indonesian": "Berapa lama transitnya?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845272"
+    },
+    {
+      "english": "I’m connecting flights, what now?",
+      "indonesian": "Saya transit, sekarang harus ke mana?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845278"
+    },
+    {
+      "english": "Thanks, that helps a lot.",
+      "indonesian": "Terima kasih, sangat membantu.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845281"
+    },
+    {
+      "english": "Which exit leads to the pickup area?",
+      "indonesian": "Pintu keluar mana ke area penjemputan?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845283"
+    },
+    {
+      "english": "I’m ready to board, please.",
+      "indonesian": "Saya siap naik, mohon dipersilakan.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845289"
+    },
+    {
+      "english": "Wait, where is my seat number?",
+      "indonesian": "Tunggu, nomor kursi saya di mana?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845292"
+    },
+    {
+      "english": "Is there a terminal shuttle nearby?",
+      "indonesian": "Ada shuttle antar-terminal dekat sini?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845294"
+    },
+    {
+      "english": "Can you confirm my flight time, please?",
+      "indonesian": "Bisa konfirmasi jam penerbangan saya, ya?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845297"
+    },
+    {
+      "english": "Which airline is handling my ticket here?",
+      "indonesian": "Maskapai apa yang pegang tiket saya di sini?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845300"
+    },
+    {
+      "english": "Do I need baggage tags, or not?",
+      "indonesian": "Perlu label bagasi, atau tidak?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845303"
+    },
+    {
+      "english": "Where can I ask about special assistance?",
+      "indonesian": "Di mana tanya bantuan khusus, ya?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845306"
+    },
+    {
+      "english": "Is there a counter for changing seats?",
+      "indonesian": "Ada loket buat ubah kursi?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845309"
+    },
+    {
+      "english": "What’s the fastest way to the gate?",
+      "indonesian": "Jalan tercepat ke gate itu lewat mana?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845312"
+    },
+    {
+      "english": "How early should I arrive for check-in?",
+      "indonesian": "Sebaiknya saya datang berapa jam lebih awal?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845315"
+    },
+    {
+      "english": "Are there restaurants near this terminal?",
+      "indonesian": "Ada restoran dekat terminal ini?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845318"
+    },
+    {
+      "english": "Is there a quiet area to wait?",
+      "indonesian": "Ada tempat tenang buat nunggu?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845320"
+    },
+    {
+      "english": "Can I charge my phone somewhere here?",
+      "indonesian": "Bisa ngecas HP di mana, ya?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845328"
+    },
+    {
+      "english": "Do you know where the prayer room is?",
+      "indonesian": "Kamu tahu ruang ibadah di mana?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845331"
+    },
+    {
+      "english": "Is it safe to leave luggage unattended?",
+      "indonesian": "Aman nggak kalau titip barang tanpa ditunggu?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845333"
+    },
+    {
+      "english": "What do I do if my bag is missing?",
+      "indonesian": "Kalau tas saya hilang, harus ngapain?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845338"
+    },
+    {
+      "english": "Do they offer baggage wrapping at the airport?",
+      "indonesian": "Di sini ada layanan bungkus koper?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845341"
+    },
+    {
+      "english": "Where do I pick up my boarding pass?",
+      "indonesian": "Saya ambil boarding pass di mana?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845343"
+    },
+    {
+      "english": "Is the boarding process starting soon?",
+      "indonesian": "Proses boarding-nya sebentar lagi mulai?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845346"
+    },
+    {
+      "english": "Can I use the restroom before boarding?",
+      "indonesian": "Toilet bisa dipakai sebelum boarding, ya?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845348"
+    },
+    {
+      "english": "Do I need to fill any arrival forms?",
+      "indonesian": "Perlu isi form kedatangan nggak?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845351"
+    },
+    {
+      "english": "Which direction is the baggage claim?",
+      "indonesian": "Ke arah mana bagian pengambilan bagasi?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845353"
+    },
+    {
+      "english": "Is there a lost and found desk nearby?",
+      "indonesian": "Ada meja lost and found dekat sini?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845356"
+    },
+    {
+      "english": "Could you show me where to refill water?",
+      "indonesian": "Bisa tunjukin tempat isi ulang air?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845358"
+    },
+    {
+      "english": "What’s the difference between transit and layover?",
+      "indonesian": "Bedanya transit dan connecting itu apa?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845362"
+    },
+    {
+      "english": "If I’m late, can they rebook me?",
+      "indonesian": "Kalau saya telat, bisa dibantu rebook?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845365"
+    },
+    {
+      "english": "Are there currency exchange counters inside?",
+      "indonesian": "Penukaran uang ada di dalam nggak?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845368"
+    },
+    {
+      "english": "What documents should I keep handy?",
+      "indonesian": "Dokumen apa yang sebaiknya saya simpan dekat?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845370"
+    },
+    {
+      "english": "Do I need a visa for this destination?",
+      "indonesian": "Perlu visa nggak buat tujuan ini?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845373"
+    },
+    {
+      "english": "Can I get help with my wheelchair?",
+      "indonesian": "Bisa dibantu kursi roda saya?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845375"
+    },
+    {
+      "english": "Is there a desk for flight complaints?",
+      "indonesian": "Di mana saya lapor keterlambatan penerbangan?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845378"
+    },
+    {
+      "english": "What’s your recommendation for airport parking?",
+      "indonesian": "Menurut kamu, parkir pesawat terbaik di mana?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845381"
+    },
+    {
+      "english": "How do I get to the pickup area?",
+      "indonesian": "Cara ke area penjemputan gimana?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845384"
+    },
+    {
+      "english": "Could you write it down for me, please?",
+      "indonesian": "Bisa tulis-in, biar saya nggak salah?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845386"
+    },
+    {
+      "english": "You’ve got this, take it one step.",
+      "indonesian": "Kamu pasti bisa, ambil satu langkah dulu.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845390"
+    },
+    {
+      "english": "Breathe slow, everything will be okay.",
+      "indonesian": "Tarik napas pelan, semuanya akan baik-baik saja.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845393"
+    },
+    {
+      "english": "Stay calm, signs are everywhere here.",
+      "indonesian": "Tetap tenang, petunjuk ada di mana-mana.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845396"
+    },
+    {
+      "english": "Trust yourself, you’ll find the right spot.",
+      "indonesian": "Percaya diri, kamu pasti menemukan tempatnya.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845399"
+    },
+    {
+      "english": "Focus on the next step only.",
+      "indonesian": "Fokus ke langkah berikutnya saja.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845402"
+    },
+    {
+      "english": "Good job, you’re doing great today.",
+      "indonesian": "Bagus sekali, kamu luar biasa hari ini.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845405"
+    },
+    {
+      "english": "You’re prepared, keep moving forward.",
+      "indonesian": "Kamu sudah siap, terus melangkah.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845409"
+    },
+    {
+      "english": "It’s okay to ask, you belong here.",
+      "indonesian": "Tidak apa-apa bertanya, kamu ada di tempatnya.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845412"
+    },
+    {
+      "english": "Relax, you’re exactly on time.",
+      "indonesian": "Santai, kamu tepat waktu.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845417"
+    },
+    {
+      "english": "Say yes to a smooth journey.",
+      "indonesian": "Bilangkan ya untuk perjalanan yang lancar.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845422"
+    },
+    {
+      "english": "Small steps build big confidence.",
+      "indonesian": "Langkah kecil bikin percaya diri besar.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845424"
+    },
+    {
+      "english": "You’re learning fast, keep going.",
+      "indonesian": "Kamu belajar cepat, lanjut terus.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845427"
+    },
+    {
+      "english": "Turn worries into energy, stay focused.",
+      "indonesian": "Ubah khawatir jadi energi, tetap fokus.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845430"
+    },
+    {
+      "english": "Your patience pays off, just wait.",
+      "indonesian": "Kesabaranmu berbuah, tunggu saja.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845433"
+    },
+    {
+      "english": "Keep your mind positive, you’ll adapt.",
+      "indonesian": "Pikiran positif, kamu pasti menyesuaikan diri.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845437"
+    },
+    {
+      "english": "Stay flexible, plans can change easily.",
+      "indonesian": "Tetap fleksibel, rencana bisa berubah cepat.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845439"
+    },
+    {
+      "english": "You’re not stuck, you’re figuring it out.",
+      "indonesian": "Kamu tidak macet, kamu lagi cari jalan.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845443"
+    },
+    {
+      "english": "Be brave, start with a simple question.",
+      "indonesian": "Berani dulu, mulai dengan pertanyaan sederhana.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845446"
+    },
+    {
+      "english": "You’ll get there, one sign at a time.",
+      "indonesian": "Kamu pasti sampai, satu petunjuk demi satu.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845449"
+    },
+    {
+      "english": "It’s normal, just follow the flow.",
+      "indonesian": "Wajar kok, ikuti saja alurnya.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845452"
+    },
+    {
+      "english": "Good mindset, and everything feels easier.",
+      "indonesian": "Pola pikir yang baik, semuanya terasa lebih ringan.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845455"
+    },
+    {
+      "english": "Celebrate small wins, you’re on track.",
+      "indonesian": "Rayakan kemenangan kecil, kamu sedang on track.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845458"
+    },
+    {
+      "english": "Keep your phone charged, you’ll be ready.",
+      "indonesian": "Pastikan ponsel penuh, biar siap.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845462"
+    },
+    {
+      "english": "Don’t rush, steady steps get results.",
+      "indonesian": "Jangan terburu-buru, langkah tenang lebih tepat.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845465"
+    },
+    {
+      "english": "You handle this, no stress, okay?",
+      "indonesian": "Kamu bisa hadapi, santai ya.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845468"
+    },
+    {
+      "english": "Every trip teaches you something new.",
+      "indonesian": "Setiap perjalanan ngajarin kamu hal baru.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845471"
+    },
+    {
+      "english": "You’ve got time, plan calmly.",
+      "indonesian": "Kamu punya waktu, rencanakan dengan tenang.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845476"
+    },
+    {
+      "english": "Stay positive, new places are exciting.",
+      "indonesian": "Tetap positif, tempat baru itu seru.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845478"
+    },
+    {
+      "english": "Great effort, now just follow the signs.",
+      "indonesian": "Usaha bagus, sekarang tinggal ikuti petunjuk.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845481"
+    },
+    {
+      "english": "Honestly, I’m a bit nervous today, but okay.",
+      "indonesian": "Jujur, aku sedikit gugup hari ini, tapi gapapa.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845485"
+    },
+    {
+      "english": "I feel calmer now, after I found my gate.",
+      "indonesian": "Aku jadi lebih tenang sekarang, setelah ketemu gerbangku.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845488"
+    },
+    {
+      "english": "Travel makes me reflect, life feels faster here.",
+      "indonesian": "Kalau jalan-jalan, aku jadi mikir, rasanya hidup lebih cepat.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845491"
+    },
+    {
+      "english": "I’m trying to breathe slower, just for myself.",
+      "indonesian": "Aku lagi belajar napas lebih pelan, buat diriku sendiri.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845494"
+    },
+    {
+      "english": "It’s not perfect, but I’m still grateful.",
+      "indonesian": "Nggak sempurna, tapi aku tetap bersyukur.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845498"
+    },
+    {
+      "english": "Waiting here, I realize patience is real.",
+      "indonesian": "Sambil nunggu di sini, aku sadar sabar itu nyata.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845501"
+    },
+    {
+      "english": "I don’t want to fight the delay, I’ll adapt.",
+      "indonesian": "Aku nggak mau berantem sama keterlambatan, aku bakal adaptasi.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845504"
+    },
+    {
+      "english": "Checking my boarding pass, I feel more grounded.",
+      "indonesian": "Pas cek boarding pass, aku jadi lebih merasa mantap.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845507"
+    },
+    {
+      "english": "I miss home a little, but I’m excited too.",
+      "indonesian": "Aku kangen rumah sedikit, tapi aku juga excited.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845512"
+    },
+    {
+      "english": "If I get lost, I’ll ask kindly, no panic.",
+      "indonesian": "Kalau aku ke-sasar, aku tanya dengan sopan, nggak panik.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845516"
+    },
+    {
+      "english": "Right now, I just need quiet, then move.",
+      "indonesian": "Sekarang, aku cuma butuh tenang dulu, baru jalan.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845519"
+    },
+    {
+      "english": "I’m okay being slow, I’d rather be careful.",
+      "indonesian": "Gapapa jalan pelan, aku lebih suka hati-hati.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845523"
+    },
+    {
+      "english": "I’m nervous, but I’m also proud I came.",
+      "indonesian": "Aku gugup, tapi aku bangga karena tetap berangkat.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845528"
+    },
+    {
+      "english": "This airport feels huge, yet I’m learning it.",
+      "indonesian": "Bandara ini terasa besar, tapi aku lagi belajar.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845532"
+    },
+    {
+      "english": "I’m letting the stress pass, not carry me.",
+      "indonesian": "Aku biarkan stres lewat, jangan sampai nyeret aku.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845535"
+    },
+    {
+      "english": "I want to keep my thoughts honest, not fake.",
+      "indonesian": "Aku mau jujur sama perasaanku, bukan pura-pura kuat.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845538"
+    },
+    {
+      "english": "Sometimes I overthink, but I can redirect.",
+      "indonesian": "Kadang aku kepikiran terus, tapi aku bisa alihin fokus.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845541"
+    },
+    {
+      "english": "I’m proud I stayed patient, even when tired.",
+      "indonesian": "Aku bangga bisa sabar, meski lagi capek.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845545"
+    },
+    {
+      "english": "I trust the process, even if it takes time.",
+      "indonesian": "Aku percaya prosesnya, walau butuh waktu.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845548"
+    },
+    {
+      "english": "I’m noticing the small wins, they matter.",
+      "indonesian": "Aku mulai lihat kemenangan kecil, itu penting.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845551"
+    },
+    {
+      "english": "After all, this journey is for me.",
+      "indonesian": "Pokoknya, perjalanan ini buatku.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845554"
+    },
+    {
+      "english": "My heart is calm, my mind is focused.",
+      "indonesian": "Hati aku tenang, pikiran aku fokus.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845557"
+    },
+    {
+      "english": "I’m learning to let go of control.",
+      "indonesian": "Aku sedang belajar melepas kontrol.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845560"
+    },
+    {
+      "english": "If things change, I’ll stay flexible inside.",
+      "indonesian": "Kalau rencana berubah, aku tetap fleksibel di dalam.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845565"
+    },
+    {
+      "english": "I just need a moment, then I’ll be fine.",
+      "indonesian": "Aku cuma butuh sebentar, nanti juga baik-baik saja.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845568"
+    },
+    {
+      "english": "I’m okay feeling uncertain, it still works out.",
+      "indonesian": "Nggak apa-apa merasa ragu, ujungnya tetap jalan.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845572"
+    },
+    {
+      "english": "I’m grateful for this time, even waiting.",
+      "indonesian": "Aku bersyukur atas waktu ini, termasuk nunggu.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845618"
+    },
+    {
+      "english": "I won’t compare myself, I’ll follow my pace.",
+      "indonesian": "Aku nggak mau bandingin, aku ikutin ritmaku.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845622"
+    },
+    {
+      "english": "In this noise, I find my own rhythm.",
+      "indonesian": "Di tengah ramainya, aku menemukan ritme sendiri.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845625"
+    },
+    {
+      "english": "Tonight, I’ll write down what I felt.",
+      "indonesian": "Malam ini, aku mau nulis apa yang aku rasakan.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845629"
+    },
+    {
+      "english": "I’m going to ask, politely, for directions.",
+      "indonesian": "Aku mau tanya dengan sopan, minta arah.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845632"
+    },
+    {
+      "english": "First, I check the screen, then I move.",
+      "indonesian": "Pertama, aku cek layar, baru jalan.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845635"
+    },
+    {
+      "english": "My ticket’s in my bag, easy to grab.",
+      "indonesian": "Tiketku ada di tas, tinggal ambil.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845638"
+    },
+    {
+      "english": "If you’re unsure, ask the staff, they help.",
+      "indonesian": "Kalau ragu, tanya petugas, mereka bantu.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T10:17:50.845642"
     }
   ],
-  "last_updated": "2026-11-03T10:23:37.226309"
+  "last_updated": "2026-11-04T10:17:50.845644"
 }
