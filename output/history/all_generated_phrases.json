@@ -12959,7 +12959,727 @@
       "indonesian": "Kalau ragu, tanya petugas, mereka bantu.",
       "category": "Travel & Airport",
       "generated_at": "2026-11-04T10:17:50.845642"
+    },
+    {
+      "english": "Hi, can I have a menu, please?",
+      "indonesian": "Halo, bisa saya lihat menunya, ya?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265768"
+    },
+    {
+      "english": "One coffee to go, please, thank you.",
+      "indonesian": "Satu kopi dibawa pulang, ya, makasih.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265783"
+    },
+    {
+      "english": "Is this bread fresh, right now?",
+      "indonesian": "Roti ini masih fresh, sekarang?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265785"
+    },
+    {
+      "english": "Do you have oat milk, please?",
+      "indonesian": "Kalian punya susu oat, ya?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265788"
+    },
+    {
+      "english": "Wait, I need a quick photo.",
+      "indonesian": "Sebentar, aku mau foto dulu.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265791"
+    },
+    {
+      "english": "Mm, that smells amazing, wow.",
+      "indonesian": "Wangi banget, enak banget, wow!",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265793"
+    },
+    {
+      "english": "Sorry, is this seat taken?",
+      "indonesian": "Maaf, kursi ini kosong, ya?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265796"
+    },
+    {
+      "english": "Do you take cash, or card?",
+      "indonesian": "Bayarnya bisa cash atau kartu, ya?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265802"
+    },
+    {
+      "english": "I’ll take the same thing, please.",
+      "indonesian": "Aku ambil yang sama, ya.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265806"
+    },
+    {
+      "english": "Can I pay first, or after?",
+      "indonesian": "Saya bayar dulu, atau nanti?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265809"
+    },
+    {
+      "english": "Hold on, I want to add sugar.",
+      "indonesian": "Tunggu, aku mau tambah gula.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265811"
+    },
+    {
+      "english": "No sugar, please, just black coffee.",
+      "indonesian": "Gak pakai gula, ya, kopi hitam.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265815"
+    },
+    {
+      "english": "Is there a cheaper size?",
+      "indonesian": "Yang ukuran kecil ada, lebih murah?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265817"
+    },
+    {
+      "english": "Oh, it’s too sweet for me.",
+      "indonesian": "Aduh, ini terlalu manis buatku.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265820"
+    },
+    {
+      "english": "Can I get it half hot, half iced?",
+      "indonesian": "Bisa setengah panas, setengah es?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265822"
+    },
+    {
+      "english": "I think I’m allergic, sorry.",
+      "indonesian": "Kayaknya aku alergi, maaf ya.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265827"
+    },
+    {
+      "english": "Do you have gluten-free options?",
+      "indonesian": "Ada yang bebas gluten, ya?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265829"
+    },
+    {
+      "english": "Great, thank you for the help!",
+      "indonesian": "Sip, makasih ya, bantuannya!",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265831"
+    },
+    {
+      "english": "What’s today’s bestseller?",
+      "indonesian": "Yang paling laris hari ini apa?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265835"
+    },
+    {
+      "english": "Can I taste a sample, please?",
+      "indonesian": "Boleh coba tester dulu, ya?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265837"
+    },
+    {
+      "english": "Sorry, I’ll wait a minute.",
+      "indonesian": "Maaf, aku tunggu dulu, bentar.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265840"
+    },
+    {
+      "english": "Nice, the wait is worth it.",
+      "indonesian": "Mantap, nungguannya worth it!",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265842"
+    },
+    {
+      "english": "Is this still available, or sold out?",
+      "indonesian": "Masih ada, atau sudah habis?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265845"
+    },
+    {
+      "english": "Oke, I’ll order now, please.",
+      "indonesian": "Oke, aku pesan sekarang, ya.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265848"
+    },
+    {
+      "english": "Can you make it less strong?",
+      "indonesian": "Bisa dibuat lebih nggak pekat?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265850"
+    },
+    {
+      "english": "Wow, this cake is super soft.",
+      "indonesian": "Kue ini lembut banget, ya ampun!",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265853"
+    },
+    {
+      "english": "Do you have a birthday candle?",
+      "indonesian": "Ada lilin buat ulang tahun, ya?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265855"
+    },
+    {
+      "english": "I’ll take two, that one looks good.",
+      "indonesian": "Aku ambil dua, yang itu keliatan enak.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265858"
+    },
+    {
+      "english": "Can I pack it neatly, please?",
+      "indonesian": "Tolong dibungkus rapi, ya.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265861"
+    },
+    {
+      "english": "Thanks, see you later, bye!",
+      "indonesian": "Makasih, sampai nanti, ya!",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265864"
+    },
+    {
+      "english": "What do you recommend today, for breakfast?",
+      "indonesian": "Kamu rekomendasi apa untuk sarapan hari ini?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265867"
+    },
+    {
+      "english": "Is your coffee mild, or more bold?",
+      "indonesian": "Kopi kamu rasanya ringan, atau lebih bold?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265869"
+    },
+    {
+      "english": "How much is the medium size, please?",
+      "indonesian": "Harga ukuran medium berapa, ya?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265872"
+    },
+    {
+      "english": "Do you have any seasonal drinks right now?",
+      "indonesian": "Ada minuman musiman sekarang, nggak?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265874"
+    },
+    {
+      "english": "What kind of bread goes with this soup?",
+      "indonesian": "Roti apa yang cocok untuk sup ini?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265876"
+    },
+    {
+      "english": "Can you suggest a pastry for tea?",
+      "indonesian": "Kamu bisa saranin pastry buat teh?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265881"
+    },
+    {
+      "english": "Is this latte made with fresh milk?",
+      "indonesian": "Latte ini pakai susu segar, ya?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265883"
+    },
+    {
+      "english": "Which drink is the most popular here?",
+      "indonesian": "Minuman apa yang paling laris di sini?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265892"
+    },
+    {
+      "english": "How sweet is the cinnamon roll, actually?",
+      "indonesian": "Sebenernya, cinnamon roll ini manisnya gimana?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265895"
+    },
+    {
+      "english": "Can I see the cake flavors, please?",
+      "indonesian": "Boleh lihat varian rasa kue, ya?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265898"
+    },
+    {
+      "english": "Do you have something not too filling?",
+      "indonesian": "Ada yang nggak terlalu mengenyangkan?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265900"
+    },
+    {
+      "english": "What’s the best pairing for chocolate cake?",
+      "indonesian": "Padanan terbaik buat kue cokelat apa?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265903"
+    },
+    {
+      "english": "Is there a vegetarian option today?",
+      "indonesian": "Ada pilihan vegetarian hari ini?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265905"
+    },
+    {
+      "english": "Can you recommend a drink for focus?",
+      "indonesian": "Bisa rekomendasi minuman buat fokus?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265908"
+    },
+    {
+      "english": "Do you have decaf coffee available?",
+      "indonesian": "Ada kopi decaf nggak?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265910"
+    },
+    {
+      "english": "How do I order, counter or app?",
+      "indonesian": "Cara pesan gimana, antri di counter atau pakai aplikasi?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265913"
+    },
+    {
+      "english": "Is it okay to eat here first?",
+      "indonesian": "Boleh makan di sini dulu?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265915"
+    },
+    {
+      "english": "Where’s the best place to sit?",
+      "indonesian": "Tempat duduk paling nyaman di mana?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265919"
+    },
+    {
+      "english": "What time do you restock pastries?",
+      "indonesian": "Jam berapa kamu restock pastry?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265921"
+    },
+    {
+      "english": "Do you offer free refills for drinks?",
+      "indonesian": "Minuman bisa refill gratis nggak?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265923"
+    },
+    {
+      "english": "Can I ask about the nut ingredients?",
+      "indonesian": "Boleh tanya bahan kacangnya, ya?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265925"
+    },
+    {
+      "english": "Which cake is less sweet for me?",
+      "indonesian": "Kue mana yang nggak terlalu manis?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265927"
+    },
+    {
+      "english": "Do you have something warm for winter?",
+      "indonesian": "Ada minuman hangat buat cuaca dingin?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265930"
+    },
+    {
+      "english": "What’s inside the signature bread, exactly?",
+      "indonesian": "Isi roti signature ini apa aja?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265933"
+    },
+    {
+      "english": "Can I get recommendations based on taste?",
+      "indonesian": "Bisa rekomen berdasarkan selera aku?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265935"
+    },
+    {
+      "english": "If I like fruity, what should I pick?",
+      "indonesian": "Kalau aku suka yang fruity, pilih yang mana?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265937"
+    },
+    {
+      "english": "Is your butter unsalted, or salted?",
+      "indonesian": "Menteganya tanpa garam, atau pakai garam?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265940"
+    },
+    {
+      "english": "Can you make it extra hot, please?",
+      "indonesian": "Bisa dibuat ekstra panas, ya?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265942"
+    },
+    {
+      "english": "Do you have gift boxes for cakes?",
+      "indonesian": "Ada kotak kado buat kue nggak?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265944"
+    },
+    {
+      "english": "You’ve got this, one sip at a time.",
+      "indonesian": "Kamu pasti bisa, satu teguk dulu.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265947"
+    },
+    {
+      "english": "Start small, your taste will grow.",
+      "indonesian": "Mulai dari kecil, rasa kamu makin matang.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265950"
+    },
+    {
+      "english": "Believe in the aroma, it’s a good sign.",
+      "indonesian": "Percaya aromanya, itu pertanda bagus.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265953"
+    },
+    {
+      "english": "Today is a perfect day for comfort.",
+      "indonesian": "Hari ini pas banget buat nyaman.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265955"
+    },
+    {
+      "english": "Keep it simple, you’ll taste more.",
+      "indonesian": "Santai aja, biar rasanya terasa.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265958"
+    },
+    {
+      "english": "No rush, enjoy the moment, really.",
+      "indonesian": "Nggak usah buru-buru, nikmatin aja.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265961"
+    },
+    {
+      "english": "Your first bite can change your mood.",
+      "indonesian": "Gigitan pertama bisa ngubah mood.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265964"
+    },
+    {
+      "english": "Good energy tastes sweeter, every time.",
+      "indonesian": "Energi baik bikin rasanya makin manis.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265966"
+    },
+    {
+      "english": "Don’t overthink, let your palate decide.",
+      "indonesian": "Jangan kebanyakan mikir, biar lidah memutuskan.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265970"
+    },
+    {
+      "english": "You deserve a treat, right now.",
+      "indonesian": "Kamu pantas dapat manisnya, sekarang.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265972"
+    },
+    {
+      "english": "One calm sip, your mind resets.",
+      "indonesian": "Satu teguk yang tenang, pikiran kembali fokus.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265976"
+    },
+    {
+      "english": "Take a breath, then enjoy your bread.",
+      "indonesian": "Tarik napas, lalu nikmati rotinya.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265978"
+    },
+    {
+      "english": "Compliment the baker, you’ll make their day.",
+      "indonesian": "Pujilah tukangnya, kamu bikin harinya cerah.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265982"
+    },
+    {
+      "english": "Your patience pays off, trust me.",
+      "indonesian": "Sabar itu ada hasilnya, percaya deh.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265992"
+    },
+    {
+      "english": "Even ordinary days need a little joy.",
+      "indonesian": "Hari biasa pun butuh sedikit bahagia.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265996"
+    },
+    {
+      "english": "You’re closer than you think, keep going.",
+      "indonesian": "Kamu lebih dekat dari yang kamu kira, lanjutkan.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.265999"
+    },
+    {
+      "english": "This place makes small wins feel big.",
+      "indonesian": "Tempat ini bikin kemenangan kecil terasa besar.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.266001"
+    },
+    {
+      "english": "Let the cocoa do the comforting.",
+      "indonesian": "Biarkan cokelatnya yang menenangkan.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.266003"
+    },
+    {
+      "english": "Start with what feels right, not loud.",
+      "indonesian": "Pilih yang terasa pas, bukan yang ramai.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.266006"
+    },
+    {
+      "english": "You don’t need perfect, just consistent.",
+      "indonesian": "Kamu nggak harus sempurna, yang penting konsisten.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.266011"
+    },
+    {
+      "english": "A fresh bun is a fresh mindset.",
+      "indonesian": "Roti hangat bikin pikiran lebih segar.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.266013"
+    },
+    {
+      "english": "Today’s mood, tomorrow’s progress.",
+      "indonesian": "Mood hari ini, progres besok.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.266016"
+    },
+    {
+      "english": "Say thank you, it changes everything.",
+      "indonesian": "Ucapkan terima kasih, semuanya terasa berubah.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.266019"
+    },
+    {
+      "english": "Keep showing up, the flavor follows.",
+      "indonesian": "Terus muncul, nanti rasa yang datang.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.266021"
+    },
+    {
+      "english": "Good coffee isn’t just drink, it’s fuel.",
+      "indonesian": "Kopi enak itu bukan cuma minuman, tapi bahan bakar.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.266024"
+    },
+    {
+      "english": "Be proud, you chose yourself today.",
+      "indonesian": "Bangga ya, kamu pilih diri sendiri hari ini.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.266027"
+    },
+    {
+      "english": "Joy first, then everything feels easier.",
+      "indonesian": "Bahagia dulu, baru semuanya terasa ringan.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.266029"
+    },
+    {
+      "english": "One sweet moment can heal your day.",
+      "indonesian": "Satu momen manis bisa menyembuhkan hari.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.266031"
+    },
+    {
+      "english": "You’re allowed to enjoy, no guilt.",
+      "indonesian": "Kamu berhak menikmati, tanpa rasa bersalah.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.266035"
+    },
+    {
+      "english": "I’m here to calm down, one smell at a time",
+      "indonesian": "Aku datang buat tenang, pelan-pelan dari aromanya",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.266038"
+    },
+    {
+      "english": "Honestly, this cake feels like a hug",
+      "indonesian": "Jujur ya, kue ini rasanya kayak pelukan",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.266040"
+    },
+    {
+      "english": "I needed patience today, and you helped",
+      "indonesian": "Aku butuh sabar hari ini, dan kamu bantu",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.266043"
+    },
+    {
+      "english": "This coffee tastes like relief, not just flavor",
+      "indonesian": "Kopi ini rasanya seperti lega, bukan sekadar rasa",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.266046"
+    },
+    {
+      "english": "I don’t rush my thoughts here, just sip",
+      "indonesian": "Aku nggak buru-buru mikir di sini, cuma nyeruput",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.266049"
+    },
+    {
+      "english": "Some days, sweet stuff is medicine for me",
+      "indonesian": "Ada hari, yang manis itu obat buatku",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.266053"
+    },
+    {
+      "english": "I like how your bakery feels warm inside",
+      "indonesian": "Aku suka, rasanya hangat banget dari dalam",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.266055"
+    },
+    {
+      "english": "Let me be real, I needed comfort",
+      "indonesian": "Biar jujur, aku lagi butuh kenyamanan",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.266057"
+    },
+    {
+      "english": "I’m taking my time, the bread smells sincere",
+      "indonesian": "Aku pelan aja, roti ini baunya jujur",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.266061"
+    },
+    {
+      "english": "If I overthink, this place pulls me back",
+      "indonesian": "Kalau aku kebanyakan mikir, tempat ini narik aku balik",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.266063"
+    },
+    {
+      "english": "I appreciate the quiet, and the honest taste",
+      "indonesian": "Aku hargai suasananya, dan rasanya jujur",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.266066"
+    },
+    {
+      "english": "Your cinnamon vibe, it makes me breathe slower",
+      "indonesian": "Wangi kayu manisnya, bikin aku napas lebih pelan",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.266069"
+    },
+    {
+      "english": "I’m learning to wait, because patience tastes good",
+      "indonesian": "Aku lagi belajar nunggu, sabar itu enak",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.266072"
+    },
+    {
+      "english": "I came for coffee, stayed for emotional warmth",
+      "indonesian": "Aku datang buat kopi, tinggal karena hangatnya kerasa",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.266075"
+    },
+    {
+      "english": "Today I’m choosing peace, not just sweetness",
+      "indonesian": "Hari ini aku pilih damai, bukan cuma manis",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.266078"
+    },
+    {
+      "english": "The aroma tells me, everything will settle",
+      "indonesian": "Aromanya bilang, semuanya bakal tenang",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.266081"
+    },
+    {
+      "english": "I’m okay with imperfect days, at least here",
+      "indonesian": "Aku nggak apa-apa sama hari yang nggak sempurna, minimal di sini",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.266084"
+    },
+    {
+      "english": "I want to say thanks, this feels thoughtful",
+      "indonesian": "Aku mau bilang terima kasih, ini terasa perhatian",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.266086"
+    },
+    {
+      "english": "Take it easy, my heart needed this",
+      "indonesian": "Santai aja, hatiku butuh ini",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.266088"
+    },
+    {
+      "english": "I don’t chase perfection, I chase comfort",
+      "indonesian": "Aku nggak kejar sempurna, aku kejar nyaman",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.266091"
+    },
+    {
+      "english": "This pastry reminds me, small joy matters",
+      "indonesian": "Kue ini ngingetin aku, senang kecil itu penting",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.266094"
+    },
+    {
+      "english": "I’m letting go of stress, one bite",
+      "indonesian": "Aku lepasin stres, pelan-pelan dari satu gigitan",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.266097"
+    },
+    {
+      "english": "When life feels heavy, I choose warmth first",
+      "indonesian": "Kalau hidup terasa berat, aku pilih hangat dulu",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.266100"
+    },
+    {
+      "english": "I’m proud I showed up, even tired",
+      "indonesian": "Aku bangga bisa datang, meski lagi capek",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.266103"
+    },
+    {
+      "english": "This is my little ritual, to reset",
+      "indonesian": "Ini ritual kecilku, buat reset pikiran",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.266105"
+    },
+    {
+      "english": "I trust your process, and I feel better",
+      "indonesian": "Aku percaya prosesnya, dan aku jadi lebih enak",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.266109"
+    },
+    {
+      "english": "The frosting looks sweet, but it’s honest",
+      "indonesian": "Topping-nya manis, tapi jujur rasanya",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.266112"
+    },
+    {
+      "english": "I’m listening to myself, not the noise",
+      "indonesian": "Aku dengerin perasaanku, bukan hiruk pikuk",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.266116"
+    },
+    {
+      "english": "Give me a moment, I’ll be okay after",
+      "indonesian": "Beri aku sebentar, nanti aku baik-baik aja",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.266119"
+    },
+    {
+      "english": "This place makes my feelings taste right",
+      "indonesian": "Tempat ini bikin perasaanku pas rasanya",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.266122"
+    },
+    {
+      "english": "Hey, what’s your bestseller today, what’s best?",
+      "indonesian": "Hei, best seller kamu hari ini apa?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.266125"
+    },
+    {
+      "english": "I’ll take iced coffee, and a croissant, please.",
+      "indonesian": "Saya pesan kopi es, dan croissant, ya.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-05T10:11:30.266129"
     }
   ],
-  "last_updated": "2026-11-04T10:17:50.845644"
+  "last_updated": "2026-11-05T10:11:30.266130"
 }
