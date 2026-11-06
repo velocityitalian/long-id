@@ -13679,7 +13679,727 @@
       "indonesian": "Saya pesan kopi es, dan croissant, ya.",
       "category": "Coffee Shop & Bakery",
       "generated_at": "2026-11-05T10:11:30.266129"
+    },
+    {
+      "english": "I’ve got this, don’t worry, okay?",
+      "indonesian": "Aku bisa, jangan khawatir, ya?",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980636"
+    },
+    {
+      "english": "It’s okay, I’ll handle it, calm down.",
+      "indonesian": "Gapapa, aku urus, santai.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980651"
+    },
+    {
+      "english": "Relax, I know what I’m doing.",
+      "indonesian": "Santai, aku tahu apa yang kulakukan.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980655"
+    },
+    {
+      "english": "No worries, we’ll figure it out.",
+      "indonesian": "Tenang, kita cari jalan keluarnya.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980659"
+    },
+    {
+      "english": "I’m ready now, let’s go, guys.",
+      "indonesian": "Aku siap sekarang, ayo berangkat, teman-teman.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980663"
+    },
+    {
+      "english": "I can do this, watch me.",
+      "indonesian": "Aku bisa, lihat saja.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980666"
+    },
+    {
+      "english": "Trust me, it’ll be fine, seriously.",
+      "indonesian": "Percayalah, nanti juga aman, serius.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980670"
+    },
+    {
+      "english": "I’ve done this before, so easy.",
+      "indonesian": "Aku sudah pernah, gampang kok.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980676"
+    },
+    {
+      "english": "I’m sure, this will work out.",
+      "indonesian": "Pasti berhasil, ini akan jalan.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980680"
+    },
+    {
+      "english": "Don’t overthink, I’ve got a plan.",
+      "indonesian": "Jangan kebanyakan mikir, aku punya rencana.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980684"
+    },
+    {
+      "english": "Easy, I’ll explain it, step by step.",
+      "indonesian": "Santai, aku jelasin pelan-pelan.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980688"
+    },
+    {
+      "english": "I’ll be quick, just follow me.",
+      "indonesian": "Aku cepat, ikut aku ya.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980691"
+    },
+    {
+      "english": "You can do it, believe me.",
+      "indonesian": "Kamu pasti bisa, percaya ya.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980694"
+    },
+    {
+      "english": "Let’s try first, no pressure, okay?",
+      "indonesian": "Coba dulu, santai aja, ya?",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980697"
+    },
+    {
+      "english": "I’m confident, I’ll handle the details.",
+      "indonesian": "Aku yakin, aku yang urus detailnya.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980701"
+    },
+    {
+      "english": "It’s my turn, give me a sec.",
+      "indonesian": "Giliran aku, sebentar ya.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980704"
+    },
+    {
+      "english": "I’ll figure it out, one step at a time.",
+      "indonesian": "Nanti aku beresin, pelan-pelan aja.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980708"
+    },
+    {
+      "english": "Got it, I understand, thanks!",
+      "indonesian": "Oke, aku paham, makasih!",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980711"
+    },
+    {
+      "english": "Give me a moment, I’ve got this.",
+      "indonesian": "Tunggu sebentar, aku bisa.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980714"
+    },
+    {
+      "english": "I’m fine, I can manage today.",
+      "indonesian": "Aku baik-baik aja, aku sanggup hari ini.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980717"
+    },
+    {
+      "english": "Honestly, I’m not worried at all.",
+      "indonesian": "Jujur, aku nggak khawatir sama sekali.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980720"
+    },
+    {
+      "english": "Cool, I’m on it, right away.",
+      "indonesian": "Sip, aku kerjain, sekarang juga.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980723"
+    },
+    {
+      "english": "I’ll speak up, it’s my right.",
+      "indonesian": "Aku akan bersuara, itu hakku.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980729"
+    },
+    {
+      "english": "No problem, I’ll join you in a bit.",
+      "indonesian": "Nggak apa-apa, nanti aku nyusul ya.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980733"
+    },
+    {
+      "english": "I’m sure about this, trust my judgment.",
+      "indonesian": "Aku yakin, percaya sama penilaianku.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980736"
+    },
+    {
+      "english": "Okay, I’ll try, worst case, we learn.",
+      "indonesian": "Oke, aku coba, kalau gagal, ya belajar.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980740"
+    },
+    {
+      "english": "I’ve got energy today, let’s do it.",
+      "indonesian": "Hari ini aku semangat, ayo.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980743"
+    },
+    {
+      "english": "Just ask, I’m ready to help.",
+      "indonesian": "Tinggal bilang, aku siap bantu.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980746"
+    },
+    {
+      "english": "I’ll stay calm, we’ll solve it together.",
+      "indonesian": "Aku tetap tenang, kita beresin bareng-bareng.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980750"
+    },
+    {
+      "english": "I believe in you, go for it.",
+      "indonesian": "Aku percaya sama kamu, gas!",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980754"
+    },
+    {
+      "english": "Can you help me, where should I start?",
+      "indonesian": "Kamu bisa bantu aku, mulai dari mana?",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980758"
+    },
+    {
+      "english": "What do you recommend, for this situation?",
+      "indonesian": "Kamu saranin apa, untuk situasi ini?",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980763"
+    },
+    {
+      "english": "How do you say this politely, in Indonesian?",
+      "indonesian": "Gimana cara bilangnya yang sopan, dalam bahasa Indonesia?",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980768"
+    },
+    {
+      "english": "Could you repeat that, slowly please?",
+      "indonesian": "Bisa ulang lagi, pelan-pelan ya?",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980770"
+    },
+    {
+      "english": "Do you think it’s a good idea, though?",
+      "indonesian": "Menurut kamu, itu ide bagus nggak?",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980774"
+    },
+    {
+      "english": "When you speak, what should I focus on?",
+      "indonesian": "Kalau kamu ngomong, fokusnya ke mana?",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980776"
+    },
+    {
+      "english": "Which one sounds more natural, this or that?",
+      "indonesian": "Yang mana lebih natural, ini atau itu?",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980779"
+    },
+    {
+      "english": "If I mess up, what should I say?",
+      "indonesian": "Kalau aku salah, aku harus bilang apa?",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980782"
+    },
+    {
+      "english": "I’m curious, why do people say that?",
+      "indonesian": "Aku penasaran, kenapa orang bilang begitu?",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980785"
+    },
+    {
+      "english": "Can we practice this, together right now?",
+      "indonesian": "Bisa kita latihan bareng, sekarang?",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980788"
+    },
+    {
+      "english": "What’s the best answer, in your opinion?",
+      "indonesian": "Jawaban terbaik versi kamu yang mana?",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980791"
+    },
+    {
+      "english": "How formal should I be, for this?",
+      "indonesian": "Harus formal sampai mana, untuk ini?",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980794"
+    },
+    {
+      "english": "Is it okay if I ask one more?",
+      "indonesian": "Boleh tanya lagi sekali nggak?",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980797"
+    },
+    {
+      "english": "Do you mind correcting my sentence?",
+      "indonesian": "Kamu nggak keberatan koreksi kalimat aku?",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980800"
+    },
+    {
+      "english": "What’s the fastest way to sound confident?",
+      "indonesian": "Cara paling cepat biar terdengar yakin apa?",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980803"
+    },
+    {
+      "english": "When I pause, does it sound awkward?",
+      "indonesian": "Kalau aku jeda, kedengarannya nggak enak?",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980806"
+    },
+    {
+      "english": "Can we switch roles, so I answer too?",
+      "indonesian": "Kita tukar peran, biar aku juga jawab?",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980808"
+    },
+    {
+      "english": "What’s one polite line I can use?",
+      "indonesian": "Satu kalimat sopan yang bisa aku pakai apa?",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980812"
+    },
+    {
+      "english": "How would you phrase this, naturally?",
+      "indonesian": "Kalau kamu ngomongnya, gimana yang natural?",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980814"
+    },
+    {
+      "english": "Can I get feedback, after I try?",
+      "indonesian": "Boleh minta feedback, setelah aku coba?",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980817"
+    },
+    {
+      "english": "Which tone should I use, friendly or firm?",
+      "indonesian": "Kamu saran, nada yang ramah atau tegas?",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980819"
+    },
+    {
+      "english": "If I’m unsure, how do I ask politely?",
+      "indonesian": "Kalau aku ragu, gimana tanya dengan sopan?",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980823"
+    },
+    {
+      "english": "Do you want the short version or details?",
+      "indonesian": "Mau versi singkat, atau yang detail?",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980825"
+    },
+    {
+      "english": "What should I do next, step by step?",
+      "indonesian": "Langkah berikutnya apa, satu-satu?",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980828"
+    },
+    {
+      "english": "Can I confirm, you mean this exact thing?",
+      "indonesian": "Boleh konfirmasi, maksudnya yang ini kan?",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980830"
+    },
+    {
+      "english": "How do you handle awkward moments, honestly?",
+      "indonesian": "Kalau lagi canggung, kamu ngapain, jujur?",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980833"
+    },
+    {
+      "english": "Can you ask me back, so I learn faster?",
+      "indonesian": "Bisa kamu tanya balik, biar aku cepat paham?",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980836"
+    },
+    {
+      "english": "What’s your rule for confidence in conversation?",
+      "indonesian": "Menurut kamu, aturan biar percaya diri saat ngobrol?",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980840"
+    },
+    {
+      "english": "Should I ask now, or wait for later?",
+      "indonesian": "Mending tanya sekarang, atau tunggu nanti?",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980842"
+    },
+    {
+      "english": "Slow down, your voice sounds steadier.",
+      "indonesian": "Pelankan, suaramu jadi lebih stabil.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980845"
+    },
+    {
+      "english": "Breathe, then answer like you belong.",
+      "indonesian": "Tarik napas, lalu jawab seperti kamu pantas.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980848"
+    },
+    {
+      "english": "Mistakes are proof you’re pushing forward.",
+      "indonesian": "Salah itu bukti kamu terus maju.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980853"
+    },
+    {
+      "english": "Practice your courage, one sentence a day.",
+      "indonesian": "Latih keberanianmu, satu kalimat tiap hari.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980856"
+    },
+    {
+      "english": "Your accent can grow, don’t judge it.",
+      "indonesian": "Aksenmu bisa berkembang, jangan dihakimi.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980860"
+    },
+    {
+      "english": "Confidence starts when you keep going.",
+      "indonesian": "Kepercayaan diri mulai saat kamu lanjut.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980864"
+    },
+    {
+      "english": "Try again, the next try helps.",
+      "indonesian": "Coba lagi, percobaan berikutnya membantu.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980867"
+    },
+    {
+      "english": "Say it anyway, clarity beats worry.",
+      "indonesian": "Ucapkan saja, kejelasan lebih penting.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980870"
+    },
+    {
+      "english": "Small progress is still progress, celebrate it.",
+      "indonesian": "Kemajuan kecil tetap kemajuan, rayakan.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980873"
+    },
+    {
+      "english": "If you freeze, restart with one word.",
+      "indonesian": "Kalau buntu, mulai lagi dengan satu kata.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980876"
+    },
+    {
+      "english": "Hold your ground, you’re learning out loud.",
+      "indonesian": "Pegang posisimu, kamu belajar dengan suara.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980879"
+    },
+    {
+      "english": "Give yourself credit, you’re doing it.",
+      "indonesian": "Kasih apresiasi ke diri sendiri, kamu lakukan.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980882"
+    },
+    {
+      "english": "Ask questions confidently, curiosity is power.",
+      "indonesian": "Bertanya dengan yakin, rasa ingin tahu itu kuat.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980885"
+    },
+    {
+      "english": "Your brain adapts, every effort counts.",
+      "indonesian": "Otakmu beradaptasi, tiap usaha ada nilainya.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980888"
+    },
+    {
+      "english": "Keep it simple, you’ll sound natural faster.",
+      "indonesian": "Pakai yang sederhana, biar cepat terasa natural.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980892"
+    },
+    {
+      "english": "Confidence is kindness to your own mind.",
+      "indonesian": "Kepercayaan diri itu kebaikan buat pikiranmu.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980894"
+    },
+    {
+      "english": "Don’t wait for motivation, start small now.",
+      "indonesian": "Jangan tunggu motivasi, mulai kecil sekarang.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980898"
+    },
+    {
+      "english": "You’re allowed to pause, clarity follows.",
+      "indonesian": "Kamu boleh berhenti sejenak, nanti jelas.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980901"
+    },
+    {
+      "english": "Be proud, even one correct sentence matters.",
+      "indonesian": "Bangga ya, satu kalimat benar saja berarti.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980904"
+    },
+    {
+      "english": "Make eye contact, it boosts your courage.",
+      "indonesian": "Tatap mata, itu menambah keberanian.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980907"
+    },
+    {
+      "english": "Speak like you mean it, gently.",
+      "indonesian": "Bicaralah seperti kamu yakin, pelan tapi tegas.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980909"
+    },
+    {
+      "english": "Your effort is the real flex, go.",
+      "indonesian": "Usahamu yang paling keren, jalan terus.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980912"
+    },
+    {
+      "english": "Turn nerves into energy, then continue.",
+      "indonesian": "Ubah gugup jadi energi, lalu lanjut.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980917"
+    },
+    {
+      "english": "Today you’re building skill, not proving worth.",
+      "indonesian": "Hari ini kamu membangun skill, bukan membuktikan nilai.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980921"
+    },
+    {
+      "english": "Celebrate attempts, the language will catch up.",
+      "indonesian": "Rayakan usaha, bahasamu akan mengejar.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980923"
+    },
+    {
+      "english": "Say it with calm, your message lands.",
+      "indonesian": "Ucapkan dengan tenang, pesanmu sampai.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980926"
+    },
+    {
+      "english": "Confidence grows when you learn from feedback.",
+      "indonesian": "Kepercayaan diri naik saat kamu belajar dari masukan.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980929"
+    },
+    {
+      "english": "Keep going, even imperfect Indonesian is progress.",
+      "indonesian": "Terus lanjut, Indonesian yang belum sempurna tetap maju.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980931"
+    },
+    {
+      "english": "You’ve got time, your fluency will arrive.",
+      "indonesian": "Kamu punya waktu, kefasihanmu akan datang.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980935"
+    },
+    {
+      "english": "Honestly, I’m proud of how I’m trying, today.",
+      "indonesian": "Jujur, aku bangga karena aku tetap mencoba, hari ini.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980939"
+    },
+    {
+      "english": "I’m nervous, but I won’t hide that feeling.",
+      "indonesian": "Aku gugup, tapi aku nggak akan menyembunyikan perasaan itu.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980942"
+    },
+    {
+      "english": "I’ll be patient, my Indonesian needs time.",
+      "indonesian": "Aku akan sabar, bahasa Indonesian-ku butuh waktu.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980945"
+    },
+    {
+      "english": "I learn by feeling it, then speaking.",
+      "indonesian": "Aku belajar dari merasakannya, lalu ngomong.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980948"
+    },
+    {
+      "english": "It’s okay to pause, I’m finding my words.",
+      "indonesian": "Nggak apa-apa berhenti sebentar, aku cari katanya.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980956"
+    },
+    {
+      "english": "I’m not perfect, I’m getting braver each day.",
+      "indonesian": "Aku nggak sempurna, aku makin berani tiap hari.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980960"
+    },
+    {
+      "english": "When I doubt myself, I slow down gently.",
+      "indonesian": "Kalau aku ragu, aku pelan-pelan, pelan aja.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980963"
+    },
+    {
+      "english": "I speak with kindness, not pressure on me.",
+      "indonesian": "Aku ngomong dengan lembut, bukan memaksa diri.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980965"
+    },
+    {
+      "english": "I notice my progress, even when it’s small.",
+      "indonesian": "Aku sadar perkembanganku, meski kecil.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980969"
+    },
+    {
+      "english": "I trust my effort, not just instant results.",
+      "indonesian": "Aku percaya usahaku, bukan cuma hasil cepat.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980972"
+    },
+    {
+      "english": "Today I’m honest, I’m still learning.",
+      "indonesian": "Hari ini aku jujur, aku masih belajar.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980975"
+    },
+    {
+      "english": "If I stumble, I keep my smile.",
+      "indonesian": "Kalau aku salah, aku tetap senyum.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980978"
+    },
+    {
+      "english": "I can handle correction, it helps me grow.",
+      "indonesian": "Aku bisa terima koreksi, itu bantu aku tumbuh.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980981"
+    },
+    {
+      "english": "I don’t rush, I want it to land.",
+      "indonesian": "Aku nggak buru-buru, aku mau pesan nyampe.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980984"
+    },
+    {
+      "english": "My confidence comes from trying, not pretending.",
+      "indonesian": "Kepercayaan diri datang dari mencoba, bukan pura-pura.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980987"
+    },
+    {
+      "english": "I respect my pace, I’ll get there slowly.",
+      "indonesian": "Aku menghargai caraku, pelan-pelan juga sampai.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980991"
+    },
+    {
+      "english": "I’m okay being a beginner, really.",
+      "indonesian": "Aku nggak apa-apa jadi pemula, serius.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980994"
+    },
+    {
+      "english": "I keep my heart calm, then I speak.",
+      "indonesian": "Aku jaga hati biar tenang, baru ngomong.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980997"
+    },
+    {
+      "english": "I learn faster when I stay open.",
+      "indonesian": "Aku belajar lebih cepat kalau aku tetap terbuka.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.980999"
+    },
+    {
+      "english": "I can admit I’m confused, and still speak.",
+      "indonesian": "Aku boleh bilang aku bingung, tapi tetap ngomong.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.981003"
+    },
+    {
+      "english": "I ground myself, then choose one clear sentence.",
+      "indonesian": "Aku tenangkan diri, lalu pilih satu kalimat jelas.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.981006"
+    },
+    {
+      "english": "I’m building confidence, from small real conversations.",
+      "indonesian": "Aku ngebangun percaya diri, dari obrolan kecil yang nyata.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.981012"
+    },
+    {
+      "english": "I accept my feelings, then continue calmly.",
+      "indonesian": "Aku terima perasaanku, lalu lanjut pelan-pelan.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.981015"
+    },
+    {
+      "english": "I’m allowed to learn slowly, no shame.",
+      "indonesian": "Aku boleh belajar pelan, nggak ada rasa malu.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.981018"
+    },
+    {
+      "english": "My goal is honest talk, not perfect speech.",
+      "indonesian": "Tujuanku ngobrol jujur, bukan ucapan sempurna.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.981021"
+    },
+    {
+      "english": "I don’t compare, I follow my own effort.",
+      "indonesian": "Aku nggak bandingin, aku ikutin usahaku sendiri.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.981025"
+    },
+    {
+      "english": "I’m okay sounding different, my meaning stays clear.",
+      "indonesian": "Aku nggak apa-apa terdengar beda, maknanya tetap jelas.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.981029"
+    },
+    {
+      "english": "When I’m tired, I speak simpler, still confident.",
+      "indonesian": "Kalau aku capek, aku ngomong lebih simpel, tetap yakin.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.981033"
+    },
+    {
+      "english": "I notice my fear, then choose courage anyway.",
+      "indonesian": "Aku kenali rasa takutku, lalu pilih berani juga.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.981036"
+    },
+    {
+      "english": "Tonight I reflect, tomorrow I’ll try again.",
+      "indonesian": "Malam ini aku refleksi, besok aku coba lagi.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.981039"
+    },
+    {
+      "english": "Order first, then think, you’ve got this.",
+      "indonesian": "Pilih dulu pesannya, baru mikir, kamu bisa.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.981043"
+    },
+    {
+      "english": "If you forget, say it again, calmly.",
+      "indonesian": "Kalau lupa, ulangi lagi, pelan-pelan.",
+      "category": "Confidence",
+      "generated_at": "2026-11-06T10:15:19.981046"
     }
   ],
-  "last_updated": "2026-11-05T10:11:30.266130"
+  "last_updated": "2026-11-06T10:15:19.981048"
 }
