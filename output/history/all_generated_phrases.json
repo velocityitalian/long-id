@@ -14399,7 +14399,727 @@
       "indonesian": "Kalau lupa, ulangi lagi, pelan-pelan.",
       "category": "Confidence",
       "generated_at": "2026-11-06T10:15:19.981046"
+    },
+    {
+      "english": "Hi, I’m here, where do I sign in?",
+      "indonesian": "Hai, saya sudah datang, di mana saya daftar?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695169"
+    },
+    {
+      "english": "Morning, can you help me with this form?",
+      "indonesian": "Selamat pagi, bisa bantu saya dengan formulir ini?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695184"
+    },
+    {
+      "english": "Sorry, I’m late, traffic was crazy today",
+      "indonesian": "Maaf, saya telat, macetnya parah hari ini",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695187"
+    },
+    {
+      "english": "Just checking in, are you free now?",
+      "indonesian": "Saya cuma cek, kamu bisa sekarang?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695190"
+    },
+    {
+      "english": "One more thing, could you send it today?",
+      "indonesian": "Satu lagi, bisa kirim hari ini?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695192"
+    },
+    {
+      "english": "Wait, I think we need an update",
+      "indonesian": "Tunggu, saya rasa perlu pembaruan",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695197"
+    },
+    {
+      "english": "Thanks, that makes sense, I’ll proceed",
+      "indonesian": "Makasih, masuk akal, saya lanjutkan",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695200"
+    },
+    {
+      "english": "Great, I’ll take care of it right away",
+      "indonesian": "Oke, saya urus sekarang juga",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695205"
+    },
+    {
+      "english": "Hold on, I need to grab my notes",
+      "indonesian": "Sebentar, saya ambil catatan dulu",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695208"
+    },
+    {
+      "english": "Can you repeat that, I missed the last part?",
+      "indonesian": "Bisa ulangi, saya kurang tangkap bagian terakhir?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695215"
+    },
+    {
+      "english": "Quick question, what’s the deadline?",
+      "indonesian": "Pertanyaan cepat, kapan deadline-nya?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695218"
+    },
+    {
+      "english": "I’m confused, could you explain again?",
+      "indonesian": "Saya bingung, bisa jelaskan lagi?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695221"
+    },
+    {
+      "english": "I’ll confirm, then I’ll get back to you",
+      "indonesian": "Saya konfirmasi dulu, nanti saya kabari",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695224"
+    },
+    {
+      "english": "Sure, I’ll be there, what time exactly?",
+      "indonesian": "Bisa, saya ikut, jam berapa tepatnya?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695234"
+    },
+    {
+      "english": "Let’s align, what’s your plan for today?",
+      "indonesian": "Kita samakan, rencana kamu hari ini apa?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695237"
+    },
+    {
+      "english": "I already sent it, please check your inbox",
+      "indonesian": "Saya sudah kirim, tolong cek email masuk",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695239"
+    },
+    {
+      "english": "Can we reschedule, this conflicts with my meeting?",
+      "indonesian": "Bisa dipindah, jadwal saya tabrakan rapat ini",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695241"
+    },
+    {
+      "english": "Sorry, I can’t make it, I have something urgent",
+      "indonesian": "Maaf, saya tidak bisa, ada yang darurat",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695245"
+    },
+    {
+      "english": "All good, the file is working now",
+      "indonesian": "Aman, filenya sudah jalan",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695247"
+    },
+    {
+      "english": "Can you mark it as urgent, please?",
+      "indonesian": "Bisa beri tanda urgent, ya?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695249"
+    },
+    {
+      "english": "I’ll review it now, give me five minutes",
+      "indonesian": "Saya cek sekarang, tunggu lima menit",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695251"
+    },
+    {
+      "english": "That’s helpful, I’ll share this with the team",
+      "indonesian": "Ini membantu, saya akan bagikan ke tim",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695254"
+    },
+    {
+      "english": "Where’s the printer, I need a copy",
+      "indonesian": "Di mana printer-nya, saya butuh print",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695257"
+    },
+    {
+      "english": "I’m on my way, I’ll arrive in ten minutes",
+      "indonesian": "Saya sudah jalan, saya sampai sepuluh menit lagi",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695260"
+    },
+    {
+      "english": "Okay, I get it, thanks for clarifying",
+      "indonesian": "Oke, saya paham, makasih sudah jelaskan",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695262"
+    },
+    {
+      "english": "Let me think, I’ll answer in a second",
+      "indonesian": "Saya pikir dulu, sebentar ya",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695264"
+    },
+    {
+      "english": "We’re running late, should we start without me?",
+      "indonesian": "Kita telat, apa kita mulai tanpa saya?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695267"
+    },
+    {
+      "english": "Congrats, your presentation went really well",
+      "indonesian": "Selamat, presentasimu sukses banget",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695269"
+    },
+    {
+      "english": "I’ll follow up, when can you respond?",
+      "indonesian": "Saya tindak lanjuti, kapan kamu bisa balas?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695272"
+    },
+    {
+      "english": "Can you point me to HR, please?",
+      "indonesian": "Bisa tunjukkan saya ke HR, ya?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695274"
+    },
+    {
+      "english": "Who should I contact about this issue?",
+      "indonesian": "Siapa yang harus saya hubungi soal ini?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695276"
+    },
+    {
+      "english": "Do I need to submit anything today?",
+      "indonesian": "Apa saya perlu mengirim sesuatu hari ini?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695279"
+    },
+    {
+      "english": "Is this the right template, for us?",
+      "indonesian": "Ini template yang benar, untuk kita?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695281"
+    },
+    {
+      "english": "Could you advise me on the next step?",
+      "indonesian": "Boleh sarankan langkah berikutnya, ya?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695283"
+    },
+    {
+      "english": "Where can I find the latest agenda?",
+      "indonesian": "Di mana saya bisa dapat agenda terbaru?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695285"
+    },
+    {
+      "english": "Is it okay if I use this room?",
+      "indonesian": "Boleh, kalau saya pakai ruangan ini?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695287"
+    },
+    {
+      "english": "What’s the best way to request access?",
+      "indonesian": "Cara terbaik minta akses itu bagaimana?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695290"
+    },
+    {
+      "english": "Do we have a draft version yet?",
+      "indonesian": "Kita sudah punya versi draf belum?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695294"
+    },
+    {
+      "english": "Can I get permission to work remotely?",
+      "indonesian": "Bisa minta izin kerja remote, ya?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695295"
+    },
+    {
+      "english": "How do you want the report formatted?",
+      "indonesian": "Mau format laporannya seperti apa?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695298"
+    },
+    {
+      "english": "Who owns this project’s timeline?",
+      "indonesian": "Siapa yang pegang timeline proyek ini?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695302"
+    },
+    {
+      "english": "Should I submit it in PDF or Word?",
+      "indonesian": "Saya kirim PDF atau Word, ya?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695304"
+    },
+    {
+      "english": "Can you tell me your preferred deadline?",
+      "indonesian": "Boleh kasih tahu deadline yang kamu mau?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695306"
+    },
+    {
+      "english": "Are there any updates from yesterday?",
+      "indonesian": "Ada update dari kemarin, nggak?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695308"
+    },
+    {
+      "english": "What’s the priority for this week?",
+      "indonesian": "Prioritas kita minggu ini apa?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695311"
+    },
+    {
+      "english": "Can we confirm the deliverables together?",
+      "indonesian": "Kita bisa konfirmasi deliverable-nya bareng?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695313"
+    },
+    {
+      "english": "Do you want me to summarize the call?",
+      "indonesian": "Kamu mau saya rangkum hasil teleponnya?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695315"
+    },
+    {
+      "english": "Where should I park, for meetings?",
+      "indonesian": "Parkir di mana, untuk rapat?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695317"
+    },
+    {
+      "english": "Is there a checklist for onboarding?",
+      "indonesian": "Ada checklist untuk onboarding?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695319"
+    },
+    {
+      "english": "Could you share the SOP, if possible?",
+      "indonesian": "Bisa bagi SOP-nya, kalau memungkinkan?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695321"
+    },
+    {
+      "english": "Should we include costs in the proposal?",
+      "indonesian": "Proposalnya perlu cantumkan biaya, ya?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695323"
+    },
+    {
+      "english": "How urgent is this request, exactly?",
+      "indonesian": "Permintaan ini sedesak apa, sih?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695325"
+    },
+    {
+      "english": "Can you loop me into the thread?",
+      "indonesian": "Bisa tambahkan saya ke grup percakapannya?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695327"
+    },
+    {
+      "english": "What do you need from me, first?",
+      "indonesian": "Kamu butuh apa dari saya, duluan?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695329"
+    },
+    {
+      "english": "Is the Wi-Fi password shared already?",
+      "indonesian": "Password Wi-Fi-nya sudah dibagikan?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695332"
+    },
+    {
+      "english": "How should we handle client questions?",
+      "indonesian": "Kita tangani pertanyaan kliennya gimana?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695334"
+    },
+    {
+      "english": "Do you prefer email or chat for updates?",
+      "indonesian": "Kamu lebih suka update lewat email atau chat?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695336"
+    },
+    {
+      "english": "Can we do a quick check before sending?",
+      "indonesian": "Bisa cek cepat dulu, sebelum dikirim?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695338"
+    },
+    {
+      "english": "You’ve got this, keep going, slow is fine.",
+      "indonesian": "Kamu pasti bisa, terus jalan, pelan juga boleh.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695341"
+    },
+    {
+      "english": "Small steps win today, you’re building momentum.",
+      "indonesian": "Langkah kecil menang hari ini, kamu lagi bangun momentum.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695344"
+    },
+    {
+      "english": "Breathe first, then tackle the next task.",
+      "indonesian": "Tarik napas dulu, lalu kerjakan tugas berikutnya.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695347"
+    },
+    {
+      "english": "Nice work, you really nailed the details.",
+      "indonesian": "Kerja bagus, kamu beneran jago di detail.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695351"
+    },
+    {
+      "english": "You’re improving, even if it feels slow.",
+      "indonesian": "Kamu makin berkembang, meski terasa pelan.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695353"
+    },
+    {
+      "english": "Let’s stay positive, we can solve this.",
+      "indonesian": "Kita tetap positif ya, kita bisa beresin ini.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695356"
+    },
+    {
+      "english": "Great energy today, keep that vibe going.",
+      "indonesian": "Semangatnya bagus hari ini, lanjutkan vibe itu.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695359"
+    },
+    {
+      "english": "Ask, try, adjust, that’s how winners work.",
+      "indonesian": "Bertanya, mencoba, menyesuaikan, begitulah caranya.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695362"
+    },
+    {
+      "english": "Trust your process, it’s working out.",
+      "indonesian": "Percaya prosesmu, ini bakal beres.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695364"
+    },
+    {
+      "english": "You handled that smoothly, proud of you.",
+      "indonesian": "Kamu ngatasinnya dengan rapi, bangga deh.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695366"
+    },
+    {
+      "english": "Reset your mind, then start fresh again.",
+      "indonesian": "Reset pikiranmu, lalu mulai lagi dari awal.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695368"
+    },
+    {
+      "english": "Keep it simple, you’ll move faster.",
+      "indonesian": "Bikin simpel aja, kamu bakal lebih cepat.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695373"
+    },
+    {
+      "english": "Nice try, tomorrow will look even better.",
+      "indonesian": "Usahamu bagus, besok bakal makin oke.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695375"
+    },
+    {
+      "english": "You’re doing great, keep your head up.",
+      "indonesian": "Kamu hebat, tetap semangat ya.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695377"
+    },
+    {
+      "english": "One task at a time, you got it.",
+      "indonesian": "Satu tugas dulu, kamu pasti bisa.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695380"
+    },
+    {
+      "english": "Your effort shows, don’t doubt it.",
+      "indonesian": "Usahamu keliatan, jangan ragu.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695382"
+    },
+    {
+      "english": "Make the call, you can figure it out.",
+      "indonesian": "Ambil keputusan, kamu pasti bisa beresin.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695385"
+    },
+    {
+      "english": "That idea is solid, build on it.",
+      "indonesian": "Idenya mantap, lanjutkan dan kembangkan.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695387"
+    },
+    {
+      "english": "Small win first, then celebrate later.",
+      "indonesian": "Menang kecil dulu, rayakan belakangan.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695389"
+    },
+    {
+      "english": "You’re not behind, you’re just on track.",
+      "indonesian": "Kamu nggak ketinggalan, kamu lagi on track.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695392"
+    },
+    {
+      "english": "If it’s messy, we’ll tidy it together.",
+      "indonesian": "Kalau masih berantakan, kita rapihin bareng.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695395"
+    },
+    {
+      "english": "Thanks for pushing through, that mattered.",
+      "indonesian": "Makasih udah berjuang terus, itu penting banget.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695397"
+    },
+    {
+      "english": "Today’s goal is clarity, not stress.",
+      "indonesian": "Target hari ini itu jelas, bukan stres.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695399"
+    },
+    {
+      "english": "You bring calm, it helps the whole team.",
+      "indonesian": "Kamu bawa ketenangan, tim jadi kebantu.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695401"
+    },
+    {
+      "english": "Be proud of you, progress is real.",
+      "indonesian": "Bangga ya, progres itu nyata.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695404"
+    },
+    {
+      "english": "Stay brave, we’ll handle surprises fast.",
+      "indonesian": "Tetap berani, kita tangani kejutan cepat.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695406"
+    },
+    {
+      "english": "Your timing is great, keep that pace.",
+      "indonesian": "Waktumu pas banget, teruskan ritmenya.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695409"
+    },
+    {
+      "english": "Let’s make it happen, one step now.",
+      "indonesian": "Kita bikin terjadi, satu langkah dulu sekarang.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695411"
+    },
+    {
+      "english": "I’m still sorting out my priorities, slowly.",
+      "indonesian": "Aku masih menyusun prioritas, pelan-pelan.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695414"
+    },
+    {
+      "english": "Honestly, I’m a bit overwhelmed this morning.",
+      "indonesian": "Jujur aja, aku agak kewalahan pagi ini.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695417"
+    },
+    {
+      "english": "I’m learning to be patient with myself.",
+      "indonesian": "Aku belajar lebih sabar sama diri sendiri.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695419"
+    },
+    {
+      "english": "Today, I’m choosing clarity over speed.",
+      "indonesian": "Hari ini, aku memilih kejelasan dibanding cepat.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695422"
+    },
+    {
+      "english": "I don’t want to rush this decision, sorry.",
+      "indonesian": "Aku nggak mau buru-buru ambil keputusan, maaf.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695425"
+    },
+    {
+      "english": "I’m reflecting on what worked, and what didn’t.",
+      "indonesian": "Aku lagi refleksi, apa yang berhasil dan nggak.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695427"
+    },
+    {
+      "english": "I’ll keep showing up, even when it’s hard.",
+      "indonesian": "Aku akan tetap hadir, walau lagi berat.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695430"
+    },
+    {
+      "english": "I want to communicate more honestly, not just fast.",
+      "indonesian": "Aku pengin komunikasi lebih jujur, bukan cuma cepat.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695433"
+    },
+    {
+      "english": "I’m fine with feedback, as long as it’s kind.",
+      "indonesian": "Aku oke dengan masukan, asal caranya baik.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695435"
+    },
+    {
+      "english": "Let me check my feelings first, then respond.",
+      "indonesian": "Aku mau cek perasaanku dulu, baru jawab.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695437"
+    },
+    {
+      "english": "I’m not upset, I just need context.",
+      "indonesian": "Aku nggak marah, aku cuma butuh konteks.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695440"
+    },
+    {
+      "english": "Sometimes I overthink, but I’m calming down.",
+      "indonesian": "Kadang aku overthinking, tapi aku pelan-pelan tenang.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695443"
+    },
+    {
+      "english": "I’m trying to be consistent, not perfect.",
+      "indonesian": "Aku berusaha konsisten, bukan harus sempurna.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695445"
+    },
+    {
+      "english": "Give me space, I’ll get back with updates.",
+      "indonesian": "Beri aku ruang, nanti aku kabari lagi.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695448"
+    },
+    {
+      "english": "I appreciate your patience, it helps a lot.",
+      "indonesian": "Aku menghargai kesabaranmu, sangat membantu.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695452"
+    },
+    {
+      "english": "I’m noticing patterns, and I’m acting smarter.",
+      "indonesian": "Aku mulai lihat polanya, jadi aku ambil langkah lebih.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695456"
+    },
+    {
+      "english": "I’d rather be honest now than regret later.",
+      "indonesian": "Aku lebih suka jujur sekarang, daripada menyesal nanti.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695459"
+    },
+    {
+      "english": "If I’m quiet, it’s because I’m thinking.",
+      "indonesian": "Kalau aku diam, itu karena aku lagi mikir.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695464"
+    },
+    {
+      "english": "I’m still building confidence, one project at a time.",
+      "indonesian": "Aku masih membangun percaya diri, dari satu proyek.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695467"
+    },
+    {
+      "english": "I keep a gentle pace, even with deadlines.",
+      "indonesian": "Aku jalan dengan tempo yang tenang, meski ada deadline.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695469"
+    },
+    {
+      "english": "I’m owning my mistakes, and fixing them.",
+      "indonesian": "Aku bertanggung jawab atas kesalahan, dan memperbaikinya.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695472"
+    },
+    {
+      "english": "Today feels heavy, but I’ll handle it.",
+      "indonesian": "Hari ini terasa berat, tapi aku tetap jalan.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695474"
+    },
+    {
+      "english": "I’m listening first, then I’ll offer a plan.",
+      "indonesian": "Aku dengerin dulu, setelah itu aku usulin rencana.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695486"
+    },
+    {
+      "english": "I’m trying to keep my tone calm and clear.",
+      "indonesian": "Aku berusaha nada suaranya tetap tenang dan jelas.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695490"
+    },
+    {
+      "english": "I’m taking this as a learning moment.",
+      "indonesian": "Aku anggap ini sebagai momen belajar.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695493"
+    },
+    {
+      "english": "I don’t mind slowing down to get it right.",
+      "indonesian": "Aku nggak masalah melambat, biar hasilnya tepat.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695495"
+    },
+    {
+      "english": "I’m grateful for honest input, even if tough.",
+      "indonesian": "Aku bersyukur dengan masukan jujur, walau berat.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695498"
+    },
+    {
+      "english": "My goal is progress, not proving everything.",
+      "indonesian": "Tujuanku kemajuan, bukan membuktikan semuanya.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695500"
+    },
+    {
+      "english": "Let’s align, what’s the priority today?",
+      "indonesian": "Kita samakan fokus, apa prioritas hari ini?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695503"
+    },
+    {
+      "english": "Before I reply, I’ll double-check details.",
+      "indonesian": "Sebelum aku jawab, aku cek ulang detail dulu.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695506"
+    },
+    {
+      "english": "Could you resend that file, please?",
+      "indonesian": "Bisa kirim ulang file itu, ya?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695508"
+    },
+    {
+      "english": "I’ll update you, once I hear back.",
+      "indonesian": "Aku kabari kamu, begitu aku dapat balasan.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695511"
+    },
+    {
+      "english": "Quick check, are we on the same page?",
+      "indonesian": "Cek cepat, kita paham yang sama kan?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695513"
+    },
+    {
+      "english": "I’ll draft a short summary for everyone.",
+      "indonesian": "Aku buat ringkasan singkat buat semua orang.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:31:24.695516"
     }
   ],
-  "last_updated": "2026-11-06T10:15:19.981048"
+  "last_updated": "2026-11-07T09:31:24.695517"
 }
