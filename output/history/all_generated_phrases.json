@@ -15119,7 +15119,727 @@
       "indonesian": "Aku buat ringkasan singkat buat semua orang.",
       "category": "Work & Office",
       "generated_at": "2026-11-07T09:31:24.695516"
+    },
+    {
+      "english": "I’m home, everyone, come here please",
+      "indonesian": "Aku sudah sampai, semua, ke sini ya",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629450"
+    },
+    {
+      "english": "Sit down, it’s getting noisy",
+      "indonesian": "Duduk dulu, suaranya mulai ramai",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629465"
+    },
+    {
+      "english": "Dinner’s ready, eat first, okay?",
+      "indonesian": "Makan malam sudah siap, makan dulu ya?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629470"
+    },
+    {
+      "english": "Wait, the kids are still upstairs",
+      "indonesian": "Tunggu, anak-anak masih di atas",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629473"
+    },
+    {
+      "english": "Where are the keys, again?",
+      "indonesian": "Kunci-kuncinya mana, lagi?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629476"
+    },
+    {
+      "english": "I forgot my wallet, sorry",
+      "indonesian": "Aku lupa dompet, maaf ya",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629478"
+    },
+    {
+      "english": "Be careful, it’s slippery here",
+      "indonesian": "Hati-hati, licin di sini",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629482"
+    },
+    {
+      "english": "Who left the door open?",
+      "indonesian": "Siapa yang nggak kunci pintunya?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629487"
+    },
+    {
+      "english": "Don’t worry, I’ll handle it",
+      "indonesian": "Tenang, aku yang urus",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629491"
+    },
+    {
+      "english": "That smell is amazing, wow",
+      "indonesian": "Aromanya enak banget, wow",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629494"
+    },
+    {
+      "english": "Hold on, I’m coming",
+      "indonesian": "Sebentar, aku ke sana",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629498"
+    },
+    {
+      "english": "Your mom called, she wants you",
+      "indonesian": "Ibumu telepon, dia mau kamu",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629504"
+    },
+    {
+      "english": "Did you lock the gate?",
+      "indonesian": "Kamu sudah kunci gerbang?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629506"
+    },
+    {
+      "english": "We need batteries, fast",
+      "indonesian": "Kita butuh baterai, cepat",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629509"
+    },
+    {
+      "english": "Oh no, the light’s out again",
+      "indonesian": "Aduh, lampunya mati lagi",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629512"
+    },
+    {
+      "english": "I’m tired, let’s rest now",
+      "indonesian": "Aku capek, istirahat dulu ya",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629518"
+    },
+    {
+      "english": "Clean up first, please",
+      "indonesian": "Tolong beres dulu",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629521"
+    },
+    {
+      "english": "Is anyone home right now?",
+      "indonesian": "Ada yang di rumah sekarang?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629524"
+    },
+    {
+      "english": "Can you pass me that mug?",
+      "indonesian": "Tolong, ambilkan cangkir itu",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629526"
+    },
+    {
+      "english": "I’ll wash it later, promise",
+      "indonesian": "Nanti aku cuci, janji ya",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629530"
+    },
+    {
+      "english": "The baby’s crying, hurry!",
+      "indonesian": "Bayi nangis, cepat dong!",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629533"
+    },
+    {
+      "english": "Try this, it tastes better",
+      "indonesian": "Coba ini, rasanya lebih enak",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629536"
+    },
+    {
+      "english": "Stay here, don’t go outside",
+      "indonesian": "Tetap di sini, jangan keluar",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629539"
+    },
+    {
+      "english": "I’m all set, you can start",
+      "indonesian": "Aku sudah siap, kamu mulai ya",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629542"
+    },
+    {
+      "english": "What’s for breakfast today?",
+      "indonesian": "Sarapan hari ini apa?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629545"
+    },
+    {
+      "english": "That’s sweet, thank you",
+      "indonesian": "Manis banget, makasih ya",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629549"
+    },
+    {
+      "english": "We’re out of rice, nooo",
+      "indonesian": "Nasi habis, nggak!",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629551"
+    },
+    {
+      "english": "Your room smells good today",
+      "indonesian": "Kamar kamu wangi banget hari ini",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629554"
+    },
+    {
+      "english": "Let’s talk later, please",
+      "indonesian": "Nanti ya, kita ngobrol lagi",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629557"
+    },
+    {
+      "english": "Mom’s here, be nice, okay?",
+      "indonesian": "Mama sudah datang, sopan ya",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629560"
+    },
+    {
+      "english": "How’s your family doing these days?",
+      "indonesian": "Keluarga kamu gimana kabarnya akhir-akhir ini?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629563"
+    },
+    {
+      "english": "Where do you usually buy groceries?",
+      "indonesian": "Biasanya kamu belanja bahan makanan di mana?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629566"
+    },
+    {
+      "english": "What should we prepare for guests?",
+      "indonesian": "Kita harus siapin apa buat tamu?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629569"
+    },
+    {
+      "english": "Do you need help with cleaning?",
+      "indonesian": "Kamu butuh bantuan bersih-bersih nggak?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629572"
+    },
+    {
+      "english": "May I borrow your charger for a bit?",
+      "indonesian": "Boleh pinjam charger kamu sebentar?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629574"
+    },
+    {
+      "english": "What time does dinner usually start?",
+      "indonesian": "Biasanya makan malam mulai jam berapa?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629577"
+    },
+    {
+      "english": "Can you tell me the house rules?",
+      "indonesian": "Boleh jelasin aturan di rumah ini?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629580"
+    },
+    {
+      "english": "Should we take shoes off inside?",
+      "indonesian": "Sepatu dilepas waktu di dalam, ya?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629582"
+    },
+    {
+      "english": "What do the kids usually do after school?",
+      "indonesian": "Anak-anak biasanya ngapain habis sekolah?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629585"
+    },
+    {
+      "english": "Do we have any spare towels at home?",
+      "indonesian": "Kita punya handuk cadangan di rumah nggak?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629589"
+    },
+    {
+      "english": "Where should we put the laundry baskets?",
+      "indonesian": "Tempat keranjang cucinya di mana?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629591"
+    },
+    {
+      "english": "Could you check if the fridge is on?",
+      "indonesian": "Tolong cek, kulkasnya nyala nggak?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629596"
+    },
+    {
+      "english": "Do you have a recommendation for cleaning spray?",
+      "indonesian": "Kamu punya saran pembersih semprot yang bagus?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629598"
+    },
+    {
+      "english": "I’m planning a weekend family day, okay?",
+      "indonesian": "Aku lagi rencana hari keluarga akhir pekan, ya?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629602"
+    },
+    {
+      "english": "What’s your best way to keep things tidy?",
+      "indonesian": "Cara terbaik kamu biar rumah rapi apa?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629605"
+    },
+    {
+      "english": "Can I move this chair a little?",
+      "indonesian": "Boleh aku geser kursi ini sedikit?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629608"
+    },
+    {
+      "english": "Would you like tea or coffee, first?",
+      "indonesian": "Mau teh atau kopi dulu?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629611"
+    },
+    {
+      "english": "Who’s responsible for taking out the trash?",
+      "indonesian": "Yang buang sampah itu siapa?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629614"
+    },
+    {
+      "english": "Do you know where the spare batteries are?",
+      "indonesian": "Kamu tahu baterai cadangannya ada di mana?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629619"
+    },
+    {
+      "english": "Can we discuss the schedule for tomorrow?",
+      "indonesian": "Boleh kita bahas jadwal besok?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629621"
+    },
+    {
+      "english": "What should I bring for the potluck?",
+      "indonesian": "Aku bawa apa ya buat acara potluck?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629624"
+    },
+    {
+      "english": "How do you handle kids’ homework at home?",
+      "indonesian": "Kamu biasanya gimana soal PR anak di rumah?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629627"
+    },
+    {
+      "english": "Would it be okay if I stay later?",
+      "indonesian": "Kalau aku stay lebih lama, boleh nggak?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629629"
+    },
+    {
+      "english": "Do you want to join dinner together?",
+      "indonesian": "Kamu mau makan bareng nggak?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629632"
+    },
+    {
+      "english": "What’s the quickest way to fix this?",
+      "indonesian": "Cara paling cepat buat beresin ini gimana?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629635"
+    },
+    {
+      "english": "Should I call your mom about it?",
+      "indonesian": "Perlu aku hubungi ibumu soal ini?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629638"
+    },
+    {
+      "english": "Can you remind me when to leave?",
+      "indonesian": "Bisa ingetin aku kapan kita berangkat?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629640"
+    },
+    {
+      "english": "How’s the new house feel so far?",
+      "indonesian": "Menurut kamu, gimana rasanya tinggal di rumah baru?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629643"
+    },
+    {
+      "english": "Any advice for making mornings easier?",
+      "indonesian": "Ada tips biar pagi lebih gampang?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629646"
+    },
+    {
+      "english": "You’ve got this, slow down, breathe",
+      "indonesian": "Kamu bisa, pelan saja, tarik napas",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629649"
+    },
+    {
+      "english": "Small steps count, even at home",
+      "indonesian": "Langkah kecil itu berarti, di rumah juga",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629652"
+    },
+    {
+      "english": "Today is a fresh start, one chore",
+      "indonesian": "Hari ini awal baru, satu pekerjaan dulu",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629655"
+    },
+    {
+      "english": "Family teamwork wins, we do it together",
+      "indonesian": "Kerja sama keluarga menang, kita lakukan bareng",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629658"
+    },
+    {
+      "english": "Good job, that was really thoughtful",
+      "indonesian": "Pintar sekali, itu beneran perhatian",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629660"
+    },
+    {
+      "english": "Keep going, you’re doing better today",
+      "indonesian": "Terus ya, kamu makin baik hari ini",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629666"
+    },
+    {
+      "english": "Use kind words, it changes the whole day",
+      "indonesian": "Pakai kata yang baik, itu mengubah seharian",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629669"
+    },
+    {
+      "english": "Home feels safe when we support each other",
+      "indonesian": "Rumah terasa aman kalau kita saling dukung",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629672"
+    },
+    {
+      "english": "You did great, don’t doubt yourself",
+      "indonesian": "Kamu hebat, jangan ragu pada diri sendiri",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629675"
+    },
+    {
+      "english": "Let’s make it lighter, we’ll handle it",
+      "indonesian": "Kita bikin lebih ringan, kita beresin",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629678"
+    },
+    {
+      "english": "Thanks for helping, that really matters",
+      "indonesian": "Makasih sudah bantu, itu penting banget",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629681"
+    },
+    {
+      "english": "Reset your mind, then try again",
+      "indonesian": "Reset pikiranmu, lalu coba lagi",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629683"
+    },
+    {
+      "english": "You’re learning fast, keep that energy",
+      "indonesian": "Kamu cepat belajar, pertahankan semangat itu",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629687"
+    },
+    {
+      "english": "Say sorry first, it heals faster",
+      "indonesian": "Bilbil dulu, minta maaf dulu, itu cepat sembuh",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629692"
+    },
+    {
+      "english": "Compliments work, we praise more at home",
+      "indonesian": "Pujian itu manjur, di rumah kita banyakin",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629694"
+    },
+    {
+      "english": "Be proud of small wins today",
+      "indonesian": "Bangga sama kemenangan kecil hari ini",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629696"
+    },
+    {
+      "english": "When it’s messy, start with one corner",
+      "indonesian": "Kalau berantakan, mulai dari satu sudut",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629700"
+    },
+    {
+      "english": "You’re safe here, try talking calmly",
+      "indonesian": "Kamu aman di sini, coba ngomong pelan",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629703"
+    },
+    {
+      "english": "Nice effort, keep practicing, you’ll get it",
+      "indonesian": "Usaha bagus, terus latihan, nanti bisa",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629706"
+    },
+    {
+      "english": "We choose patience, not panic",
+      "indonesian": "Kita pilih sabar, bukan panik",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629709"
+    },
+    {
+      "english": "Mom, I’m trying, please be patient",
+      "indonesian": "Ma, aku lagi berusaha, sabar ya",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629713"
+    },
+    {
+      "english": "Dad’s right, listen first, then decide",
+      "indonesian": "Ayah benar, dengerin dulu, baru putuskan",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629721"
+    },
+    {
+      "english": "You handled it well, I’m proud of you",
+      "indonesian": "Kamu tangani dengan baik, aku bangga",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629724"
+    },
+    {
+      "english": "Let’s breathe, then solve it together",
+      "indonesian": "Tarik napas dulu, terus kita cari jalan bareng",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629727"
+    },
+    {
+      "english": "Kindness at home grows big",
+      "indonesian": "Kebaikan di rumah tumbuh besar",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629729"
+    },
+    {
+      "english": "No blame, we learn, okay?",
+      "indonesian": "Tanpa nyalahin, kita belajar, ya",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629732"
+    },
+    {
+      "english": "You don’t have to do it all",
+      "indonesian": "Kamu nggak harus ngerjain semuanya",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629736"
+    },
+    {
+      "english": "Celebrate the progress, not just the result",
+      "indonesian": "Rayakan prosesnya, bukan cuma hasil",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629738"
+    },
+    {
+      "english": "When you help, the house feels lighter",
+      "indonesian": "Kalau kamu bantu, rumah jadi lebih ringan",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629741"
+    },
+    {
+      "english": "Trust yourself, you’ll find a way",
+      "indonesian": "Percaya diri, kamu pasti nemu jalannya",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629744"
+    },
+    {
+      "english": "I’m feeling overwhelmed, can we slow down?",
+      "indonesian": "Aku lagi kewalahan, bisa pelan dulu?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629747"
+    },
+    {
+      "english": "I miss home, even when it’s clean.",
+      "indonesian": "Aku kangen rumah, meski kelihatan rapi.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629750"
+    },
+    {
+      "english": "Honestly, I’m scared to disappoint everyone.",
+      "indonesian": "Jujur, aku takut mengecewakan semuanya.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629754"
+    },
+    {
+      "english": "I want to be better, not perfect.",
+      "indonesian": "Aku mau jadi lebih baik, bukan sempurna.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629757"
+    },
+    {
+      "english": "When I’m quiet, I’m thinking deeply.",
+      "indonesian": "Kalau aku diam, aku lagi mikir serius.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629760"
+    },
+    {
+      "english": "Please don’t rush me, I need time.",
+      "indonesian": "Tolong jangan buru-buru, aku butuh waktu.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629764"
+    },
+    {
+      "english": "I’m proud of us, we handled it.",
+      "indonesian": "Aku bangga sama kita, kita berhasil melewati.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629767"
+    },
+    {
+      "english": "Sometimes I just need a hug first.",
+      "indonesian": "Kadang aku cuma butuh pelukan dulu.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629769"
+    },
+    {
+      "english": "I don’t want to fight, I want peace.",
+      "indonesian": "Aku nggak mau berantem, aku mau damai.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629773"
+    },
+    {
+      "english": "Let’s talk gently, feelings matter here.",
+      "indonesian": "Kita ngobrol pelan-pelan, perasaan itu penting.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629776"
+    },
+    {
+      "english": "I’m trying, even if I look slow.",
+      "indonesian": "Aku lagi berusaha, walau kelihatan lambat.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629779"
+    },
+    {
+      "english": "I need space, then we can talk.",
+      "indonesian": "Aku butuh ruang, nanti kita ngobrol lagi.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629782"
+    },
+    {
+      "english": "Home feels warmer when we laugh together.",
+      "indonesian": "Rumah terasa lebih hangat saat kita ketawa bareng.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629785"
+    },
+    {
+      "english": "I’m not okay, please understand that.",
+      "indonesian": "Aku nggak baik-baik saja, tolong paham ya.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629788"
+    },
+    {
+      "english": "I get emotional, but I’m working on it.",
+      "indonesian": "Aku gampang emosi, tapi aku sedang belajar.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629791"
+    },
+    {
+      "english": "I appreciate you, even for small things.",
+      "indonesian": "Aku menghargai kamu, bahkan hal kecil pun.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629794"
+    },
+    {
+      "english": "I’m learning to say what I feel.",
+      "indonesian": "Aku belajar ngomongin perasaanku.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629797"
+    },
+    {
+      "english": "Let’s be honest, I’m tired of guessing.",
+      "indonesian": "Kita jujur ya, aku capek nebak-nebak.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629800"
+    },
+    {
+      "english": "I don’t need solutions, I need listening.",
+      "indonesian": "Aku nggak butuh solusi, aku butuh didengar.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629804"
+    },
+    {
+      "english": "Family comes first, but I need boundaries.",
+      "indonesian": "Keluarga nomor satu, tapi aku perlu batas.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629807"
+    },
+    {
+      "english": "I’m trying to heal, one conversation at a time.",
+      "indonesian": "Aku lagi menyembuhkan diri, pelan-pelan lewat obrolan.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629811"
+    },
+    {
+      "english": "Please forgive me, I didn’t mean it.",
+      "indonesian": "Maaf ya, aku nggak bermaksud begitu.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629814"
+    },
+    {
+      "english": "I’m thankful, even on messy days.",
+      "indonesian": "Aku bersyukur, meski hari berantakan.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629819"
+    },
+    {
+      "english": "I’ll take responsibility, I’m done avoiding it.",
+      "indonesian": "Aku yang tanggung jawab, aku nggak mau kabur lagi.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629823"
+    },
+    {
+      "english": "I feel heard, that helps my heart.",
+      "indonesian": "Aku merasa didengar, itu ngebantu banget.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629826"
+    },
+    {
+      "english": "We’re not perfect, we’re just growing together.",
+      "indonesian": "Kita nggak sempurna, kita cuma bertumbuh bareng.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629829"
+    },
+    {
+      "english": "I’ll reset, then come back calm.",
+      "indonesian": "Aku mau reset, lalu kembali dengan tenang.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629833"
+    },
+    {
+      "english": "Today I’ll choose peace over winning.",
+      "indonesian": "Hari ini aku pilih damai, bukan menang.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629836"
+    },
+    {
+      "english": "I feel safe here, when we talk kindly.",
+      "indonesian": "Aku ngerasa aman di sini, saat kita ngomong baik.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629840"
+    },
+    {
+      "english": "Don’t judge me, I’m figuring things out.",
+      "indonesian": "Jangan menghakimi, aku lagi cari jalan.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629844"
+    },
+    {
+      "english": "Okay, kita mulai dari yang paling penting, ya",
+      "indonesian": "Oke, kita mulai dari yang paling penting dulu, ya.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-08T09:47:09.629847"
     }
   ],
-  "last_updated": "2026-11-07T09:31:24.695517"
+  "last_updated": "2026-11-08T09:47:09.629849"
 }
