@@ -15839,7 +15839,727 @@
       "indonesian": "Oke, kita mulai dari yang paling penting dulu, ya.",
       "category": "Family & Home",
       "generated_at": "2026-11-08T09:47:09.629847"
+    },
+    {
+      "english": "Excuse me, where is the nearest ATM?",
+      "indonesian": "Permisi, di mana ATM terdekat?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182422"
+    },
+    {
+      "english": "Sorry, how do I get to the mall?",
+      "indonesian": "Maaf, saya mau ke mal, caranya bagaimana?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182436"
+    },
+    {
+      "english": "Hi, can you point me to this street?",
+      "indonesian": "Halo, bisa tunjukkan saya jalan ini?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182440"
+    },
+    {
+      "english": "Thanks! Where should I turn next?",
+      "indonesian": "Makasih, saya belok ke mana lagi?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182442"
+    },
+    {
+      "english": "Quick question, where's the bus stop?",
+      "indonesian": "Tanya cepat, halte bus-nya di mana?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182445"
+    },
+    {
+      "english": "Sorry, can I get to the train station?",
+      "indonesian": "Maaf, stasiun kereta dekat sini ya?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182448"
+    },
+    {
+      "english": "How far is it from here, roughly?",
+      "indonesian": "Jaraknya dari sini kira-kira berapa?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182451"
+    },
+    {
+      "english": "Wait, is this street one-way?",
+      "indonesian": "Tunggu, jalan ini satu arah ya?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182456"
+    },
+    {
+      "english": "Not sure, can you tell me again?",
+      "indonesian": "Saya kurang paham, bisa ulangin lagi?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182460"
+    },
+    {
+      "english": "Do you know where I can park?",
+      "indonesian": "Kamu tahu tempat parkir di mana?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182462"
+    },
+    {
+      "english": "Can I walk there, or take a ride?",
+      "indonesian": "Bisa jalan kaki, atau naik apa ya?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182467"
+    },
+    {
+      "english": "If I go straight, will I arrive?",
+      "indonesian": "Kalau lurus, sampai di sana nggak?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182470"
+    },
+    {
+      "english": "Excuse me, what landmark is nearby?",
+      "indonesian": "Permisi, patokan dekat sini apa ya?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182472"
+    },
+    {
+      "english": "Great, where exactly is the entrance?",
+      "indonesian": "Oke, pintu masuknya di mana tepatnya?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182475"
+    },
+    {
+      "english": "Is it safe to cross here?",
+      "indonesian": "Aman nggak nyebrang di sini?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182477"
+    },
+    {
+      "english": "Do you know any shortcut to get there?",
+      "indonesian": "Ada jalan pintas ke sana?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182480"
+    },
+    {
+      "english": "Oh, thanks! Are there any signs?",
+      "indonesian": "Oh, makasih! Ada petunjuknya nggak?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182484"
+    },
+    {
+      "english": "Sorry, I'm lost, can you help?",
+      "indonesian": "Maaf, saya tersesat, bisa bantu?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182487"
+    },
+    {
+      "english": "Can you say it slower, please?",
+      "indonesian": "Bisa lebih pelan, ya?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182490"
+    },
+    {
+      "english": "Do I turn left at the traffic light?",
+      "indonesian": "Belok kiri di lampu merah, ya?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182493"
+    },
+    {
+      "english": "Hey, what bus number goes there?",
+      "indonesian": "Halo, bus nomor berapa ke sana?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182497"
+    },
+    {
+      "english": "Just a moment, which direction is it?",
+      "indonesian": "Sebentar, arahnya yang mana?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182500"
+    },
+    {
+      "english": "Are we close already, or far?",
+      "indonesian": "Udah dekat, atau masih jauh?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182502"
+    },
+    {
+      "english": "Thanks a lot, I’ll go from here.",
+      "indonesian": "Makasih banyak, saya lanjut dari sini.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182506"
+    },
+    {
+      "english": "Sorry, what's the closest landmark?",
+      "indonesian": "Maaf, patokan terdekat apa ya?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182508"
+    },
+    {
+      "english": "Is it better by bus or walking?",
+      "indonesian": "Lebih enak naik bus, atau jalan?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182511"
+    },
+    {
+      "english": "Could you help me find this place?",
+      "indonesian": "Bisa bantu saya mencari tempat ini?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182514"
+    },
+    {
+      "english": "What’s the fastest way from here?",
+      "indonesian": "Jalan paling cepat dari sini lewat mana?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182517"
+    },
+    {
+      "english": "Is it far, or pretty close?",
+      "indonesian": "Jauhnya, atau dekat juga?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182519"
+    },
+    {
+      "english": "Which road should I take first?",
+      "indonesian": "Jalan mana dulu yang harus saya ambil?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182522"
+    },
+    {
+      "english": "Do I go past the pharmacy, then?",
+      "indonesian": "Nanti lewat apotek dulu, ya?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182524"
+    },
+    {
+      "english": "Is there a bigger street nearby?",
+      "indonesian": "Ada jalan besar di dekat sini?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182526"
+    },
+    {
+      "english": "Can you recommend a simple route?",
+      "indonesian": "Tolong saranin rute yang gampang.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182529"
+    },
+    {
+      "english": "What do locals usually do here?",
+      "indonesian": "Kalau warga, biasa lewat mana?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182532"
+    },
+    {
+      "english": "Where should I stop to transfer?",
+      "indonesian": "Di mana saya turun buat pindah?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182534"
+    },
+    {
+      "english": "How long does it take by taxi?",
+      "indonesian": "Kira-kira berapa lama kalau pakai taksi?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182536"
+    },
+    {
+      "english": "Are there any landmarks I should notice?",
+      "indonesian": "Ada patokan terkenal yang harus saya lihat?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182539"
+    },
+    {
+      "english": "If I ask again, is that okay?",
+      "indonesian": "Kalau saya tanya lagi, boleh?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182542"
+    },
+    {
+      "english": "What’s the name of the road there?",
+      "indonesian": "Nama jalannya apa, ya?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182545"
+    },
+    {
+      "english": "Is this direction going toward the center?",
+      "indonesian": "Arah ini menuju ke pusat kota?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182547"
+    },
+    {
+      "english": "Do you know any public transport nearby?",
+      "indonesian": "Ada transport umum dekat sini?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182550"
+    },
+    {
+      "english": "Which side should I stay on?",
+      "indonesian": "Saya harus di sisi mana?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182552"
+    },
+    {
+      "english": "Can you tell me the next turn, please?",
+      "indonesian": "Tolong beri tahu belokan berikutnya.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182556"
+    },
+    {
+      "english": "What’s the nearest street name I can use?",
+      "indonesian": "Nama jalan terdekat apa yang bisa saya pakai?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182560"
+    },
+    {
+      "english": "Should I walk, or take online ride?",
+      "indonesian": "Lebih enak jalan, atau ojek online?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182562"
+    },
+    {
+      "english": "Where do people queue for that place?",
+      "indonesian": "Orang-orang biasanya ngantri di mana?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182566"
+    },
+    {
+      "english": "If I pass, will it be too late?",
+      "indonesian": "Kalau saya lewat, nanti keburu jauh?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182569"
+    },
+    {
+      "english": "Which side has the easiest access?",
+      "indonesian": "Yang mana yang paling gampang masuk?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182573"
+    },
+    {
+      "english": "Can you tell me what to look for?",
+      "indonesian": "Tolong, saya harus lihat apa ya?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182575"
+    },
+    {
+      "english": "Is there construction, or is it normal?",
+      "indonesian": "Jalan sedang dibangun, atau normal saja?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182578"
+    },
+    {
+      "english": "How do I avoid traffic on the way?",
+      "indonesian": "Cara biar nggak macet lewat sini gimana?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182580"
+    },
+    {
+      "english": "Do you mind checking my route on maps?",
+      "indonesian": "Boleh lihat rute saya di peta?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182582"
+    },
+    {
+      "english": "What time is best to go there?",
+      "indonesian": "Jam berapa yang paling enak berangkat?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182584"
+    },
+    {
+      "english": "If I’m late, is there another entrance?",
+      "indonesian": "Kalau telat, masuknya lewat pintu lain?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182588"
+    },
+    {
+      "english": "Can I follow you for a few steps?",
+      "indonesian": "Boleh saya ikut dulu, beberapa langkah?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182594"
+    },
+    {
+      "english": "Thanks, you’re a big help here.",
+      "indonesian": "Makasih, kamu sangat membantu di sini.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182597"
+    },
+    {
+      "english": "You’ve got this, just ask directions confidently.",
+      "indonesian": "Kamu pasti bisa, berani tanya arah.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182600"
+    },
+    {
+      "english": "It’s okay, we’ll figure it out together.",
+      "indonesian": "Tenang, kita cari sama-sama.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182604"
+    },
+    {
+      "english": "Thanks in advance, you’re helping me a lot.",
+      "indonesian": "Makasih dulu ya, kamu bantu banget.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182607"
+    },
+    {
+      "english": "Quick question, where’s the nearest entrance?",
+      "indonesian": "Permisi, pintu masuk terdekat di mana?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182610"
+    },
+    {
+      "english": "I’m new here, please point me in.",
+      "indonesian": "Aku masih baru, tolong arahkan ya.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182613"
+    },
+    {
+      "english": "No stress, tell me the simplest way.",
+      "indonesian": "Santai, kasih tahu jalan paling gampang.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182616"
+    },
+    {
+      "english": "I’ll try, but guide me step by step.",
+      "indonesian": "Aku coba, tapi pandu pelan-pelan ya.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182619"
+    },
+    {
+      "english": "You’re awesome, can you show me on map?",
+      "indonesian": "Keren, boleh tunjukin di peta?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182622"
+    },
+    {
+      "english": "Small steps, big progress, where’s the turn?",
+      "indonesian": "Pelan tapi jalan, beloknya di mana?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182626"
+    },
+    {
+      "english": "Thank you, I’ll remember your directions.",
+      "indonesian": "Makasih ya, aku ingat arahnya.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182629"
+    },
+    {
+      "english": "I’m getting closer, which way next?",
+      "indonesian": "Aku makin dekat, setelah ini ke mana?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182632"
+    },
+    {
+      "english": "Don’t worry, I’ll follow your guidance.",
+      "indonesian": "Nggak apa-apa, aku ikutin arahan kamu.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182636"
+    },
+    {
+      "english": "You know the way, right? Please tell me.",
+      "indonesian": "Kamu tahu jalannya, kan? Tolong ya.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182639"
+    },
+    {
+      "english": "I’ve got good vibes, just point me nearby.",
+      "indonesian": "Santai aja, arahkan yang dekat-dekat.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182642"
+    },
+    {
+      "english": "Confidence level: high, where do I go?",
+      "indonesian": "Percaya diri nih tinggi, ke mana ya?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182644"
+    },
+    {
+      "english": "Help me out, I don’t want to detour.",
+      "indonesian": "Bantu aku, biar nggak muter-muter.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182649"
+    },
+    {
+      "english": "You’re a lifesaver, what’s the closest route?",
+      "indonesian": "Kamu penyelamat, rute terdekat apa?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182653"
+    },
+    {
+      "english": "Stay calm, what’s the easiest landmark to use?",
+      "indonesian": "Tenang, patokan paling gampang yang mana?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182656"
+    },
+    {
+      "english": "I appreciate you, where should I stand first?",
+      "indonesian": "Makasih, aku sebaiknya berdiri di mana?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182660"
+    },
+    {
+      "english": "I’m learning fast, but I need one pointer.",
+      "indonesian": "Aku cepat belajar, tapi butuh satu petunjuk.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182664"
+    },
+    {
+      "english": "You’re doing great, can you confirm this direction?",
+      "indonesian": "Keren, boleh konfirmasi arah ini?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182667"
+    },
+    {
+      "english": "Let’s make it simple, what’s the next step?",
+      "indonesian": "Biar gampang, langkah berikutnya apa?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182671"
+    },
+    {
+      "english": "I’m trying my best, please guide my feet.",
+      "indonesian": "Aku usaha banget, arahkan langkahku ya.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182673"
+    },
+    {
+      "english": "Thanks, you’re patient, tell me again if needed.",
+      "indonesian": "Makasih, kamu sabar, kalau bisa ulang ya.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182677"
+    },
+    {
+      "english": "I’ll go smart, where’s the best shortcut here?",
+      "indonesian": "Aku cari yang efisien, pintasannya di mana?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182680"
+    },
+    {
+      "english": "No pressure, just tell me the main street.",
+      "indonesian": "Santai aja, sebutin nama jalan besarnya ya.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182683"
+    },
+    {
+      "english": "I believe in you, where do we head first?",
+      "indonesian": "Aku percaya, kita mulai dari mana dulu?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182685"
+    },
+    {
+      "english": "You’re helping a newbie, appreciate it so much.",
+      "indonesian": "Kamu bantu orang baru, makasih banget ya.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182688"
+    },
+    {
+      "english": "My brain’s calm, what’s the easiest turn?",
+      "indonesian": "Kepalaku tenang, belokan paling gampang yang mana?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182692"
+    },
+    {
+      "english": "Let’s do this, which way looks right?",
+      "indonesian": "Kita gas, yang mana arah yang paling cocok?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182695"
+    },
+    {
+      "english": "I’m nervous, please repeat the directions slowly.",
+      "indonesian": "Saya gugup, tolong ulangi petunjuknya pelan-pelan.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182698"
+    },
+    {
+      "english": "Take your time, I’ll wait here patiently.",
+      "indonesian": "Santai dulu, saya tunggu di sini dengan sabar.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182701"
+    },
+    {
+      "english": "Honestly, I don’t know where to turn next.",
+      "indonesian": "Jujur saja, saya nggak tahu harus belok ke mana lagi.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182704"
+    },
+    {
+      "english": "I’m trying, but I need a clearer landmark.",
+      "indonesian": "Saya berusaha, tapi saya butuh patokan yang lebih jelas.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182707"
+    },
+    {
+      "english": "This feels unfamiliar, where’s the nearest clue?",
+      "indonesian": "Ini terasa asing, di mana petunjuk terdekat?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182710"
+    },
+    {
+      "english": "I might get it wrong, can you guide me once more?",
+      "indonesian": "Saya takut salah, bisa pandu saya sekali lagi?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182713"
+    },
+    {
+      "english": "I’m okay with walking, what route is easiest?",
+      "indonesian": "Saya nggak masalah jalan kaki, rutenya yang paling mudah apa?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182716"
+    },
+    {
+      "english": "I don’t want to rush, what’s the calm way?",
+      "indonesian": "Saya nggak mau buru-buru, lewat yang santai gimana?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182719"
+    },
+    {
+      "english": "I’m thinking, is there a simpler shortcut nearby?",
+      "indonesian": "Saya berpikir, apa ada jalan pintas yang lebih sederhana?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182722"
+    },
+    {
+      "english": "To be honest, I’m afraid I’ll miss the turn.",
+      "indonesian": "Sungguh jujur, saya takut ketinggalan belokannya.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182726"
+    },
+    {
+      "english": "Please be patient, I’ll write this down.",
+      "indonesian": "Tolong sabar ya, saya catat dulu.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182729"
+    },
+    {
+      "english": "I’m trying to stay calm, where do I go first?",
+      "indonesian": "Saya mau tetap tenang, saya mulai dari mana?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182732"
+    },
+    {
+      "english": "I feel awkward asking, but I need directions.",
+      "indonesian": "Saya merasa canggung nanya, tapi saya butuh petunjuk.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182735"
+    },
+    {
+      "english": "Can you check my logic, not just the street?",
+      "indonesian": "Bisa kamu cek pemahaman saya, bukan cuma nama jalannya?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182739"
+    },
+    {
+      "english": "I’m low on time, what’s the fastest safe path?",
+      "indonesian": "Saya mepet waktu, mana jalur tercepat yang tetap aman?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182742"
+    },
+    {
+      "english": "I’m not sure, does this road go straight?",
+      "indonesian": "Saya nggak yakin, jalan ini lurus, ya?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182745"
+    },
+    {
+      "english": "If I hesitate, what should I look for?",
+      "indonesian": "Kalau saya ragu, saya harus lihat apa?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182748"
+    },
+    {
+      "english": "I’m emotionally drained, just point me to it.",
+      "indonesian": "Saya agak lelah, langsung tunjukkan ke arah sana ya.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182753"
+    },
+    {
+      "english": "I want to do it right, which way next?",
+      "indonesian": "Saya mau yang benar, setelah ini belok ke mana?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182755"
+    },
+    {
+      "english": "I’m grateful, can you make it simpler for me?",
+      "indonesian": "Saya senang, bisa buat lebih simpel buat saya?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182760"
+    },
+    {
+      "english": "I trust you, please confirm this direction, okay?",
+      "indonesian": "Saya percaya, tolong konfirmasi arah ini, ya?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182763"
+    },
+    {
+      "english": "I’m overwhelmed, can you narrow it down?",
+      "indonesian": "Saya kewalahan, bisa dipersempit arahnya?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182766"
+    },
+    {
+      "english": "I’ll be careful, what’s the safest turn point?",
+      "indonesian": "Saya hati-hati, titik belok yang paling aman di mana?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182769"
+    },
+    {
+      "english": "I’m okay with detours, but where’s the core route?",
+      "indonesian": "Saya nggak masalah muter, tapi jalur intinya lewat mana?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182773"
+    },
+    {
+      "english": "Please don’t mind me, I’m learning as I go.",
+      "indonesian": "Gak apa-apa, saya belajar sambil jalan, ya.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182776"
+    },
+    {
+      "english": "My notes are messy, can you summarize quickly?",
+      "indonesian": "Catatan saya berantakan, bisa rangkum cepat?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182779"
+    },
+    {
+      "english": "I want a honest answer, is it far from here?",
+      "indonesian": "Saya pengin jawaban jujur, dari sini jauh nggak?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182781"
+    },
+    {
+      "english": "I’m trying to relax, where do I keep going?",
+      "indonesian": "Saya mau santai, setelah ini terus ke mana?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182784"
+    },
+    {
+      "english": "Whatever you say, I’ll follow it stepwise.",
+      "indonesian": "Apa pun arahanmu, saya ikuti pelan-pelan step by step.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182787"
+    },
+    {
+      "english": "Which way should I go to the station?",
+      "indonesian": "Saya harus ke mana untuk stasiun?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182789"
+    },
+    {
+      "english": "Can you show me on the map, please?",
+      "indonesian": "Bisa tunjukkan di peta, ya?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182792"
+    },
+    {
+      "english": "Is there a bus stop nearby, by chance?",
+      "indonesian": "Ada halte bus dekat sini?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182795"
+    },
+    {
+      "english": "What’s the quickest route without shortcuts?",
+      "indonesian": "Jalur paling cepat apa, tanpa jalan pintas?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182798"
+    },
+    {
+      "english": "I’m at the wrong place, what now?",
+      "indonesian": "Saya salah tempat, sekarang gimana?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-09T10:46:20.182801"
     }
   ],
-  "last_updated": "2026-11-08T09:47:09.629849"
+  "last_updated": "2026-11-09T10:46:20.182803"
 }
