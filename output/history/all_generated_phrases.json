@@ -16559,7 +16559,727 @@
       "indonesian": "Saya salah tempat, sekarang gimana?",
       "category": "Asking for Directions",
       "generated_at": "2026-11-09T10:46:20.182801"
+    },
+    {
+      "english": "It’s okay, I forgive you, really.",
+      "indonesian": "Gapapa, aku maafin kamu, beneran.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820251"
+    },
+    {
+      "english": "No hard feelings, let’s move on.",
+      "indonesian": "Gak ada dendam, ayo lanjut.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820266"
+    },
+    {
+      "english": "I understand, so I’ll let it go.",
+      "indonesian": "Aku paham, jadi aku biarin aja.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820269"
+    },
+    {
+      "english": "Let’s talk calmly, then we forgive.",
+      "indonesian": "Kita ngobrol pelan-pelan, terus kita maafin.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820272"
+    },
+    {
+      "english": "Thanks for apologizing, I’m okay now.",
+      "indonesian": "Makasih udah minta maaf, aku udah oke.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820275"
+    },
+    {
+      "english": "I forgive you, but please don’t repeat it.",
+      "indonesian": "Aku maafin kamu, tapi jangan ulang lagi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820278"
+    },
+    {
+      "english": "It’s fine, just learn and do better.",
+      "indonesian": "Gak apa-apa, belajar ya, jadi lebih baik.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820281"
+    },
+    {
+      "english": "I’ll forgive you this time, promise.",
+      "indonesian": "Aku maafin kamu kali ini, janji ya.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820285"
+    },
+    {
+      "english": "Forget it, we’re good now.",
+      "indonesian": "Udah lupain, kita udah aman.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820289"
+    },
+    {
+      "english": "It happened, but we can recover.",
+      "indonesian": "Kejadiannya udah, tapi kita bisa baikin.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820291"
+    },
+    {
+      "english": "Let it rest, we don’t need drama.",
+      "indonesian": "Biarkan aja, kita gak butuh ribut.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820294"
+    },
+    {
+      "english": "I hear you, I forgive you, okay?",
+      "indonesian": "Aku dengerin, aku maafin, ya?",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820296"
+    },
+    {
+      "english": "We’re friends, so let’s be cool.",
+      "indonesian": "Kita temen, jadi ayo santai.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820304"
+    },
+    {
+      "english": "I’m moving on, you’re forgiven.",
+      "indonesian": "Aku lanjut, kamu udah dimaafin.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820306"
+    },
+    {
+      "english": "It’s my choice, I forgive and heal.",
+      "indonesian": "Ini pilihanku, aku maafin, aku sembuhin.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820311"
+    },
+    {
+      "english": "Say sorry, I’ll try to understand.",
+      "indonesian": "Bilangg maaf, aku coba paham.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820314"
+    },
+    {
+      "english": "We can reset, no need to blame.",
+      "indonesian": "Kita reset, gak usah nyalahin.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820316"
+    },
+    {
+      "english": "All good, just don’t do it again.",
+      "indonesian": "Udah beres, jangan ngulang lagi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820318"
+    },
+    {
+      "english": "I forgive you, but respect matters.",
+      "indonesian": "Aku maafin kamu, tapi respek itu penting.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820321"
+    },
+    {
+      "english": "Okay, I’ll accept your apology.",
+      "indonesian": "Oke, aku terima maaf kamu.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820323"
+    },
+    {
+      "english": "Let’s clear this, then forgive.",
+      "indonesian": "Beresin dulu, baru kita maafin.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820325"
+    },
+    {
+      "english": "I get it, I’m not mad anymore.",
+      "indonesian": "Aku ngerti, aku gak marah lagi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820328"
+    },
+    {
+      "english": "I choose peace, I forgive you.",
+      "indonesian": "Aku pilih damai, aku maafin kamu.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820330"
+    },
+    {
+      "english": "Thanks, I appreciate the apology.",
+      "indonesian": "Makasih, aku hargai maafnya.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820332"
+    },
+    {
+      "english": "Don’t overthink, I’m letting go.",
+      "indonesian": "Jangan kebanyakan mikir, aku lepas aja.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820336"
+    },
+    {
+      "english": "It’s okay, we can move forward.",
+      "indonesian": "Gak apa-apa, kita bisa maju.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820338"
+    },
+    {
+      "english": "Forgive me too, let’s be honest.",
+      "indonesian": "Maafin aku juga, kita jujur ya.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820340"
+    },
+    {
+      "english": "I’m ready, let’s stop this now.",
+      "indonesian": "Aku siap, kita berhenti sekarang.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820343"
+    },
+    {
+      "english": "You’re okay, I forgive you, no drama.",
+      "indonesian": "Kamu gak apa-apa, aku maafin, gak ribut.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820346"
+    },
+    {
+      "english": "Can you explain what happened, please?",
+      "indonesian": "Bisa jelaskan apa yang terjadi, ya?",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820350"
+    },
+    {
+      "english": "What should I say, so it’s respectful?",
+      "indonesian": "Kamu saranin aku bilang apa, biar sopan?",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820352"
+    },
+    {
+      "english": "Do you want advice on how to mend?",
+      "indonesian": "Kamu mau saran, cara memperbaiki ini?",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820355"
+    },
+    {
+      "english": "How do we reset, without starting over?",
+      "indonesian": "Gimana caranya nyetel ulang, tanpa ribut lagi?",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820357"
+    },
+    {
+      "english": "Are you truly sorry, or just saying sorry?",
+      "indonesian": "Kamu benar-benar menyesal, atau cuma bilang maaf?",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820359"
+    },
+    {
+      "english": "What’s the best way to ask forgiveness?",
+      "indonesian": "Cara terbaik minta maaf itu gimana?",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820361"
+    },
+    {
+      "english": "Can we talk, then decide together?",
+      "indonesian": "Kita ngobrol dulu, terus ambil keputusan bareng?",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820364"
+    },
+    {
+      "english": "Do you need space, or should I stay?",
+      "indonesian": "Kamu butuh waktu, atau aku ikut di sini?",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820366"
+    },
+    {
+      "english": "Can we smooth things out now?",
+      "indonesian": "Bisa kita rapihin semuanya sekarang?",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820369"
+    },
+    {
+      "english": "How can I reassure you, that I’m okay?",
+      "indonesian": "Gimana biar aku meyakinkan kamu, aku baik-baik saja?",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820371"
+    },
+    {
+      "english": "What do you think, I should respond?",
+      "indonesian": "Menurut kamu, aku harus jawab gimana?",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820436"
+    },
+    {
+      "english": "Can I ask, what you learned from this?",
+      "indonesian": "Boleh aku tanya, kamu belajar apa dari ini?",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820438"
+    },
+    {
+      "english": "Will you promise to do better next time?",
+      "indonesian": "Kamu janji bakal lebih baik nanti?",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820440"
+    },
+    {
+      "english": "How do we keep it from repeating?",
+      "indonesian": "Gimana caranya biar ini nggak kejadian lagi?",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820442"
+    },
+    {
+      "english": "Can we agree on clear boundaries?",
+      "indonesian": "Bisa kita sepakati batas yang jelas?",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820444"
+    },
+    {
+      "english": "What’s your plan, so I feel safe again?",
+      "indonesian": "Rencananya apa, biar aku ngerasa aman lagi?",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820446"
+    },
+    {
+      "english": "Do you want to finish this politely?",
+      "indonesian": "Mau kita akhiri dengan baik-baik?",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820448"
+    },
+    {
+      "english": "Can I trust your apology this time?",
+      "indonesian": "Apa aku bisa percaya dengan maafmu kali ini?",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820450"
+    },
+    {
+      "english": "What should I avoid saying right now?",
+      "indonesian": "Aku harus hindari ngomong apa sekarang?",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820452"
+    },
+    {
+      "english": "How can we talk without blame?",
+      "indonesian": "Gimana caranya ngobrol tanpa saling menyalahkan?",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820457"
+    },
+    {
+      "english": "Are we cool, if I forgive slowly?",
+      "indonesian": "Kalau aku memaafkan pelan-pelan, kita aman?",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820459"
+    },
+    {
+      "english": "Can you show change, not just words?",
+      "indonesian": "Bisa buktikan berubah, bukan cuma kata-kata?",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820461"
+    },
+    {
+      "english": "What would help you feel forgiven?",
+      "indonesian": "Apa yang bikin kamu merasa dimaafkan?",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820463"
+    },
+    {
+      "english": "Should I keep distance, or come closer?",
+      "indonesian": "Aku perlu jaga jarak, atau kita deket lagi?",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820465"
+    },
+    {
+      "english": "Can we talk again tomorrow, if needed?",
+      "indonesian": "Kalau perlu, besok kita ngobrol lagi ya?",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820467"
+    },
+    {
+      "english": "What does forgiveness look like for you?",
+      "indonesian": "Buat kamu, memaafkan itu seperti apa?",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820469"
+    },
+    {
+      "english": "How do we repair trust, step by step?",
+      "indonesian": "Gimana cara memperbaiki kepercayaan, pelan-pelan?",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820471"
+    },
+    {
+      "english": "Can we stop the argument, please?",
+      "indonesian": "Bisa stop debatnya, ya, aku capek.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820475"
+    },
+    {
+      "english": "What’s the one thing you’d do differently?",
+      "indonesian": "Satu hal apa yang bakal kamu ubah lain kali?",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820478"
+    },
+    {
+      "english": "Can we move forward, with mutual respect?",
+      "indonesian": "Bisa kita jalan lagi, dengan saling menghargai?",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820480"
+    },
+    {
+      "english": "I’m choosing calm, one step at a time",
+      "indonesian": "Aku memilih tenang, selangkah demi selangkah",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820483"
+    },
+    {
+      "english": "Forgiveness helps my heart breathe again",
+      "indonesian": "Pengampunan bikin hatiku bisa bernapas lagi",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820485"
+    },
+    {
+      "english": "I let it go, not the lesson",
+      "indonesian": "Aku lepaskan, tapi bukan pelajarannya",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820488"
+    },
+    {
+      "english": "Today, I focus on healing, not revenge",
+      "indonesian": "Hari ini, aku fokus penyembuhan, bukan balas dendam",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820490"
+    },
+    {
+      "english": "I can be kind, even if it hurt",
+      "indonesian": "Aku tetap bisa baik, meski itu sakit",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820492"
+    },
+    {
+      "english": "My mind is moving on, gently",
+      "indonesian": "Pikiranku melangkah maju, pelan-pelan",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820495"
+    },
+    {
+      "english": "I’m proud of myself for trying",
+      "indonesian": "Aku bangga karena berusaha",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820497"
+    },
+    {
+      "english": "I won’t carry this weight forever",
+      "indonesian": "Aku tak akan memikul beban ini selamanya",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820500"
+    },
+    {
+      "english": "I give myself grace, and I move forward",
+      "indonesian": "Aku memberi diri sendiri ruang, lalu melangkah",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820502"
+    },
+    {
+      "english": "Let’s keep it respectful, from now on",
+      "indonesian": "Mari tetap saling menghormati, mulai sekarang",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820505"
+    },
+    {
+      "english": "I’m building peace inside, day by day",
+      "indonesian": "Aku membangun damai di dalam, pelan demi pelan",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820507"
+    },
+    {
+      "english": "Forgiveness doesn’t erase the past, it frees me",
+      "indonesian": "Pengampunan tidak menghapus masa lalu, tapi membebaskanku",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820511"
+    },
+    {
+      "english": "I can understand, without approving everything",
+      "indonesian": "Aku bisa paham, tanpa menyetujui semuanya",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820513"
+    },
+    {
+      "english": "I’ll speak gently, even when I’m upset",
+      "indonesian": "Aku akan bicara pelan dan lembut, meski sedang kesal",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820516"
+    },
+    {
+      "english": "My heart chooses growth over grudges",
+      "indonesian": "Hati pilih bertumbuh, bukan dendam",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820518"
+    },
+    {
+      "english": "No more spiraling, I’m picking peace",
+      "indonesian": "Sudah, aku berhenti memutar pikiran, aku pilih damai",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820521"
+    },
+    {
+      "english": "Thank you for reflecting, it means a lot",
+      "indonesian": "Terima kasih sudah merenung, itu berarti banyak",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820523"
+    },
+    {
+      "english": "I’m letting my healing lead the way",
+      "indonesian": "Aku biarkan penyembuhanku yang memimpin",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820526"
+    },
+    {
+      "english": "I’m not denying it, I’m choosing forgiveness",
+      "indonesian": "Aku tidak menyangkal, aku memilih pengampunan",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820528"
+    },
+    {
+      "english": "I’ll start with kindness, then see the truth",
+      "indonesian": "Aku mulai dengan kebaikan, lalu lihat yang benar",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820531"
+    },
+    {
+      "english": "I forgive, and I set my standards",
+      "indonesian": "Aku memaafkan, tapi aku tetap punya standar",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820537"
+    },
+    {
+      "english": "I’m calming down, breathing slowly, staying present",
+      "indonesian": "Aku menenangkan diri, tarik napas pelan, fokus di sini",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820540"
+    },
+    {
+      "english": "Forgiveness makes my days lighter",
+      "indonesian": "Pengampunan bikin hari-hariku terasa lebih ringan",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820542"
+    },
+    {
+      "english": "I can respect you, and still protect myself",
+      "indonesian": "Aku bisa menghormati kamu, dan tetap melindungi diriku",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820544"
+    },
+    {
+      "english": "My peace matters more than this argument",
+      "indonesian": "Damai dalam diriku lebih penting dari pertengkaran ini",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820546"
+    },
+    {
+      "english": "I’ll be patient, forgiveness takes time",
+      "indonesian": "Aku akan sabar, pengampunan butuh waktu",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820548"
+    },
+    {
+      "english": "I celebrate growth, even when it’s messy",
+      "indonesian": "Aku menghargai proses, walau berantakan",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820551"
+    },
+    {
+      "english": "I trust myself to handle this wisely",
+      "indonesian": "Aku percaya pada diriku, aku bisa bijak",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820553"
+    },
+    {
+      "english": "Let kindness win, even after a tough moment",
+      "indonesian": "Kebaikan menang, meski setelah momen sulit",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820556"
+    },
+    {
+      "english": "I feel hurt, but I want honest calm.",
+      "indonesian": "Aku merasa terluka, tapi aku ingin tenang yang jujur.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820560"
+    },
+    {
+      "english": "I’m not ready yet, but I’m trying.",
+      "indonesian": "Aku belum siap, tapi aku sedang berusaha.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820563"
+    },
+    {
+      "english": "Please hear me, I’m doing my best.",
+      "indonesian": "Tolong dengar aku, aku lagi berusaha sebaik mungkin.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820566"
+    },
+    {
+      "english": "I’m learning to pause, before I respond.",
+      "indonesian": "Aku belajar menahan diri, sebelum aku merespons.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820570"
+    },
+    {
+      "english": "Sometimes forgiveness comes slowly, and that’s okay.",
+      "indonesian": "Kadang memaafkan datang pelan-pelan, dan itu wajar.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820573"
+    },
+    {
+      "english": "I won’t pretend, I’m still feeling it.",
+      "indonesian": "Aku nggak akan pura-pura, aku masih merasakannya.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820576"
+    },
+    {
+      "english": "I can be mad, and still choose peace.",
+      "indonesian": "Aku boleh marah, tapi aku tetap pilih damai.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820579"
+    },
+    {
+      "english": "I’m reflecting, not judging, I’m growing.",
+      "indonesian": "Aku merenung, bukan menghakimi, aku bertumbuh.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820582"
+    },
+    {
+      "english": "I need time, to calm my thoughts.",
+      "indonesian": "Aku butuh waktu, untuk menenangkan pikiran.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820584"
+    },
+    {
+      "english": "I’m letting the anger pass, little by little.",
+      "indonesian": "Aku melepaskan marahnya, se-dikit demi se-dikit.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820588"
+    },
+    {
+      "english": "I hear your side, I stay grounded.",
+      "indonesian": "Aku dengar ceritamu, aku tetap berpijak.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820590"
+    },
+    {
+      "english": "I forgive with clarity, not with pressure.",
+      "indonesian": "Aku memaafkan dengan jernih, bukan karena tekanan.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820592"
+    },
+    {
+      "english": "My heart needs patience, not quick answers.",
+      "indonesian": "Hati aku butuh sabar, bukan jawaban cepat.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820595"
+    },
+    {
+      "english": "I’m honest, I’m still processing this.",
+      "indonesian": "Aku jujur, aku masih memproses ini.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820597"
+    },
+    {
+      "english": "I don’t forget, I choose not to punish.",
+      "indonesian": "Aku nggak lupa, tapi aku memilih tidak menghukum.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820600"
+    },
+    {
+      "english": "I’m working on trust, slowly and sincerely.",
+      "indonesian": "Aku berusaha membangun kepercayaan, pelan-pelan dan tulus.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820603"
+    },
+    {
+      "english": "I want respect, even when feelings are messy.",
+      "indonesian": "Aku mau dihargai, walau perasaannya masih berantakan.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820605"
+    },
+    {
+      "english": "I’m choosing kindness, because I’m exhausted too.",
+      "indonesian": "Aku memilih baik hati, karena aku juga capek.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820608"
+    },
+    {
+      "english": "I’m looking forward, but I still acknowledge pain.",
+      "indonesian": "Aku menatap masa depan, tapi aku tetap mengakui sakitnya.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820611"
+    },
+    {
+      "english": "I forgive, but I set boundaries for safety.",
+      "indonesian": "Aku memaafkan, tapi aku pasang batas demi keselamatan.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820613"
+    },
+    {
+      "english": "I’m learning to speak from my real feelings.",
+      "indonesian": "Aku belajar ngomong dari perasaan yang sebenarnya.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820616"
+    },
+    {
+      "english": "I don’t want revenge, I want clarity.",
+      "indonesian": "Aku nggak mau balas dendam, aku mau kejelasan.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820619"
+    },
+    {
+      "english": "I’m doing the inner work, even when it hurts.",
+      "indonesian": "Aku mengerjakan kerja batin, meski menyakitkan.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820621"
+    },
+    {
+      "english": "Let’s talk when I’m calmer, not colder.",
+      "indonesian": "Kita ngobrol saat aku lebih tenang, bukan lebih dingin.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820624"
+    },
+    {
+      "english": "I’m letting go, while still protecting my values.",
+      "indonesian": "Aku melepas, sambil tetap menjaga nilai-nilaku.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820627"
+    },
+    {
+      "english": "I can forgive, without agreeing to repeat it.",
+      "indonesian": "Aku bisa memaafkan, tanpa setuju mengulangnya.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820629"
+    },
+    {
+      "english": "I’m listening, then choosing my next step.",
+      "indonesian": "Aku mendengarkan, lalu memilih langkah berikutnya.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820632"
+    },
+    {
+      "english": "I want you to grow, and so will I.",
+      "indonesian": "Aku ingin kamu bertumbuh, aku juga begitu.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820633"
+    },
+    {
+      "english": "I’m not erasing it, I’m healing around it.",
+      "indonesian": "Aku nggak menghapusnya, aku menyembuhkan di sekelilingnya.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820636"
+    },
+    {
+      "english": "I’ll keep it real, and still forgive.",
+      "indonesian": "Aku akan jujur, dan tetap memaafkan.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820638"
+    },
+    {
+      "english": "Pause first, forgive later, choose wisely.",
+      "indonesian": "Berhenti dulu, maafkan nanti, pilih dengan bijak.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820641"
+    },
+    {
+      "english": "You apologized, I soften, we move on.",
+      "indonesian": "Kamu minta maaf, aku melunak, kita lanjut.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T10:41:32.820646"
     }
   ],
-  "last_updated": "2026-11-09T10:46:20.182803"
+  "last_updated": "2026-11-10T10:41:32.820648"
 }
