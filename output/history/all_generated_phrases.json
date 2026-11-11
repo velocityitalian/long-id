@@ -17279,7 +17279,727 @@
       "indonesian": "Kamu minta maaf, aku melunak, kita lanjut.",
       "category": "Forgiveness",
       "generated_at": "2026-11-10T10:41:32.820646"
+    },
+    {
+      "english": "Morning first, then coffee, let's go",
+      "indonesian": "Pagi dulu, lalu kopi, ayo jalan",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.103860"
+    },
+    {
+      "english": "I’m up, what’s the plan today?",
+      "indonesian": "Aku sudah bangun, rencana hari ini apa?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.103876"
+    },
+    {
+      "english": "Quick shower, then I grab my bag",
+      "indonesian": "Mandi cepat, lalu aku ambil tas",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.103879"
+    },
+    {
+      "english": "Did you sleep well, how about you?",
+      "indonesian": "Kamu tidur nyenyak, gimana kamu?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.103882"
+    },
+    {
+      "english": "I’m running late, forgive me, okay?",
+      "indonesian": "Aku telat, maaf ya, oke?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.103885"
+    },
+    {
+      "english": "Hold on, I’ll be ready in minutes",
+      "indonesian": "Tunggu sebentar, aku siap beberapa menit",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.103888"
+    },
+    {
+      "english": "Wait, my phone’s dead, seriously",
+      "indonesian": "Tunggu, HP-ku mati, serius",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.103891"
+    },
+    {
+      "english": "I need breakfast, what do you recommend?",
+      "indonesian": "Aku perlu sarapan, kamu saranin apa?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.103895"
+    },
+    {
+      "english": "No worries, we can start later",
+      "indonesian": "Tenang, kita bisa mulai nanti",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.103900"
+    },
+    {
+      "english": "Oh wow, you’re so early!",
+      "indonesian": "Wah, kamu sudah dulu banget!",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.103903"
+    },
+    {
+      "english": "I’m heading out now, see you later",
+      "indonesian": "Aku mau berangkat sekarang, sampai nanti",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.103906"
+    },
+    {
+      "english": "Do you want tea or coffee?",
+      "indonesian": "Kamu mau teh atau kopi?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.103908"
+    },
+    {
+      "english": "Let me check my schedule, one second",
+      "indonesian": "Aku cek jadwal dulu, sebentar ya",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.103910"
+    },
+    {
+      "english": "I forgot my keys, where are they?",
+      "indonesian": "Aku lupa kunci, ketinggalan di mana?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.103912"
+    },
+    {
+      "english": "I’m good, thanks, how about you?",
+      "indonesian": "Aku baik, makasih, kamu gimana?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.103915"
+    },
+    {
+      "english": "Did you already eat, not yet?",
+      "indonesian": "Kamu sudah makan, belum?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.103917"
+    },
+    {
+      "english": "I’ll text you after I finish work",
+      "indonesian": "Aku bakal chat kamu setelah kerja selesai",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.103920"
+    },
+    {
+      "english": "Oof, that takes forever, seriously",
+      "indonesian": "Aduh, lama banget, serius",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.103922"
+    },
+    {
+      "english": "I’m on my way, almost there",
+      "indonesian": "Aku sedang menuju, sebentar lagi",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.103925"
+    },
+    {
+      "english": "I’ll be back soon, don’t move",
+      "indonesian": "Aku balik cepat, jangan pergi dulu",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.103927"
+    },
+    {
+      "english": "Sorry, I can’t, I have plans",
+      "indonesian": "Maaf, aku nggak bisa, ada jadwal",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.103930"
+    },
+    {
+      "english": "Yes, I’m ready, let’s start",
+      "indonesian": "Iya, aku sudah siap, mulai ya",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.103933"
+    },
+    {
+      "english": "Not today, maybe tomorrow instead",
+      "indonesian": "Hari ini nggak, mungkin besok aja",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.103935"
+    },
+    {
+      "english": "Really? That’s awesome, tell me more",
+      "indonesian": "Serius? Keren, ceritain lagi",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.103937"
+    },
+    {
+      "english": "Anyway, I’ll handle it myself",
+      "indonesian": "Pokoknya, aku yang beresin",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.103939"
+    },
+    {
+      "english": "I’m tired, I need a quick break",
+      "indonesian": "Aku capek, butuh istirahat sebentar",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.103942"
+    },
+    {
+      "english": "Let’s eat first, then we’ll talk",
+      "indonesian": "Makan dulu, nanti kita ngobrol",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.103944"
+    },
+    {
+      "english": "Turn it down, it’s too loud",
+      "indonesian": "Kecilkan, suaranya terlalu keras",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.103949"
+    },
+    {
+      "english": "Be careful, the road is slippery",
+      "indonesian": "Hati-hati, jalannya licin",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.103950"
+    },
+    {
+      "english": "Thanks a lot, you helped me a ton",
+      "indonesian": "Makasih banyak, kamu bantu banget",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.103954"
+    },
+    {
+      "english": "What time do you usually start work?",
+      "indonesian": "Jam berapa biasanya kamu mulai kerja?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.103957"
+    },
+    {
+      "english": "Do you meditate, or just breathe and go?",
+      "indonesian": "Kamu meditasi, atau langsung tarik napas saja?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.103959"
+    },
+    {
+      "english": "After breakfast, what’s your next habit?",
+      "indonesian": "Habis sarapan, kebiasaanmu apa berikutnya?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.103962"
+    },
+    {
+      "english": "Can you suggest a quick morning routine?",
+      "indonesian": "Bisa saranin rutinitas pagi yang cepat?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.103964"
+    },
+    {
+      "english": "How do you keep your morning on track?",
+      "indonesian": "Gimana caranya kamu biar pagi tetap rapi?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.103967"
+    },
+    {
+      "english": "What do you do first before checking apps?",
+      "indonesian": "Kamu ngapain dulu sebelum buka aplikasi?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.103969"
+    },
+    {
+      "english": "Do you work out, or walk outside briefly?",
+      "indonesian": "Kamu olahraga, atau jalan santai sebentar?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.103971"
+    },
+    {
+      "english": "What time do you usually leave the house?",
+      "indonesian": "Biasanya jam berapa kamu berangkat?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.103973"
+    },
+    {
+      "english": "How do you handle busy mornings, honestly?",
+      "indonesian": "Kalau pagi rame, kamu gimana biasanya?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.103975"
+    },
+    {
+      "english": "Which one helps you more, music or silence?",
+      "indonesian": "Yang paling bantu kamu apa, musik atau hening?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.103978"
+    },
+    {
+      "english": "Do you review your day, before leaving?",
+      "indonesian": "Kamu ngecek daftar hari sebelum pergi?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.103981"
+    },
+    {
+      "english": "What’s your go-to breakfast when you’re busy?",
+      "indonesian": "Kalau lagi sibuk, sarapan andalanmu apa?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.103985"
+    },
+    {
+      "english": "Any tips for staying focused after lunch?",
+      "indonesian": "Ada tips biar tetap fokus setelah makan siang?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.103987"
+    },
+    {
+      "english": "How long is your break, usually?",
+      "indonesian": "Istirahatmu biasanya berapa lama?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.103989"
+    },
+    {
+      "english": "What time do you start winding down?",
+      "indonesian": "Jam berapa biasanya kamu mulai santai?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.103991"
+    },
+    {
+      "english": "Do you plan tomorrow at night, or mornings?",
+      "indonesian": "Kamu rencanain besok malam, atau pagi?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.103993"
+    },
+    {
+      "english": "How do you stay calm when plans change?",
+      "indonesian": "Gimana kamu tetap tenang saat rencana berubah?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.103995"
+    },
+    {
+      "english": "What’s the first task you never skip?",
+      "indonesian": "Tugas pertama apa yang nggak pernah kamu skip?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.103998"
+    },
+    {
+      "english": "Can I ask, what time do you sleep?",
+      "indonesian": "Boleh tanya, jam berapa kamu tidur?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.104000"
+    },
+    {
+      "english": "Do you set alarms, or just trust your body?",
+      "indonesian": "Kamu pasang alarm, atau percaya sama jam badan?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.104003"
+    },
+    {
+      "english": "What do you do to start the day right?",
+      "indonesian": "Kamu ngapain biar hari ini mulai dengan benar?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.104005"
+    },
+    {
+      "english": "Which app do you check first in mornings?",
+      "indonesian": "Aplikasi apa yang paling dulu kamu buka?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.104007"
+    },
+    {
+      "english": "How do you keep track of errands daily?",
+      "indonesian": "Biar nggak lupa, kamu catat urusan harian gimana?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.104009"
+    },
+    {
+      "english": "When you’re tired, what do you do first?",
+      "indonesian": "Kalau lagi capek, kamu ngapain dulu?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.104013"
+    },
+    {
+      "english": "Do you commute by car, bike, or public?",
+      "indonesian": "Kamu berangkat naik mobil, sepeda, atau angkutan umum?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.104016"
+    },
+    {
+      "english": "Any advice for a smooth evening routine?",
+      "indonesian": "Ada saran untuk rutinitas malam yang enak?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.104018"
+    },
+    {
+      "english": "What time do you usually cook dinner?",
+      "indonesian": "Jam berapa biasanya kamu masak malam?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.104019"
+    },
+    {
+      "english": "Do you do chores right after work?",
+      "indonesian": "Kamu beresin pekerjaan rumah langsung habis kerja?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.104021"
+    },
+    {
+      "english": "What helps you sleep better at night?",
+      "indonesian": "Yang bikin kamu tidur lebih nyenyak apa?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.104023"
+    },
+    {
+      "english": "Can we plan tomorrow’s routine together?",
+      "indonesian": "Bisa kita susun rutinitas besok bareng?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.104025"
+    },
+    {
+      "english": "Morning first, no drama, just gerak!",
+      "indonesian": "Pagi dulu, no drama, langsung gerak!",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.104028"
+    },
+    {
+      "english": "After bangun, air dulu, biar melek.",
+      "indonesian": "Habis bangun, air dulu, biar melek.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.104030"
+    },
+    {
+      "english": "Biar lancar, sarapan pelan, jangan dikejar.",
+      "indonesian": "Biar lancar, sarapan pelan, jangan dikejar.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.104033"
+    },
+    {
+      "english": "Kerja mulai, pelan-pelan asal jalan.",
+      "indonesian": "Mulai kerja, pelan-pelan asal jalan.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.104035"
+    },
+    {
+      "english": "Checklist sebentar, biar nggak keteteran.",
+      "indonesian": "Ceklist sebentar, biar nggak ke-te-te-ran.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.104037"
+    },
+    {
+      "english": "Biasanya aku berangkat, jangan keburu panik.",
+      "indonesian": "Biasanya berangkat dulu, jangan keburu pa-nik.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.104040"
+    },
+    {
+      "english": "Kalau macet, santai dulu, rejeki jalan.",
+      "indonesian": "Kalau macet, santai dulu, rejeki jalan.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.104042"
+    },
+    {
+      "english": "Sebelum siang, bereskan yang penting dulu.",
+      "indonesian": "Sebelum siang, bereskan yang penting dulu.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.104045"
+    },
+    {
+      "english": "Jam makan siang, rehat sejenak ya.",
+      "indonesian": "Waktu makan siang, rehat sejenak ya.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.104047"
+    },
+    {
+      "english": "Habis makan, jalan bentar, biar nggak lesu.",
+      "indonesian": "Habis makan, jalan bentar, biar nggak le-su.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.104049"
+    },
+    {
+      "english": "Sore datang, waktunya pulang pelan.",
+      "indonesian": "Sore datang, waktunya pulang pelan.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.104051"
+    },
+    {
+      "english": "Kerjaannya selesai, alon-alon asal kelar.",
+      "indonesian": "Kalau sudah selesai, alon-alon asal ke-lar.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.104053"
+    },
+    {
+      "english": "Belum tidur, rapihin meja dulu.",
+      "indonesian": "Belum tidur, rapihin meja dulu.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.104057"
+    },
+    {
+      "english": "Tidur malam, matiin gadget, jangan lupa.",
+      "indonesian": "Tidur malam, matiin gadget, jangan lupa.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.104061"
+    },
+    {
+      "english": "Sebelum tidur, cucikan kepala, lepasin stres.",
+      "indonesian": "Sebelum tidur, cuci kepala, lepas stres.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.104064"
+    },
+    {
+      "english": "Kalau capek banget, tidur cepat dulu.",
+      "indonesian": "Kalau capek banget, tidur cepat dulu.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.104070"
+    },
+    {
+      "english": "Nanti sore, atur tenaga, jangan kebanyakan.",
+      "indonesian": "Nanti sore, atur tenaga, jangan kebanyakan.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.104073"
+    },
+    {
+      "english": "Ngopi sebentar, tapi jangan kebablasan.",
+      "indonesian": "Ngopi sebentar, tapi jangan kebablasan.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.104076"
+    },
+    {
+      "english": "Biar nggak kelimpungan, siapin dari kemarin.",
+      "indonesian": "Biar nggak ke-lim-pung-an, siapin dari ke-ma-rin.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.104078"
+    },
+    {
+      "english": "Kalau lupa, santai, kembalikan ritmenya.",
+      "indonesian": "Kalau lupa, santai, balikkan ritmenya.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.104080"
+    },
+    {
+      "english": "Besok pagi, pikirin ringan, jangan beban.",
+      "indonesian": "Besok pagi, pikirin ringan, jangan beban.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.104082"
+    },
+    {
+      "english": "Mulai kecil dulu, nanti ikut ngebut.",
+      "indonesian": "Mulai kecil dulu, nanti ikut nge-but.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.104084"
+    },
+    {
+      "english": "Setelah semuanya beres, baru santai.",
+      "indonesian": "Kalau semuanya beres, baru santai.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.104086"
+    },
+    {
+      "english": "Disiplin itu konsisten, bukan sekali jadi.",
+      "indonesian": "Disiplin itu konsisten, bukan sekali jadi.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.104088"
+    },
+    {
+      "english": "Biar hati tenang, jadwal dibikin sederhana.",
+      "indonesian": "Biar hati tenang, jadwal dibuat sederhana.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.104091"
+    },
+    {
+      "english": "Kalau ganggu, catat, selesaikan dulu yang utama.",
+      "indonesian": "Kalau ke-gang-gu, catat, se-lesaikan dulu yang u-ta-ma.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.104093"
+    },
+    {
+      "english": "Jam istirahat, jangan overthinking, tarik napas.",
+      "indonesian": "Saat istirahat, jangan overthinking, tarik napas.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.104095"
+    },
+    {
+      "english": "Setiap hari ada, asal jalan terus.",
+      "indonesian": "Setiap hari ada, asal jalan terus.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.104098"
+    },
+    {
+      "english": "Sebelum keluar, lihat lagi, biar aman.",
+      "indonesian": "Sebelum keluar, lihat lagi, biar aman.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.104100"
+    },
+    {
+      "english": "Malam tenang, besok siap, nggak ngaret.",
+      "indonesian": "Malam tenang, besok siap, nggak ng-a-ret.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.104102"
+    },
+    {
+      "english": "I check in with my feelings, quietly.",
+      "indonesian": "Aku cek perasaan dulu, pelan-pelan.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.104104"
+    },
+    {
+      "english": "Some days I need slower pacing, no shame.",
+      "indonesian": "Kadang aku perlu tempo lebih pelan, nggak apa-apa.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.104107"
+    },
+    {
+      "english": "Before I rush, I breathe, then decide.",
+      "indonesian": "Sebelum buru-buru, aku tarik napas, lalu putuskan.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.104109"
+    },
+    {
+      "english": "I write one honest thing, then move on.",
+      "indonesian": "Aku tulis satu hal jujur, lalu lanjut.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.104111"
+    },
+    {
+      "english": "I stay patient with myself, even when messy.",
+      "indonesian": "Aku tetap sabar sama diri sendiri, meski berantakan.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.104114"
+    },
+    {
+      "english": "My morning feels better with gratitude first.",
+      "indonesian": "Pagi aku lebih enak kalau mulai dari syukur.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.104116"
+    },
+    {
+      "english": "I notice my mood, then pick the gentle task.",
+      "indonesian": "Aku lihat suasana hati, lalu pilih kerja yang lembut.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.104118"
+    },
+    {
+      "english": "I don’t force joy, I let it come.",
+      "indonesian": "Aku nggak maksa bahagia, aku biarin datang.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.104121"
+    },
+    {
+      "english": "When I’m overwhelmed, I scale things down.",
+      "indonesian": "Kalau aku kewalahan, aku perkecil target dulu.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.104124"
+    },
+    {
+      "english": "I remember, progress beats perfection today.",
+      "indonesian": "Aku ingat, kemajuan lebih penting daripada sempurna.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.104126"
+    },
+    {
+      "english": "I check my body, not just my schedule.",
+      "indonesian": "Aku cek tubuhku, bukan cuma jadwalku.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.104129"
+    },
+    {
+      "english": "I keep my routine flexible, not fragile.",
+      "indonesian": "Rutinku fleksibel, bukan gampang rapuh.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.104131"
+    },
+    {
+      "english": "I give myself permission to start small.",
+      "indonesian": "Aku kasih izin ke diri sendiri untuk mulai kecil.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.104133"
+    },
+    {
+      "english": "After work, I reflect, then tidy my mind.",
+      "indonesian": "Habis kerja, aku refleksi, lalu rapihin pikiran.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.104138"
+    },
+    {
+      "english": "I ask, what mattered today, honestly?",
+      "indonesian": "Aku tanya, hari ini yang paling berarti apa?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.104140"
+    },
+    {
+      "english": "I let small wins calm my nerves.",
+      "indonesian": "Aku nikmati kemenangan kecil, biar saraf tenang.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.104142"
+    },
+    {
+      "english": "I don’t pretend I’m fine, I adjust.",
+      "indonesian": "Aku nggak pura-pura kuat, aku menyesuaikan.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.104145"
+    },
+    {
+      "english": "Evenings are for soft thoughts, not pressure.",
+      "indonesian": "Malam buat pikiran yang lembut, bukan tekanan.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.104147"
+    },
+    {
+      "english": "I remind myself, rest is part of work.",
+      "indonesian": "Aku ingat, istirahat itu bagian dari kerja.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.104149"
+    },
+    {
+      "english": "Before sleep, I forgive today’s mistakes.",
+      "indonesian": "Sebelum tidur, aku memaafkan kesalahan hari ini.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.104152"
+    },
+    {
+      "english": "I speak kinder to myself, than to others.",
+      "indonesian": "Aku ngomong lebih lembut ke diri sendiri.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.104154"
+    },
+    {
+      "english": "I keep my promises small, so I can trust.",
+      "indonesian": "Aku jaga janji kecil, biar aku percaya.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.104156"
+    },
+    {
+      "english": "If plans change, I stay calm, okay?",
+      "indonesian": "Kalau rencana berubah, aku tetap kalem, ya.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.104160"
+    },
+    {
+      "english": "I notice stress early, then handle it gently.",
+      "indonesian": "Aku tangkap stres dari awal, lalu tangani pelan.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.104163"
+    },
+    {
+      "english": "I pause after chores, just to breathe.",
+      "indonesian": "Aku berhenti sebentar setelah beres, buat tarik napas.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.104165"
+    },
+    {
+      "english": "I end the day grateful, even if tired.",
+      "indonesian": "Aku tutup hari dengan rasa syukur, meski capek.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.104167"
+    },
+    {
+      "english": "I let my heart feel, then release it.",
+      "indonesian": "Aku biarin hati merasakan, lalu lepaskan.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.104170"
+    },
+    {
+      "english": "I choose honesty over pretending I’m okay.",
+      "indonesian": "Aku pilih jujur daripada pura-pura baik-baik saja.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.104172"
+    },
+    {
+      "english": "I write gratitude, then sleep feels lighter.",
+      "indonesian": "Aku tulis syukur, lalu tidur jadi lebih ringan.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.104177"
+    },
+    {
+      "english": "Today, I’m enough, and that’s the plan.",
+      "indonesian": "Hari ini, aku sudah cukup, dan itu rencanaku.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T10:09:47.104180"
     }
   ],
-  "last_updated": "2026-11-10T10:41:32.820648"
+  "last_updated": "2026-11-11T10:09:47.104181"
 }
