@@ -18391,7 +18391,399 @@
       "transliteration": "KA-mu BI-KIN HA-ri yang BER-at jadi LÉ-bih RI-RANG.",
       "category": "Friendship",
       "generated_at": "2026-11-12T17:46:54.377254"
+    },
+    {
+      "english": "Slow down, breathe, stay centered.",
+      "indonesian": "Pelankan langkahmu, tarik napas, tetap tenang.",
+      "transliteration": "pElankan LAngkahmu, tarIk nApas, tetAp tenAng",
+      "category": "Balance",
+      "generated_at": "2026-11-13T17:25:24.674778"
+    },
+    {
+      "english": "Take breaks, don’t burn out.",
+      "indonesian": "Ambil jeda, jangan sampai kelelahan parah.",
+      "transliteration": "AMbil JEDA, jangan sampAi kelelAhAn parAh",
+      "category": "Balance",
+      "generated_at": "2026-11-13T17:25:24.674778"
+    },
+    {
+      "english": "Balance chores with real rest.",
+      "indonesian": "Seimbangkan pekerjaan rumah dengan istirahat sungguh-sungguh.",
+      "transliteration": "seIMbangkan pekerjaAn rumAh dengan istirAhat sungguh-sungguh",
+      "category": "Balance",
+      "generated_at": "2026-11-13T17:25:24.674778"
+    },
+    {
+      "english": "Let work and family share the week.",
+      "indonesian": "Biar kerja dan keluarga bergantian mengisi minggu ini.",
+      "transliteration": "bIar kerjA dan kelUarga bergAntian mengIsI mInggu ini",
+      "category": "Balance",
+      "generated_at": "2026-11-13T17:25:24.674778"
+    },
+    {
+      "english": "Keep your phone off during meals.",
+      "indonesian": "Matikan ponsel saat makan, biar fokus terasa.",
+      "transliteration": "maTikAn pOnsEl saat maKan, biar fokus terAsa",
+      "category": "Balance",
+      "generated_at": "2026-11-13T17:25:24.674778"
+    },
+    {
+      "english": "Choose one priority, then adjust.",
+      "indonesian": "Pilih satu prioritas dulu, lalu sesuaikan sisanya.",
+      "transliteration": "pIlih saTu prIoritas dulu, lalu sesuAikan siSanya",
+      "category": "Balance",
+      "generated_at": "2026-11-13T17:25:24.674778"
+    },
+    {
+      "english": "Say no kindly, protect your energy.",
+      "indonesian": "BilAng tidak dengan baik, jaga energimu.",
+      "transliteration": "bilaNg tIdak dengan bAik, jaga enERgimu",
+      "category": "Balance",
+      "generated_at": "2026-11-13T17:25:24.674778"
+    },
+    {
+      "english": "I need new running shoes today.",
+      "indonesian": "Aku perlu sepatu lari yang baru hari ini.",
+      "transliteration": "AKU perLU sePATU laRI yang BAru HAri iNi",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-13T17:25:24.674778"
+    },
+    {
+      "english": "Is this gym open 24 hours?",
+      "indonesian": "Gym ini buka 24 jam?",
+      "transliteration": "Gym iNi BUka dua PULUH em pat JAM",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-13T17:25:24.674778"
+    },
+    {
+      "english": "Can you show me the correct form?",
+      "indonesian": "Bisa tunjukkan cara yang benar untuk gerakannya?",
+      "transliteration": "biSA TUJukkan CAra yang BEnar unTuk geRAkannya",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-13T17:25:24.674778"
+    },
+    {
+      "english": "I pulled a muscle, it's sore.",
+      "indonesian": "Aku kram otot, sakit banget.",
+      "transliteration": "AKU kRAM oToT, SAKIT baNGET",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-13T17:25:24.674778"
+    },
+    {
+      "english": "Let's stretch before we start.",
+      "indonesian": "Ayo peregangan dulu sebelum mulai.",
+      "transliteration": "AYO peREganGAN duLU seBElum MUlai",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-13T17:25:24.674778"
+    },
+    {
+      "english": "What’s your favorite workout playlist?",
+      "indonesian": "Playlist olahraga kamu favorit yang mana?",
+      "transliteration": "PLAyLIST oLAhra ga kaMU faVORit yang MAna",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-13T17:25:24.674778"
+    },
+    {
+      "english": "I joged five kilometers this morning.",
+      "indonesian": "Tadi pagi aku lari pelan lima kilometer.",
+      "transliteration": "TAdi paGI AKU laRI peLAN liMA kiLOmeTER",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-13T17:25:24.674778"
+    },
+    {
+      "english": "I have a reservation for two",
+      "indonesian": "Saya punya reservasi untuk dua orang",
+      "transliteration": "SAya PU-nya re-seRva-si u-ntuk dua o-rang",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-13T17:25:24.674778"
+    },
+    {
+      "english": "What time is check-in?",
+      "indonesian": "Jam berapa check-in?",
+      "transliteration": "Jam be-ra-pa CHEK-in",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-13T17:25:24.674778"
+    },
+    {
+      "english": "Can I check in early?",
+      "indonesian": "Bisa check-in lebih awal?",
+      "transliteration": "BI-sa CHEK-in le-bih AWAL",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-13T17:25:24.674778"
+    },
+    {
+      "english": "Where is the elevator, please?",
+      "indonesian": "Di mana liftnya, tolong",
+      "transliteration": "Di ma-na LIFt-nya, TO-lung",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-13T17:25:24.674778"
+    },
+    {
+      "english": "How much is the parking fee?",
+      "indonesian": "Berapa biaya parkirnya",
+      "transliteration": "BE-ra-pa BIA-ya par-KIR-nya",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-13T17:25:24.674778"
+    },
+    {
+      "english": "Is breakfast included in the price?",
+      "indonesian": "Apakah sarapan sudah termasuk dalam harga",
+      "transliteration": "a-pa-kah sa-ra-pan SU-dah ter-MA-suk da-lam HAr-ga",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-13T17:25:24.674778"
+    },
+    {
+      "english": "Do you have late checkout?",
+      "indonesian": "Apakah ada late checkout?",
+      "transliteration": "a-pa-kah a-da LATE CHEK-out",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-13T17:25:24.674778"
+    },
+    {
+      "english": "Got a fresh idea, let’s try it",
+      "indonesian": "Aku dapat ide baru, yuk kita coba",
+      "transliteration": "Aku DAPAT ide BARU, yuk kita COBA",
+      "category": "Creativity",
+      "generated_at": "2026-11-13T17:25:24.674778"
+    },
+    {
+      "english": "We should prototype this today",
+      "indonesian": "Kita bikin prototipe hari ini",
+      "transliteration": "Kita BIKIN pro-to-TIPE HA-ri INI",
+      "category": "Creativity",
+      "generated_at": "2026-11-13T17:25:24.674778"
+    },
+    {
+      "english": "Turn that problem into a story",
+      "indonesian": "Ubah masalah itu jadi cerita yang menarik",
+      "transliteration": "Ubah MA-salah itu ja-di CE-ri-ta yang ME-naRIk",
+      "category": "Creativity",
+      "generated_at": "2026-11-13T17:25:24.674778"
+    },
+    {
+      "english": "Mix your ideas, don’t overthink",
+      "indonesian": "Campur idemu, jangan terlalu mikir",
+      "transliteration": "CAM-pur i-DE-mu, JAN-gan teRLa-lu mi-KIR",
+      "category": "Creativity",
+      "generated_at": "2026-11-13T17:25:24.674778"
+    },
+    {
+      "english": "I love making things from scraps",
+      "indonesian": "Aku suka bikin sesuatu dari barang bekas",
+      "transliteration": "Aku SU-ka BI-kin se-su-a-tu dari BARANG BE-kas",
+      "category": "Creativity",
+      "generated_at": "2026-11-13T17:25:24.674778"
+    },
+    {
+      "english": "Let’s brainstorm while we walk",
+      "indonesian": "Kita brainstorming sambil jalan",
+      "transliteration": "Kita BRAIM-storm-ing SAM-bil ja-LAN",
+      "category": "Creativity",
+      "generated_at": "2026-11-13T17:25:24.674778"
+    },
+    {
+      "english": "What if we redesign the plan",
+      "indonesian": "Gimana kalau kita desain ulang rencananya",
+      "transliteration": "GIM-na ka-lau kita de-sain u-LANG ren-caNA-nya",
+      "category": "Creativity",
+      "generated_at": "2026-11-13T17:25:24.674778"
+    },
+    {
+      "english": "Gila, itu mahal banget!",
+      "indonesian": "Gila, itu mahal banget!",
+      "transliteration": "Gi-la, i-tu MA-hal ba-NGET!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-13T17:25:24.674778"
+    },
+    {
+      "english": "Santai aja, kita masih sempat kok.",
+      "indonesian": "Santai aja, kita masih sempat kok.",
+      "transliteration": "SAN-tai a-ja, ki-ta MA-sih sem-PAT kok.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-13T17:25:24.674778"
+    },
+    {
+      "english": "Males ah, nanti aja deh.",
+      "indonesian": "Males ah, nanti aja deh.",
+      "transliteration": "MA-les ah, NAN-ti a-ja deh.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-13T17:25:24.674778"
+    },
+    {
+      "english": "Gas terus, jangan kebanyakan mikir.",
+      "indonesian": "Gas terus, jangan kebanyakan mikir.",
+      "transliteration": "GAZ te-rus, JAN-gan ke-ba-NYA-kan MI-kir.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-13T17:25:24.674778"
+    },
+    {
+      "english": "Yuk, berangkat sekarang juga!",
+      "indonesian": "Yuk, berangkat sekarang juga!",
+      "transliteration": "YUK, be-RAK-tang se-KA-rang JU-ga!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-13T17:25:24.674778"
+    },
+    {
+      "english": "Emang, itu bikin tambah semangat.",
+      "indonesian": "Emang, itu bikin tambah semangat.",
+      "transliteration": "E-mang, i-tu BI-kin TAM-bah se-MA-ngat.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-13T17:25:24.674778"
+    },
+    {
+      "english": "Kece, mantap, gue suka banget.",
+      "indonesian": "Kece, mantap, gue suka banget.",
+      "transliteration": "KE-ce, MAN-tap, gu-E su-ka ba-NGET.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-13T17:25:24.674778"
+    },
+    {
+      "english": "I need more strength today, okay?",
+      "indonesian": "Aku butuh kekuatan lebih hari ini, ya.",
+      "transliteration": "AKU BUtuH KEkuA tan LEbih HAri INi, YA.",
+      "category": "Strength",
+      "generated_at": "2026-11-13T17:25:24.674778"
+    },
+    {
+      "english": "That choice gave me inner strength.",
+      "indonesian": "Pilihan itu memberi aku kekuatan dari dalam.",
+      "transliteration": "piLihAN iTu memBEri AKU KEkuA tan DAri DA lam.",
+      "category": "Strength",
+      "generated_at": "2026-11-13T17:25:24.674778"
+    },
+    {
+      "english": "My strength shows when I stay calm.",
+      "indonesian": "Kekuatan saya terlihat saat saya tetap tenang.",
+      "transliteration": "KEkuA tan SAya TERliHAT saat SAya te TAP TENANG.",
+      "category": "Strength",
+      "generated_at": "2026-11-13T17:25:24.674778"
+    },
+    {
+      "english": "Let’s build strength, one habit at a time.",
+      "indonesian": "Kita bangun kekuatan, pelan-pelan lewat kebiasaan.",
+      "transliteration": "kiTA BANgun KEkuA tan, peLAN-peLAN LEwAT KEbiASAan.",
+      "category": "Strength",
+      "generated_at": "2026-11-13T17:25:24.674778"
+    },
+    {
+      "english": "I’m strong, but I still need rest.",
+      "indonesian": "Aku kuat, tapi aku tetap perlu istirahat.",
+      "transliteration": "AKU KUAT, tapi AKU teTAP peRlu IStiRAhat.",
+      "category": "Strength",
+      "generated_at": "2026-11-13T17:25:24.674778"
+    },
+    {
+      "english": "Strength means saying no firmly.",
+      "indonesian": "Kekuatan itu berani bilang tidak dengan tegas.",
+      "transliteration": "KEkuA tan iTu beRAni biLANG tiDAk deNGAN teGAS.",
+      "category": "Strength",
+      "generated_at": "2026-11-13T17:25:24.674778"
+    },
+    {
+      "english": "I found my strength in small steps.",
+      "indonesian": "Aku menemukan kekuatan dari langkah kecil.",
+      "transliteration": "AKU MENemUkan KEkuA tan DAri LAngkah KEcil.",
+      "category": "Strength",
+      "generated_at": "2026-11-13T17:25:24.674778"
+    },
+    {
+      "english": "I’m smiling already, it feels good.",
+      "indonesian": "Aku sudah tersenyum, rasanya enak.",
+      "transliteration": "Aku suDAH terSENYum, RAsaNYA ENak.",
+      "category": "Joy",
+      "generated_at": "2026-11-13T17:25:24.674778"
+    },
+    {
+      "english": "This song makes my day brighter.",
+      "indonesian": "Lagu ini bikin hariku lebih cerah.",
+      "transliteration": "LaGU iNI biKIN haRIku LEbih CHErah.",
+      "category": "Joy",
+      "generated_at": "2026-11-13T17:25:24.674778"
+    },
+    {
+      "english": "We laughed so hard, wow.",
+      "indonesian": "Kita ketawa sampai sesak, gila!",
+      "transliteration": "KIta keTAwa SAMpai seSAK, giLA!",
+      "category": "Joy",
+      "generated_at": "2026-11-13T17:25:24.674778"
+    },
+    {
+      "english": "I love this moment, just breathe.",
+      "indonesian": "Aku suka momen ini, nikmati saja.",
+      "transliteration": "Aku SUka MOmen iNI, niKMAti SAja.",
+      "category": "Joy",
+      "generated_at": "2026-11-13T17:25:24.674778"
+    },
+    {
+      "english": "Good news, I’m finally free tonight.",
+      "indonesian": "Berita bagus, aku akhirnya libur malam ini.",
+      "transliteration": "BERiTA baGUS, aku aKHirnya LIbur maLAM iNI.",
+      "category": "Joy",
+      "generated_at": "2026-11-13T17:25:24.674778"
+    },
+    {
+      "english": "The sky looks amazing, seriously.",
+      "indonesian": "Langitnya indah banget, serius deh.",
+      "transliteration": "LANgitnya iNDAH baNYAK, SERIUS deh.",
+      "category": "Joy",
+      "generated_at": "2026-11-13T17:25:24.674778"
+    },
+    {
+      "english": "I got what I wanted, yay!",
+      "indonesian": "Akhirnya dapat juga yang aku mau, hore!",
+      "transliteration": "aKHirnya daPAT juGA yang aku MAU, HOre!",
+      "category": "Joy",
+      "generated_at": "2026-11-13T17:25:24.674778"
+    },
+    {
+      "english": "Keep going, even when it hurts.",
+      "indonesian": "Terus jalan, meski sakit.",
+      "transliteration": "teRUS JaLan, meSKI SAKit",
+      "category": "Perseverance",
+      "generated_at": "2026-11-13T17:25:24.674778"
+    },
+    {
+      "english": "I failed once, so I try again.",
+      "indonesian": "Sekali gagal, aku coba lagi.",
+      "transliteration": "seKAli GAgal, aKU coBA laGI",
+      "category": "Perseverance",
+      "generated_at": "2026-11-13T17:25:24.674778"
+    },
+    {
+      "english": "Small steps daily, that’s my plan.",
+      "indonesian": "Langkah kecil setiap hari, itu rencanaku.",
+      "transliteration": "langKAH keCIL seTIap HAri, iTu renCAnaKU",
+      "category": "Perseverance",
+      "generated_at": "2026-11-13T17:25:24.674778"
+    },
+    {
+      "english": "Don’t quit after one bad day.",
+      "indonesian": "Jangan berhenti setelah hari yang buruk.",
+      "transliteration": "JAngan berHENti seTElah haRI yang BUruk",
+      "category": "Perseverance",
+      "generated_at": "2026-11-13T17:25:24.674778"
+    },
+    {
+      "english": "I’m stubborn, but in a good way.",
+      "indonesian": "Aku keras kepala, tapi dengan cara yang baik.",
+      "transliteration": "aKU KEras KEPala, tapi denGAN caRA yang baik",
+      "category": "Perseverance",
+      "generated_at": "2026-11-13T17:25:24.674778"
+    },
+    {
+      "english": "We’ll sort it out, one try at a time.",
+      "indonesian": "Kita bereskan pelan-pelan, satu kali coba dulu.",
+      "transliteration": "KIta beRESkan peLAN-peLAN, saTU kaLI coBA DUlu",
+      "category": "Perseverance",
+      "generated_at": "2026-11-13T17:25:24.674778"
+    },
+    {
+      "english": "When I’m tired, I take a breather.",
+      "indonesian": "Kalau capek, aku jeda dulu sebentar.",
+      "transliteration": "kaLAu caPEK, aKU JeDA DUlu sebenTAR",
+      "category": "Perseverance",
+      "generated_at": "2026-11-13T17:25:24.674778"
     }
   ],
-  "last_updated": "2026-11-12T17:46:54.377254"
+  "last_updated": "2026-11-13T17:25:24.674778"
 }
