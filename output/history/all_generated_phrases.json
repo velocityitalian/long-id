@@ -19175,7 +19175,399 @@
       "transliteration": "Aku bi CARa den gan lemBUT, bah kan pada DIri ku SENdiri.",
       "category": "Positive Life",
       "generated_at": "2026-11-14T16:09:05.550158"
+    },
+    {
+      "english": "Wake up, one small step today.",
+      "indonesian": "Bangun, satu langkah kecil hari ini.",
+      "transliteration": "BAN-gun, SA-tu LAH-kah KEC-il HA-ri IN-i",
+      "category": "Motivation",
+      "generated_at": "2026-11-15T16:37:29.735686"
+    },
+    {
+      "english": "Don’t wait for confidence, start now.",
+      "indonesian": "Jangan tunggu percaya diri, mulai sekarang.",
+      "transliteration": "JANG-an TUNG-gu PER-cayA DI-ri, MU-lai SEKAR-ang",
+      "category": "Motivation",
+      "generated_at": "2026-11-15T16:37:29.735686"
+    },
+    {
+      "english": "When it’s hard, breathe and try again.",
+      "indonesian": "Kalau berat, tarik napas dulu, lalu coba lagi.",
+      "transliteration": "KA-lau BE-rat, ta-RIK na-PAS DU-lu, LA-lu CO-ba LA-gi",
+      "category": "Motivation",
+      "generated_at": "2026-11-15T16:37:29.735686"
+    },
+    {
+      "english": "Set a timer, do it for ten.",
+      "indonesian": "Pasang timer, lakukan sepuluh menit dulu.",
+      "transliteration": "pa-SANG TI-mer, LA-ku-kan se-pu-luh ME-nit DU-lu",
+      "category": "Motivation",
+      "generated_at": "2026-11-15T16:37:29.735686"
+    },
+    {
+      "english": "Your progress counts, even if slow.",
+      "indonesian": "Kemajuanmu tetap berarti, meski pelan.",
+      "transliteration": "KE-ma-ju-an-mu TET-ap BER-AR-ti, MES-ki pe-LAN",
+      "category": "Motivation",
+      "generated_at": "2026-11-15T16:37:29.735686"
+    },
+    {
+      "english": "Celebrate tiny wins, then keep going.",
+      "indonesian": "Rayakan kemenangan kecil, lalu lanjut terus.",
+      "transliteration": "ra-YA-kan KE-menang-an KEC-il, LA-lu LAN-jut te-RUS",
+      "category": "Motivation",
+      "generated_at": "2026-11-15T16:37:29.735686"
+    },
+    {
+      "english": "Text me a goal, I’ll cheer you.",
+      "indonesian": "Kirim targetmu lewat chat, aku dukung.",
+      "transliteration": "KI-rim TAR-get-mu LE-wat CHAT, a-ku dukUNG",
+      "category": "Motivation",
+      "generated_at": "2026-11-15T16:37:29.735686"
+    },
+    {
+      "english": "Hi, I need a checkup, please.",
+      "indonesian": "Halo, saya mau periksa, tolong.",
+      "transliteration": "HA-lo, SA-ya ma-u pe-RIK-sa, TOL-ong.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-15T16:37:29.735686"
+    },
+    {
+      "english": "Doctor, what could be causing this?",
+      "indonesian": "Dokter, kira-kira apa penyebabnya?",
+      "transliteration": "DOK-ter, KI-ra-KI-ra A-pa pe-NYE-bab-nya?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-15T16:37:29.735686"
+    },
+    {
+      "english": "Can you explain the diagnosis simply?",
+      "indonesian": "Bisa jelaskan diagnosisnya dengan bahasa yang sederhana?",
+      "transliteration": "BI-sa je-las-kan DI-ag-NO-sis-nya de-ngan BA-ha-sa yang SE-der-ha-na?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-15T16:37:29.735686"
+    },
+    {
+      "english": "What symptoms should I watch for?",
+      "indonesian": "Gejala apa yang harus saya perhatikan?",
+      "transliteration": "GE-jal-a A-pa yang HARUS SA-ya per-ha-TI-kan?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-15T16:37:29.735686"
+    },
+    {
+      "english": "Is this serious, or just temporary?",
+      "indonesian": "Ini serius, atau cuma sementara?",
+      "transliteration": "I-ni SE-ri-us, a-tau CU-ma se-MEN-ta-ra?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-15T16:37:29.735686"
+    },
+    {
+      "english": "Does it have any side effects?",
+      "indonesian": "Apakah obat ini punya efek samping?",
+      "transliteration": "a-pa-KAH o-bat i-ni PU-nya e-fek SAM-ping?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-15T16:37:29.735686"
+    },
+    {
+      "english": "Should I eat before taking it?",
+      "indonesian": "Sebaiknya saya makan dulu sebelum minum?",
+      "transliteration": "se-baiknya SA-ya ma-KAN DU-lu se-be-lum MI-num?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-15T16:37:29.735686"
+    },
+    {
+      "english": "I notice small changes every week.",
+      "indonesian": "Aku melihat perubahan kecil tiap minggu.",
+      "transliteration": "Aku MELIhat perubAhan kecil tiAp minggu.",
+      "category": "Growth",
+      "generated_at": "2026-11-15T16:37:29.735686"
+    },
+    {
+      "english": "My boundaries are getting clearer.",
+      "indonesian": "Batasanku makin jelas.",
+      "transliteration": "BaTasanku MAcin jelas.",
+      "category": "Growth",
+      "generated_at": "2026-11-15T16:37:29.735686"
+    },
+    {
+      "english": "I recover faster after hard days.",
+      "indonesian": "Aku pulih lebih cepat setelah hari sulit.",
+      "transliteration": "Aku PUlih lebih CEpat seteLah hari SUlit.",
+      "category": "Growth",
+      "generated_at": "2026-11-15T16:37:29.735686"
+    },
+    {
+      "english": "I’m building steady habits, not hype.",
+      "indonesian": "Aku membangun kebiasaan yang mantap, bukan sekadar semangat.",
+      "transliteration": "Aku memBANGun kebiASAan yang MAn tap, buKAN sekaDAR semANGat.",
+      "category": "Growth",
+      "generated_at": "2026-11-15T16:37:29.735686"
+    },
+    {
+      "english": "I’m learning to accept my pace.",
+      "indonesian": "Aku belajar menerima tempo ku sendiri.",
+      "transliteration": "Aku BElar menerima TEmpo ku senDIRI.",
+      "category": "Growth",
+      "generated_at": "2026-11-15T16:37:29.735686"
+    },
+    {
+      "english": "Failure is teaching me something real.",
+      "indonesian": "Kegagalan mengajariku hal yang nyata.",
+      "transliteration": "KeGAgalan mengAjariku hal yang NYa ta.",
+      "category": "Growth",
+      "generated_at": "2026-11-15T16:37:29.735686"
+    },
+    {
+      "english": "I show up even when I’m tired.",
+      "indonesian": "Aku tetap muncul, meski sedang lelah.",
+      "transliteration": "Aku teTAP muNcul, meSKI seDang lelah.",
+      "category": "Growth",
+      "generated_at": "2026-11-15T16:37:29.735686"
+    },
+    {
+      "english": "Can you show me the price tag?",
+      "indonesian": "Bisa tunjukkan label harganya?",
+      "transliteration": "BISA tunJUKkan laBEL harGAnya?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-15T16:37:29.735686"
+    },
+    {
+      "english": "Does this include tax or service?",
+      "indonesian": "Harga ini sudah termasuk pajak atau service?",
+      "transliteration": "HARga iNi suDAH terMAK muk pajAk aTAU serVIS?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-15T16:37:29.735686"
+    },
+    {
+      "english": "I’ll take it if it’s reasonable.",
+      "indonesian": "Kalau masuk akal, saya ambil.",
+      "transliteration": "KALau MASUK AKal, saYA aMBIL.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-15T16:37:29.735686"
+    },
+    {
+      "english": "What’s the cheapest option here?",
+      "indonesian": "Paling murah yang mana di sini?",
+      "transliteration": "PAling muRAH yang MAna di SIni?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-15T16:37:29.735686"
+    },
+    {
+      "english": "Is it negotiable, or fixed?",
+      "indonesian": "Bisa ditawar, atau sudah pas harga?",
+      "transliteration": "BIsa diTAwar, aTAU suDAH pas hARGA?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-15T16:37:29.735686"
+    },
+    {
+      "english": "Do you accept cash or transfer?",
+      "indonesian": "Terima cash atau transfer, ya?",
+      "transliteration": "TerMA kaSH aTAU transFER, ya?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-15T16:37:29.735686"
+    },
+    {
+      "english": "How long is the warranty?",
+      "indonesian": "Garansinya berapa lama?",
+      "transliteration": "GaRANsinya berAPA laMA?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-15T16:37:29.735686"
+    },
+    {
+      "english": "Thank you for checking on me.",
+      "indonesian": "Terima kasih sudah mengecek saya.",
+      "transliteration": "terima kasih SUDAH mengecek saya",
+      "category": "Kindness",
+      "generated_at": "2026-11-15T16:37:29.735686"
+    },
+    {
+      "english": "I’ll return the favor, genuinely.",
+      "indonesian": "Aku akan membalas kebaikanmu dengan tulus.",
+      "transliteration": "aku akan membalas KEBAIKANmu dengan TULUS",
+      "category": "Kindness",
+      "generated_at": "2026-11-15T16:37:29.735686"
+    },
+    {
+      "english": "Your help today eased my stress.",
+      "indonesian": "Bantuanmu hari ini bikin pikiranku lebih ringan.",
+      "transliteration": "BANtuanmu HARI ini BIkin pikiranKu lebih RINGAN",
+      "category": "Kindness",
+      "generated_at": "2026-11-15T16:37:29.735686"
+    },
+    {
+      "english": "You didn’t judge me, and that matters.",
+      "indonesian": "Kamu tidak menghakimi saya, dan itu berarti.",
+      "transliteration": "kamu tiDAK mengHAKimi saya, dan itu BERarti",
+      "category": "Kindness",
+      "generated_at": "2026-11-15T16:37:29.735686"
+    },
+    {
+      "english": "I appreciate your honest, kind feedback.",
+      "indonesian": "Aku menghargai masukanmu yang jujur dan baik.",
+      "transliteration": "aku menghARgai MASUkanmu yang JUjur dan BAIK",
+      "category": "Kindness",
+      "generated_at": "2026-11-15T16:37:29.735686"
+    },
+    {
+      "english": "Let’s share credit, together.",
+      "indonesian": "Ayo saling berbagi pujian, bersama.",
+      "transliteration": "aYO saLING BERbagi PUJian, ber sama",
+      "category": "Kindness",
+      "generated_at": "2026-11-15T16:37:29.735686"
+    },
+    {
+      "english": "I noticed you made space for me.",
+      "indonesian": "Aku lihat kamu memberi ruang untukku.",
+      "transliteration": "aku LIHAT kamu memBERI ruang unTUKku",
+      "category": "Kindness",
+      "generated_at": "2026-11-15T16:37:29.735686"
+    },
+    {
+      "english": "Is someone else feeling sick too?",
+      "indonesian": "Ada orang lain yang juga merasa sakit?",
+      "transliteration": "Ada ORANG lain yang JUGA merasa SAKIT?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-15T16:37:29.735686"
+    },
+    {
+      "english": "Call emergency services, please right now.",
+      "indonesian": "Tolong hubungi layanan darurat sekarang.",
+      "transliteration": "Tolong HUbu ngi lAYA nan daRURAT SEKA.rang",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-15T16:37:29.735686"
+    },
+    {
+      "english": "Do you have trouble breathing?",
+      "indonesian": "Kamu kesulitan bernapas?",
+      "transliteration": "KaMU keSUlit an berNApas?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-15T16:37:29.735686"
+    },
+    {
+      "english": "I think I fainted earlier.",
+      "indonesian": "Sepertinya aku pingsan tadi.",
+      "transliteration": "SePERti nya aKU PINgsan taDI",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-15T16:37:29.735686"
+    },
+    {
+      "english": "Please stay with me, I m scared.",
+      "indonesian": "Tolong temani aku, aku takut.",
+      "transliteration": "Tolong teMANi aKU, aKU TAKUT",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-15T16:37:29.735686"
+    },
+    {
+      "english": "Can you bring water and ice?",
+      "indonesian": "Bisa bawa air dan es?",
+      "transliteration": "BISA bawa AIR dan ES?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-15T16:37:29.735686"
+    },
+    {
+      "english": "I feel hot, but no fever maybe.",
+      "indonesian": "Aku merasa kepanasan, tapi mungkin tidak demam.",
+      "transliteration": "aKU meRASA kePAna san, taPI munGkin tiDAK deMAM",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-15T16:37:29.735686"
+    },
+    {
+      "english": "Can we plan a low-key date?",
+      "indonesian": "Bisa kita rencanakan kencan yang santai?",
+      "transliteration": "BIsa kiTa renCANakan KENcan yang sanTAI?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-15T16:37:29.735686"
+    },
+    {
+      "english": "I love hearing your stories.",
+      "indonesian": "Aku suka mendengar cerita kamu.",
+      "transliteration": "Aku suKa menDENGar CEriTa kaMu.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-15T16:37:29.735686"
+    },
+    {
+      "english": "Hold my hand, just like that.",
+      "indonesian": "Genggam tanganku, aja seperti itu.",
+      "transliteration": "GENGgam TANganku, aJA sePerti iTu.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-15T16:37:29.735686"
+    },
+    {
+      "english": "I miss your laugh, honestly.",
+      "indonesian": "Aku rindu tawa kamu, jujur ya.",
+      "transliteration": "Aku RUNdu taWa kaMu, JUjur ya.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-15T16:37:29.735686"
+    },
+    {
+      "english": "What would make tonight perfect for you?",
+      "indonesian": "Apa yang bisa bikin malam ini terasa sempurna buat kamu?",
+      "transliteration": "A pa yang BI sa biKin MA lam i ni teRASA SEMpur na BUat kaMu?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-15T16:37:29.735686"
+    },
+    {
+      "english": "Let’s talk, no distractions tonight.",
+      "indonesian": "Kita ngobrol ya, malam ini tanpa gangguan.",
+      "transliteration": "KiTa NObrol ya, maLAM i ni TAN pa GANgguan.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-15T16:37:29.735686"
+    },
+    {
+      "english": "I feel safe when you’re honest.",
+      "indonesian": "Aku merasa aman saat kamu jujur.",
+      "transliteration": "Aku meRaSA aMAN saat kaMu JUjur.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-15T16:37:29.735686"
+    },
+    {
+      "english": "Welcome, let’s celebrate tonight",
+      "indonesian": "Selamat datang, ayo kita rayakan malam ini",
+      "transliteration": "Sela-MAT daTANG, aYO kiTA ra-YA-kan ma-lam INI",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-15T16:37:29.735686"
+    },
+    {
+      "english": "Cheers to new beginnings, semua!",
+      "indonesian": "Sorak sorai untuk awal yang baru, semua!",
+      "transliteration": "SO-rak so-rai un-TUK a-wal yang BA-ru, SEMu-a!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-15T16:37:29.735686"
+    },
+    {
+      "english": "Have you tried the spicy snacks?",
+      "indonesian": "Kamu sudah coba camilan pedasnya?",
+      "transliteration": "KA-mu SU-dah co-ba ca-milan PE-das-nya?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-15T16:37:29.735686"
+    },
+    {
+      "english": "I brought ice, so enjoy!",
+      "indonesian": "Aku bawa es, jadi nikmati saja!",
+      "transliteration": "A-ku BA-wa es, JA-di nik-MA-ti SA-ja!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-15T16:37:29.735686"
+    },
+    {
+      "english": "Let’s dance until the lights fade",
+      "indonesian": "Kita menari sampai lampunya redup",
+      "transliteration": "KI-ta me-na-ri sam-pai lam-PU-nya re-DUP",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-15T16:37:29.735686"
+    },
+    {
+      "english": "This DJ set is pure magic",
+      "indonesian": "Set DJ ini benar-benar luar biasa",
+      "transliteration": "set DJ i-ni be-nar-be-nar LU-ar bi-ASA",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-15T16:37:29.735686"
+    },
+    {
+      "english": "Dinner smells amazing, I’m hungry",
+      "indonesian": "Aroma makan malamnya enak sekali, aku lapar",
+      "transliteration": "a-Ro-ma ma-kan ma-lam-nya eNAK se-ka-li, a-ku la-PAR",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-15T16:37:29.735686"
     }
   ],
-  "last_updated": "2026-11-14T16:09:05.550158"
+  "last_updated": "2026-11-15T16:37:29.735686"
 }

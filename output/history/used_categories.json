@@ -195,7 +195,39 @@
     {
       "category": "Positive Life",
       "date": "2026-11-14"
+    },
+    {
+      "category": "Motivation",
+      "date": "2026-11-15"
+    },
+    {
+      "category": "Doctor & Pharmacy",
+      "date": "2026-11-15"
+    },
+    {
+      "category": "Growth",
+      "date": "2026-11-15"
+    },
+    {
+      "category": "Shopping & Prices",
+      "date": "2026-11-15"
+    },
+    {
+      "category": "Kindness",
+      "date": "2026-11-15"
+    },
+    {
+      "category": "Emergency & Health",
+      "date": "2026-11-15"
+    },
+    {
+      "category": "Dating & Romance",
+      "date": "2026-11-15"
+    },
+    {
+      "category": "Celebrations & Parties",
+      "date": "2026-11-15"
     }
   ],
-  "last_updated": "2026-11-14T16:09:05.562174"
+  "last_updated": "2026-11-15T16:37:29.750628"
 }
