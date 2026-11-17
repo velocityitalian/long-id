@@ -19959,7 +19959,399 @@
       "transliteration": "BISA dibuNGKUS untuk dibawa PUlang?",
       "category": "Ordering Food & Dining",
       "generated_at": "2026-11-16T19:53:47.436413"
+    },
+    {
+      "english": "My smile comes easily today",
+      "indonesian": "Senyumku mudah sekali hari ini",
+      "transliteration": "SeNYUM-ku MU-dah SE-ka-li HAR-i ini",
+      "category": "Happiness",
+      "generated_at": "2026-11-17T18:47:40.497358"
+    },
+    {
+      "english": "I feel safe in my own mind",
+      "indonesian": "Aku merasa aman di pikiranku sendiri",
+      "transliteration": "A-ku ME-ra-sa AMAN di PI-ki-ran-ku SEN-di-ri",
+      "category": "Happiness",
+      "generated_at": "2026-11-17T18:47:40.497358"
+    },
+    {
+      "english": "Warm coffee and quiet mornings",
+      "indonesian": "Kopi hangat dan pagi yang tenang",
+      "transliteration": "KO-pi HANG-at dan PA-gi yang TE-nang",
+      "category": "Happiness",
+      "generated_at": "2026-11-17T18:47:40.497358"
+    },
+    {
+      "english": "I laugh at small silly things",
+      "indonesian": "Aku tertawa pada hal-hal kecil yang konyol",
+      "transliteration": "A-ku TER-ta-wa pa-da hal-hal KECIL yang ko-NYOL",
+      "category": "Happiness",
+      "generated_at": "2026-11-17T18:47:40.497358"
+    },
+    {
+      "english": "I choose peace, not just comfort",
+      "indonesian": "Aku memilih damai, bukan sekadar nyaman",
+      "transliteration": "A-ku ME-mi-lih DA-mai, bu-kan se-KA-dar NYA-man",
+      "category": "Happiness",
+      "generated_at": "2026-11-17T18:47:40.497358"
+    },
+    {
+      "english": "Today I let go of grudges",
+      "indonesian": "Hari ini aku melepas dendam",
+      "transliteration": "HA-ri i-ni a-ku ME-le-pas DEN-dam",
+      "category": "Happiness",
+      "generated_at": "2026-11-17T18:47:40.497358"
+    },
+    {
+      "english": "A friend texted, and I feel bright",
+      "indonesian": "Teman menelepon, hatiku terasa terang",
+      "transliteration": "Te-man me-NE-le-pon, ha-ti-ku te-rA-sa te-RANG",
+      "category": "Happiness",
+      "generated_at": "2026-11-17T18:47:40.497358"
+    },
+    {
+      "english": "I set a small timer, then start.",
+      "indonesian": "Aku pasang timer kecil dulu, lalu mulai.",
+      "transliteration": "Aku pasang TImER KIcil dulu, lalu MULAI.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-17T18:47:40.497358"
+    },
+    {
+      "english": "My hobby beats scrolling for me.",
+      "indonesian": "Hobi saya mengalahkan kebiasaan scroll.",
+      "transliteration": "HoBI saya mengalahkan keBIasaAn SCROLL.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-17T18:47:40.497358"
+    },
+    {
+      "english": "I keep supplies ready for quick sessions.",
+      "indonesian": "Aku siapkan alatnya supaya bisa sesi cepat.",
+      "transliteration": "Aku siapkan ALatnya suPArA bisa SESI CEPAT.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-17T18:47:40.497358"
+    },
+    {
+      "english": "I choose one craft, not ten.",
+      "indonesian": "Aku pilih satu kegiatan kreatif, bukan sepuluh.",
+      "transliteration": "Aku PILih saTu keGIATan kreATif, buKAN sePUluh.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-17T18:47:40.497358"
+    },
+    {
+      "english": "Weekends are for play, not catching up.",
+      "indonesian": "Hari Minggu buat main, bukan buat mengejar ketinggalan.",
+      "transliteration": "HaRI MInGgu buat MAIN, buKAN buat MEngejar KEtingGALan.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-17T18:47:40.497358"
+    },
+    {
+      "english": "I go outside, even for twenty minutes.",
+      "indonesian": "Aku keluar rumah, walau cuma dua puluh menit.",
+      "transliteration": "Aku KELUar ruMAh, waLau CUma DUa puLUH MENIT.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-17T18:47:40.497358"
+    },
+    {
+      "english": "I journal three lines, then stop.",
+      "indonesian": "Aku menulis tiga baris, lalu berhenti.",
+      "transliteration": "Aku meNUlIS TIga baRIS, lalu berHENti.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-17T18:47:40.497358"
+    },
+    {
+      "english": "I have to change terminals, right?",
+      "indonesian": "Saya harus pindah terminal, ya?",
+      "transliteration": "SaYA HARus PINdah TERmiNAL, ya?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-17T18:47:40.497358"
+    },
+    {
+      "english": "I’ll keep my passport handy.",
+      "indonesian": "Saya simpan paspor saya dekat sini.",
+      "transliteration": "SaYA SIMpan PASpor saYA deKAT siNI.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-17T18:47:40.497358"
+    },
+    {
+      "english": "Where can I get bottled water?",
+      "indonesian": "Di mana saya bisa beli air botol?",
+      "transliteration": "Di MAna saYA biSa BEli AIR BOtol?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-17T18:47:40.497358"
+    },
+    {
+      "english": "Is there a smoking area nearby?",
+      "indonesian": "Ada area merokok di dekat sini?",
+      "transliteration": "A DA aREA meROkok di deKAT siNI?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-17T18:47:40.497358"
+    },
+    {
+      "english": "I’m going to the boarding gate now.",
+      "indonesian": "Saya pergi ke gerbang boarding sekarang.",
+      "transliteration": "SaYA peRgi ke gerBANG BOARDing seKARang.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-17T18:47:40.497358"
+    },
+    {
+      "english": "Could you help me find my seat?",
+      "indonesian": "Tolong bantu saya menemukan kursi saya.",
+      "transliteration": "TOlong BANtu saYA meNemuKAN KURsi saYA.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-17T18:47:40.497358"
+    },
+    {
+      "english": "My luggage is still on the belt.",
+      "indonesian": "Bagasi saya masih di sabuk berjalan.",
+      "transliteration": "BaGASi saYA maSih di SAbuk berJALan.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-17T18:47:40.497358"
+    },
+    {
+      "english": "Hi, what pastries are fresh today?",
+      "indonesian": "Hai, roti dan pastry apa yang masih fresh hari ini?",
+      "transliteration": "Hai, roti dan PAStry apa yang maSIH FRESH hari ini?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-17T18:47:40.497358"
+    },
+    {
+      "english": "I’ll try your signature coffee, please.",
+      "indonesian": "Saya mau coba kopi andalan Anda, ya.",
+      "transliteration": "SAya mau coBA KOpi anDaLAN Anda, ya.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-17T18:47:40.497358"
+    },
+    {
+      "english": "Can I get oat milk on top?",
+      "indonesian": "Bisa tambah susu oat, ya?",
+      "transliteration": "BIsa TAMbah suSU OAT, ya?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-17T18:47:40.497358"
+    },
+    {
+      "english": "This croissant flakes perfectly, wow.",
+      "indonesian": "Croissant ini lapisannya renyah banget, wah.",
+      "transliteration": "CroISant ini LApisannya reNYAH baNGAT, wah.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-17T18:47:40.497358"
+    },
+    {
+      "english": "Your espresso is bold, not bitter.",
+      "indonesian": "Espresso Anda tegas rasanya, nggak pahit.",
+      "transliteration": "ESpresSO AnDA tegas raSAnya, NGga paHIT.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-17T18:47:40.497358"
+    },
+    {
+      "english": "I need something warm and filling.",
+      "indonesian": "Aku butuh yang hangat, sekalian mengenyangkan.",
+      "transliteration": "Aku BUtuH yang HANgat, seKAli an meNGENyangkan.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-17T18:47:40.497358"
+    },
+    {
+      "english": "What bread pairs best with coffee?",
+      "indonesian": "Roti apa yang paling cocok dimakan dengan kopi?",
+      "transliteration": "roTI apa yang paLIng coCOK diMAkan deNGAN KOpi?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-17T18:47:40.497358"
+    },
+    {
+      "english": "I belong in this conversation.",
+      "indonesian": "Aku pantas ikut percakapan ini.",
+      "transliteration": "Aku PANTAS ikut PERcaKAPan ini.",
+      "category": "Confidence",
+      "generated_at": "2026-11-17T18:47:40.497358"
+    },
+    {
+      "english": "My voice matters, even softly.",
+      "indonesian": "Suaraku berharga, walau pelan.",
+      "transliteration": "SUaRAku BERharGA, waLau PELan.",
+      "category": "Confidence",
+      "generated_at": "2026-11-17T18:47:40.497358"
+    },
+    {
+      "english": "I ask again, no big deal.",
+      "indonesian": "Kalau belum paham, aku tanya lagi saja.",
+      "transliteration": "KaLU kalau beLum paHAM, aku TAnya LAgi saja.",
+      "category": "Confidence",
+      "generated_at": "2026-11-17T18:47:40.497358"
+    },
+    {
+      "english": "I can start small and win.",
+      "indonesian": "Aku bisa mulai dari yang kecil, pelan-pelan.",
+      "transliteration": "Aku biSA muLAi dari yang KEciL, pelAN-pelAN.",
+      "category": "Confidence",
+      "generated_at": "2026-11-17T18:47:40.497358"
+    },
+    {
+      "english": "I speak to connect, not impress.",
+      "indonesian": "Aku bicara untuk terhubung, bukan untuk terlihat hebat.",
+      "transliteration": "Aku BIcara unTuk terHUbung, BUkan unTuk terLIhat HEbat.",
+      "category": "Confidence",
+      "generated_at": "2026-11-17T18:47:40.497358"
+    },
+    {
+      "english": "I choose one useful word today.",
+      "indonesian": "Hari ini aku pilih satu kata yang paling kepakai.",
+      "transliteration": "HaRI ini aku PIlih saTU KAta yang paLING kePAkai.",
+      "category": "Confidence",
+      "generated_at": "2026-11-17T18:47:40.497358"
+    },
+    {
+      "english": "I can say it slowly and clear.",
+      "indonesian": "Aku boleh bicara pelan, yang penting jelas.",
+      "transliteration": "Aku boLEH biCAra pelAN, yang PENting jeLAS.",
+      "category": "Confidence",
+      "generated_at": "2026-11-17T18:47:40.497358"
+    },
+    {
+      "english": "Can you clarify the deadline for me?",
+      "indonesian": "Bisa jelaskan tenggat waktunya untuk saya?",
+      "transliteration": "BI-SA JE-LAS-KAN TEN-GKAT WAK-TU-NYA un-TUK SA-YA?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-17T18:47:40.497358"
+    },
+    {
+      "english": "I’ll handle it, give me ten minutes.",
+      "indonesian": "Saya yang urus, beri saya sepuluh menit.",
+      "transliteration": "SA-YA YANG URUS, BE-RI SA-YA SE-PU-LUH MEN-IT.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-17T18:47:40.497358"
+    },
+    {
+      "english": "Please put this in writing, thanks.",
+      "indonesian": "Tolong kirimkan ini lewat tulisan, ya.",
+      "transliteration": "TO-LONG KI-RIM-KAN I-NI LE-WAT TU-LIS-AN, YA.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-17T18:47:40.497358"
+    },
+    {
+      "english": "Let’s review the document together quickly.",
+      "indonesian": "Kita cek dokumennya bersama, sebentar saja.",
+      "transliteration": "KI-TA CEK DO-KU-MEN-NYA BE-SAR-MA, SE-BEN-TAR SA-JA.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-17T18:47:40.497358"
+    },
+    {
+      "english": "Where should I send the invoice?",
+      "indonesian": "Saya kirimkan faktur ke mana ya?",
+      "transliteration": "SA-YA KI-RIM-KAN FAK-TUR KE MA-na YA?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-17T18:47:40.497358"
+    },
+    {
+      "english": "I’m booking the meeting for Thursday.",
+      "indonesian": "Saya jadwalkan rapatnya untuk hari Kamis.",
+      "transliteration": "SA-YA JAD-WAL-KAN RA-PAT-NYA un-TUK HA-RI KA-MIS.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-17T18:47:40.497358"
+    },
+    {
+      "english": "Could you summarize the key points?",
+      "indonesian": "Bisa rangkum poin-poin pentingnya?",
+      "transliteration": "BI-SA RAM-KUM PO-IN-PO-IN PEN-TING-NYA?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-17T18:47:40.497358"
+    },
+    {
+      "english": "Can we tidy one room now?",
+      "indonesian": "Bisa kita bereskan satu ruangan dulu?",
+      "transliteration": "Bisa kita BEReskan saTU RUANGan DULU?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-17T18:47:40.497358"
+    },
+    {
+      "english": "I’ll cook if you set the table.",
+      "indonesian": "Aku masak kalau kamu tata mejanya ya.",
+      "transliteration": "Aku MA_sak kaLU kaMu TATA MEJAnya ya",
+      "category": "Family & Home",
+      "generated_at": "2026-11-17T18:47:40.497358"
+    },
+    {
+      "english": "Let’s do a family check-in tonight.",
+      "indonesian": "Malam ini, yuk kita ngobrol singkat sebagai keluarga.",
+      "transliteration": "MaLAM iNi, yuk kita NGGOBrol SINgkat seBAgai keLUarGA",
+      "category": "Family & Home",
+      "generated_at": "2026-11-17T18:47:40.497358"
+    },
+    {
+      "english": "I brought bread, just for us.",
+      "indonesian": "Aku bawa roti, khusus buat kita.",
+      "transliteration": "Aku BAwa ROti, KHuSUS buat kiTA",
+      "category": "Family & Home",
+      "generated_at": "2026-11-17T18:47:40.497358"
+    },
+    {
+      "english": "Please call before you visit.",
+      "indonesian": "Tolong kabari dulu kalau mau datang.",
+      "transliteration": "TOlong kaBARI duLU kaLau mau daTANG",
+      "category": "Family & Home",
+      "generated_at": "2026-11-17T18:47:40.497358"
+    },
+    {
+      "english": "I need quiet after work, okay?",
+      "indonesian": "Aku butuh tenang setelah kerja, ya.",
+      "transliteration": "Aku BUtuh TE-nang seTElah KERja, ya",
+      "category": "Family & Home",
+      "generated_at": "2026-11-17T18:47:40.497358"
+    },
+    {
+      "english": "We can share chores, no problem.",
+      "indonesian": "Kita bagi tugas rumahnya, santai saja.",
+      "transliteration": "KiTa BAGI tuGAS RUmahnya, sanTAi saJA",
+      "category": "Family & Home",
+      "generated_at": "2026-11-17T18:47:40.497358"
+    },
+    {
+      "english": "Which way is closest to there?",
+      "indonesian": "Kira-kira arah mana yang paling dekat?",
+      "transliteration": "Ki-ra-ki-ra ARAH ma-na yang pal-ing de-kat?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-17T18:47:40.497358"
+    },
+    {
+      "english": "Can you point to the landmark?",
+      "indonesian": "Bisa tunjukkan patokan terdekat di sana?",
+      "transliteration": "Bi-sa TU-njuk-kan PA-to-kan ter-de-kat di sa-na?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-17T18:47:40.497358"
+    },
+    {
+      "english": "Should I turn left at the light?",
+      "indonesian": "Apakah saya belok kiri saat lampu itu?",
+      "transliteration": "A-pa-kah sa-ya be-lok ki-ri SAAT lam-pu i-tu?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-17T18:47:40.497358"
+    },
+    {
+      "english": "Is this street going the right way?",
+      "indonesian": "Apakah jalan ini menuju ke arah itu?",
+      "transliteration": "A-pa-kah JA-lan i-ni me-nu-ju ke A-rah i-tu?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-17T18:47:40.497358"
+    },
+    {
+      "english": "Do I keep going straight from here?",
+      "indonesian": "Saya harus terus lurus dari sini?",
+      "transliteration": "Sa-ya HARUS te-rus LU-RUS da-ri si-ni?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-17T18:47:40.497358"
+    },
+    {
+      "english": "What’s the next turn after this corner?",
+      "indonesian": "Nanti setelah tikungan ini, belok ke mana?",
+      "transliteration": "Nan-ti se-te-lah TI-ku-gan i-ni, BE-lok ke ma-na?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-17T18:47:40.497358"
+    },
+    {
+      "english": "Is there a shortcut that is safe?",
+      "indonesian": "Ada jalan pintas yang tetap aman?",
+      "transliteration": "A-da JA-lan pin-tas yang te-tap a-man?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-17T18:47:40.497358"
     }
   ],
-  "last_updated": "2026-11-16T19:53:47.436413"
+  "last_updated": "2026-11-17T18:47:40.497358"
 }
