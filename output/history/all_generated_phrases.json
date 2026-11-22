@@ -21919,7 +21919,399 @@
       "transliteration": "HAri iNI aku MEMILih berTUMbuh daRIpaDA nyaNYAM.",
       "category": "Growth",
       "generated_at": "2026-11-21T16:59:28.161955"
+    },
+    {
+      "english": "Is it safe to move right now?",
+      "indonesian": "Apakah aman kalau saya bergerak sekarang?",
+      "transliteration": "ApaKAH aMAN kaLU saYA berGErak SEKARANG?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-22T17:26:12.565804"
+    },
+    {
+      "english": "Please unlock the door for help.",
+      "indonesian": "Tolong buka kunci pintunya, ya.",
+      "transliteration": "TOLong buKA kunCI pinTUNya, ya.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-22T17:26:12.565804"
+    },
+    {
+      "english": "I swallowed something, I’m worried.",
+      "indonesian": "Saya tidak sengaja menelan sesuatu, saya khawatir.",
+      "transliteration": "saYA tiDAK saNGaJa meNTeLAN seSUaTu, saYA KHAwaTIR.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-22T17:26:12.565804"
+    },
+    {
+      "english": "Do I need CPR right now?",
+      "indonesian": "Apakah saya perlu CPR sekarang?",
+      "transliteration": "ApaKAH saYA perLU CPR SEKARANG?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-22T17:26:12.565804"
+    },
+    {
+      "english": "Check their pulse, please.",
+      "indonesian": "Tolong periksa nadi mereka.",
+      "transliteration": "TOLong peRIKsa naDI meREka.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-22T17:26:12.565804"
+    },
+    {
+      "english": "I can’t stop coughing, help.",
+      "indonesian": "Saya batuk terus, tolong.",
+      "transliteration": "saYA BA TUK teRUS, TOLong.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-22T17:26:12.565804"
+    },
+    {
+      "english": "I have chest pain, call now.",
+      "indonesian": "Saya nyeri dada, tolong hubungi sekarang.",
+      "transliteration": "saYA NYEri DA da, TOLong huBUngi SEKARANG.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-22T17:26:12.565804"
+    },
+    {
+      "english": "I feel excited to see you.",
+      "indonesian": "Aku merasa senang, aku tidak sabar melihatmu.",
+      "transliteration": "Aku merasa SENANG, aku tidak SABAR melihatmu.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-22T17:26:12.565804"
+    },
+    {
+      "english": "Tell me what you’re craving tonight.",
+      "indonesian": "Ceritakan, kamu lagi ngidam apa malam ini?",
+      "transliteration": "Ceritakan, kamu lagi NGIDAM apa malam ini?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-22T17:26:12.565804"
+    },
+    {
+      "english": "I love how you make me calm.",
+      "indonesian": "Aku suka caramu bikin aku tenang.",
+      "transliteration": "Aku suka CARAmu bikin aku TENANG.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-22T17:26:12.565804"
+    },
+    {
+      "english": "Can we keep kissing like that?",
+      "indonesian": "Boleh kita ciuman seperti tadi terus?",
+      "transliteration": "Boleh kita CIUMAN seperti tadi teRUS?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-22T17:26:12.565804"
+    },
+    {
+      "english": "Your smile still hits me.",
+      "indonesian": "Senyummu masih bikin aku kepleset.",
+      "transliteration": "SENYUMmu masih bikin aku KEpleset.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-22T17:26:12.565804"
+    },
+    {
+      "english": "I’m proud of you, truly.",
+      "indonesian": "Aku bangga padamu, sungguh.",
+      "transliteration": "Aku BANGGA padamu, SUNGGUH.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-22T17:26:12.565804"
+    },
+    {
+      "english": "What do you want to explore together?",
+      "indonesian": "Kamu pengin kita jalan ke mana, ya?",
+      "transliteration": "Kamu PENgin kita jalan KE maNA, ya?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-22T17:26:12.565804"
+    },
+    {
+      "english": "I come back to my breath",
+      "indonesian": "Aku kembali ke napasku, pelan-pelan.",
+      "transliteration": "Aku KEMBALI ke NA-pas-ku, pelan-pelan.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-22T17:26:12.565804"
+    },
+    {
+      "english": "Peace arrives when I stop fighting",
+      "indonesian": "Kedamaian datang saat aku berhenti berperang.",
+      "transliteration": "KED-a-mai-an da-tang saat aku BER-HEN-TI ber-PERANG.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-22T17:26:12.565804"
+    },
+    {
+      "english": "I let my mind wander, gently",
+      "indonesian": "Aku membiarkan pikiranku pergi, tanpa menghakimi.",
+      "transliteration": "Aku mem-BIAR-kan pi-kir-an-ku per-gi, TAN-pa meng-HA-KI-mi.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-22T17:26:12.565804"
+    },
+    {
+      "english": "My shoulders drop, I’m here",
+      "indonesian": "Bahuku turun, aku hadir sepenuhnya.",
+      "transliteration": "BA-hu-ku tu-run, aku HA-dir se-PE-NUH-nya.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-22T17:26:12.565804"
+    },
+    {
+      "english": "I talk to myself with kindness",
+      "indonesian": "Aku berbicara pada diriku dengan lembut.",
+      "transliteration": "Aku BER-bi-ca-ra pa-da di-ri-ku de-ngan Lem-but.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-22T17:26:12.565804"
+    },
+    {
+      "english": "Today is enough, not perfect",
+      "indonesian": "Hari ini cukup, bukan harus sempurna.",
+      "transliteration": "Ha-ri i-ni CU-KUP, bu-kan ha-rus SEM-PUR-na.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-22T17:26:12.565804"
+    },
+    {
+      "english": "I unclutter my thoughts, one by one",
+      "indonesian": "Aku merapikan pikiranku, satu per satu.",
+      "transliteration": "Aku me-RAPI-kan pi-kir-an-ku, sa-tu per SA-tu.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-22T17:26:12.565804"
+    },
+    {
+      "english": "Excuse me, can I order now?",
+      "indonesian": "Permisi, saya bisa pesan sekarang?",
+      "transliteration": "PermiSI, saYA biSa peSAN seKARang?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-22T17:26:12.565804"
+    },
+    {
+      "english": "Is this dish served hot?",
+      "indonesian": "Makanan ini disajikan panas?",
+      "transliteration": "MAkaNAN iNi diSAjiKAN paNAS?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-22T17:26:12.565804"
+    },
+    {
+      "english": "I need it less oily, please.",
+      "indonesian": "Saya minta yang kurang berminyak, ya.",
+      "transliteration": "saYA MINta yang kuRANG berMInyak, ya.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-22T17:26:12.565804"
+    },
+    {
+      "english": "Can I get the sauce on the side?",
+      "indonesian": "Bisa sausnya dipisah di pinggir?",
+      "transliteration": "biSA sauSNya diPI'SAH di PINggir?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-22T17:26:12.565804"
+    },
+    {
+      "english": "What comes with this meal?",
+      "indonesian": "Biasanya makan ini dapat apa saja?",
+      "transliteration": "biA.saNYA maKAN iNi daPAT aPA saJA?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-22T17:26:12.565804"
+    },
+    {
+      "english": "I’ll take one iced tea, please.",
+      "indonesian": "Saya ambil teh es satu, ya.",
+      "transliteration": "saYA amBIL teh es saTU, ya.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-22T17:26:12.565804"
+    },
+    {
+      "english": "Could you make it mild for me?",
+      "indonesian": "Boleh dibuat tidak pedas untuk saya?",
+      "transliteration": "boLEH diBUAT tiDAK peDAS unTUK saYA?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-22T17:26:12.565804"
+    },
+    {
+      "english": "Thanks for taking your time today.",
+      "indonesian": "Makasih sudah meluangkan waktu hari ini, ya.",
+      "transliteration": "MaKASIH suDAH meLUANGkan WAktu HAri iNI, ya.",
+      "category": "Patience",
+      "generated_at": "2026-11-22T17:26:12.565804"
+    },
+    {
+      "english": "I’ll wait, even if it takes longer.",
+      "indonesian": "Aku akan menunggu, meski butuh waktu lebih lama.",
+      "transliteration": "A-KU aKAN ME-nungGU, MES-ki bu-TUH WAK-tu leBIH laMA.",
+      "category": "Patience",
+      "generated_at": "2026-11-22T17:26:12.565804"
+    },
+    {
+      "english": "Slow is fine, we’re not behind.",
+      "indonesian": "Pelan saja tidak apa, kita tidak ketinggalan.",
+      "transliteration": "PE-lan saJA tiDAK apa, KI-ta tiDAK KETingGAlan.",
+      "category": "Patience",
+      "generated_at": "2026-11-22T17:26:12.565804"
+    },
+    {
+      "english": "Let me pause, then we decide.",
+      "indonesian": "Aku mau jeda dulu, nanti kita putuskan bersama.",
+      "transliteration": "A-KU mau JEna duLU, NAnti kiTA pu-TUS-kan ber-saMA.",
+      "category": "Patience",
+      "generated_at": "2026-11-22T17:26:12.565804"
+    },
+    {
+      "english": "Take a breath, the next step is coming.",
+      "indonesian": "Tarik napas, langkah berikutnya akan datang.",
+      "transliteration": "TA-rik NA-pas, LAngkah berIKUtnya aKAN daTANG.",
+      "category": "Patience",
+      "generated_at": "2026-11-22T17:26:12.565804"
+    },
+    {
+      "english": "I can handle this, one moment at a time.",
+      "indonesian": "Aku sanggup, satu momen demi satu momen.",
+      "transliteration": "A-KU saNGGUP, SA-tu MO-men deMI sa-tu MO-men.",
+      "category": "Patience",
+      "generated_at": "2026-11-22T17:26:12.565804"
+    },
+    {
+      "english": "Let it be imperfect, just keep going.",
+      "indonesian": "Tak apa tidak sempurna, yang penting terus jalan.",
+      "transliteration": "Tak paDA tiDAK semPUR-na, yang PENting teRUS jaLAN.",
+      "category": "Patience",
+      "generated_at": "2026-11-22T17:26:12.565804"
+    },
+    {
+      "english": "Try, then adjust, without shame.",
+      "indonesian": "Cobalah dulu, lalu sesuaikan tanpa rasa malu.",
+      "transliteration": "COBALAH dulu, lalu SESUAIkan tanpa rasa MALU.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-22T17:26:12.565804"
+    },
+    {
+      "english": "Let curiosity lead your next move.",
+      "indonesian": "Biarkan rasa ingin tahu menuntun langkahmu berikutnya.",
+      "transliteration": "BIARkan rasa INGIN tahu MENUNtun langkahmu BERIKutnya.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-22T17:26:12.565804"
+    },
+    {
+      "english": "Small wins can change everything.",
+      "indonesian": "Kemenangan kecil bisa mengubah segalanya.",
+      "transliteration": "KEMENANGan KECIL bisa MENGubah SEgalanya.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-22T17:26:12.565804"
+    },
+    {
+      "english": "Choose courage over comfort today.",
+      "indonesian": "Pilih keberanian daripada kenyamanan hari ini.",
+      "transliteration": "PIlih keBERanian daripada KEnyamanan HARI ini.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-22T17:26:12.565804"
+    },
+    {
+      "english": "Your future hears your effort now.",
+      "indonesian": "Masa depanmu mendengar usahamu sekarang.",
+      "transliteration": "MASA dePANmu MENdengar USAHmu SEkarang.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-22T17:26:12.565804"
+    },
+    {
+      "english": "Take a walk, clear your mind.",
+      "indonesian": "Jalan sebentar, beningkan pikiranmu.",
+      "transliteration": "JALAN seBENTAR, beNINGkan PIkiRANmu.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-22T17:26:12.565804"
+    },
+    {
+      "english": "Make it fun, then make it real.",
+      "indonesian": "Buatlah terasa menyenangkan, lalu jadikan nyata.",
+      "transliteration": "BUATlah teRASA meNYENangkan, LAlu JAdiKAN NyaTA.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-22T17:26:12.565804"
+    },
+    {
+      "english": "Stay close, I love you so much.",
+      "indonesian": "Tetap dekat ya, aku sayang kamu banget.",
+      "transliteration": "TEtap dekat ya, aK U sayang kaMU banGET.",
+      "category": "Love",
+      "generated_at": "2026-11-22T17:26:12.565804"
+    },
+    {
+      "english": "I’m grateful for you, truly.",
+      "indonesian": "Aku benar-benar bersyukur punya kamu.",
+      "transliteration": "Aku berNaR-benar BER-syu-kur PU-na kaMU.",
+      "category": "Love",
+      "generated_at": "2026-11-22T17:26:12.565804"
+    },
+    {
+      "english": "Your smile makes my day better.",
+      "indonesian": "Senyummu bikin hariku makin baik.",
+      "transliteration": "SEn-yum-mu BI-kin haRI-ku maKIN baiK.",
+      "category": "Love",
+      "generated_at": "2026-11-22T17:26:12.565804"
+    },
+    {
+      "english": "I want to build a future together.",
+      "indonesian": "Aku mau kita membangun masa depan bersama.",
+      "transliteration": "Aku MAU KIta mem-BANGun ma-SA dePAN ber-saMA.",
+      "category": "Love",
+      "generated_at": "2026-11-22T17:26:12.565804"
+    },
+    {
+      "english": "We belong to each other, seriously.",
+      "indonesian": "Kita saling memiliki, sungguh.",
+      "transliteration": "Ki-ta saLING meMILI-ki, SUN-guH.",
+      "category": "Love",
+      "generated_at": "2026-11-22T17:26:12.565804"
+    },
+    {
+      "english": "Hold me, I’m feeling soft today.",
+      "indonesian": "Peluk aku, hari ini aku lagi lembut.",
+      "transliteration": "peLUK aku, HA-ri i-ni aKU la-gi lemBUT.",
+      "category": "Love",
+      "generated_at": "2026-11-22T17:26:12.565804"
+    },
+    {
+      "english": "Let’s laugh together, just the two of us.",
+      "indonesian": "Ayo kita ketawa bersama, berdua saja.",
+      "transliteration": "Ayo ki-ta keTA-wa ber-saMA, ber-dua SA-ja.",
+      "category": "Love",
+      "generated_at": "2026-11-22T17:26:12.565804"
+    },
+    {
+      "english": "Hope, start with one honest step.",
+      "indonesian": "Harapan, mulai dengan satu langkah yang jujur.",
+      "transliteration": "HARPAN, mulai dengan satu LANGKAH yang JUJUR.",
+      "category": "Hope",
+      "generated_at": "2026-11-22T17:26:12.565804"
+    },
+    {
+      "english": "I hold hope, even when it wobbles.",
+      "indonesian": "Aku tetap memegang harapan, meski goyah.",
+      "transliteration": "Aku tetap memegang HARApan, MESki goyAH.",
+      "category": "Hope",
+      "generated_at": "2026-11-22T17:26:12.565804"
+    },
+    {
+      "english": "I can breathe, and hope returns.",
+      "indonesian": "Aku bisa bernapas, dan harapan kembali lagi.",
+      "transliteration": "Aku biSA bernapas, dan HARApan kembali LaGI.",
+      "category": "Hope",
+      "generated_at": "2026-11-22T17:26:12.565804"
+    },
+    {
+      "english": "Tiny routines can rebuild hope.",
+      "indonesian": "Kebiasaan kecil bisa membangun harapan lagi.",
+      "transliteration": "KEbiasaan KEcil bisa memBANgun HARApan laGI.",
+      "category": "Hope",
+      "generated_at": "2026-11-22T17:26:12.565804"
+    },
+    {
+      "english": "Let hope ride with your effort.",
+      "indonesian": "Biarkan harapan ikut berjalan bersama usahamu.",
+      "transliteration": "BIarkan HARApan ikut berJALan berSAMa uSAhamu.",
+      "category": "Hope",
+      "generated_at": "2026-11-22T17:26:12.565804"
+    },
+    {
+      "english": "When I pause, I choose hope.",
+      "indonesian": "Saat aku berhenti sebentar, aku memilih harapan.",
+      "transliteration": "saat aku berHENti seBENTAR, aku memIlih HARApan.",
+      "category": "Hope",
+      "generated_at": "2026-11-22T17:26:12.565804"
+    },
+    {
+      "english": "Hope says, this is not forever.",
+      "indonesian": "Harapan bilang, ini tidak akan selamanya.",
+      "transliteration": "HARApan biLANG, ini tiDAk akan seLAManya.",
+      "category": "Hope",
+      "generated_at": "2026-11-22T17:26:12.565804"
     }
   ],
-  "last_updated": "2026-11-21T16:59:28.161955"
+  "last_updated": "2026-11-22T17:26:12.565804"
 }
