@@ -451,7 +451,39 @@
     {
       "category": "Hope",
       "date": "2026-11-22"
+    },
+    {
+      "category": "Success",
+      "date": "2026-11-23"
+    },
+    {
+      "category": "Cultural Traditions",
+      "date": "2026-11-23"
+    },
+    {
+      "category": "Travel & Airport",
+      "date": "2026-11-23"
+    },
+    {
+      "category": "Confidence",
+      "date": "2026-11-23"
+    },
+    {
+      "category": "Family & Home",
+      "date": "2026-11-23"
+    },
+    {
+      "category": "Asking for Directions",
+      "date": "2026-11-23"
+    },
+    {
+      "category": "Coffee Shop & Bakery",
+      "date": "2026-11-23"
+    },
+    {
+      "category": "Work & Office",
+      "date": "2026-11-23"
     }
   ],
-  "last_updated": "2026-11-22T17:26:12.580193"
+  "last_updated": "2026-11-23T21:41:54.050109"
 }
