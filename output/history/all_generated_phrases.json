@@ -22703,7 +22703,399 @@
       "transliteration": "SaYA biSA iKut, tapi singKAT saJA ya",
       "category": "Work & Office",
       "generated_at": "2026-11-23T21:41:54.035218"
+    },
+    {
+      "english": "I unwind by cooking something new.",
+      "indonesian": "Aku mengendur dengan memasak sesuatu yang baru.",
+      "transliteration": "Aku mengendur dengan MEMaSKa sesuatu yang baru.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-24T20:23:38.488401"
+    },
+    {
+      "english": "I play music while I clean.",
+      "indonesian": "Aku memutar musik sambil beres-beres.",
+      "transliteration": "Aku MEMuTAR muSIk saMBIL beREs-beREs.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-24T20:23:38.488401"
+    },
+    {
+      "english": "I garden for quiet satisfaction.",
+      "indonesian": "Aku berkebun untuk kepuasan yang tenang.",
+      "transliteration": "Aku berKEbun unTuk kePUASan yang teNANG.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-24T20:23:38.488401"
+    },
+    {
+      "english": "I walk outside, just to reset.",
+      "indonesian": "Aku jalan keluar, hanya untuk menyetel ulang.",
+      "transliteration": "Aku JAlan keLUAR, haNya unTuk meNYEtel uLANG.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-24T20:23:38.488401"
+    },
+    {
+      "english": "Tea and a book, that’s my plan.",
+      "indonesian": "Teh dan buku, itu rencanaku.",
+      "transliteration": "Teh dan BUku, iTu renCAnaKU.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-24T20:23:38.488401"
+    },
+    {
+      "english": "I bake bread and smell the comfort.",
+      "indonesian": "Aku memanggang roti dan menikmati baunya yang menenangkan.",
+      "transliteration": "Aku MEManggang ROti dan meNIKmaTI bauNya yang meNENaNGkan.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-24T20:23:38.488401"
+    },
+    {
+      "english": "I sketch faces, not for perfection.",
+      "indonesian": "Aku menggambar wajah, bukan untuk sempurna.",
+      "transliteration": "Aku meNGgambar waJAH, buKAN unTuk SEMpuRna.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-24T20:23:38.488401"
+    },
+    {
+      "english": "I feel content, right where I am",
+      "indonesian": "Aku merasa puas, di tempatku sekarang",
+      "transliteration": "AKU MERASA puas, di TEM-pat-ku SEKARANG",
+      "category": "Happiness",
+      "generated_at": "2026-11-24T20:23:38.488401"
+    },
+    {
+      "english": "My worries shrink when I breathe slowly",
+      "indonesian": "Kekhawatiranku mengecil saat aku bernapas pelan",
+      "transliteration": "keKHA-wa-ti-RA-an-ku mengeCIL SAAT aKU ber-NA-fas PE-lan",
+      "category": "Happiness",
+      "generated_at": "2026-11-24T20:23:38.488401"
+    },
+    {
+      "english": "Kind words today keep me steady",
+      "indonesian": "Kata-kata baik hari ini bikin aku tetap tenang",
+      "transliteration": "ka-TA ka-ta BAIK ha-ri i-ni bi-KIN aKU te-TAP te-NANG",
+      "category": "Happiness",
+      "generated_at": "2026-11-24T20:23:38.488401"
+    },
+    {
+      "english": "I stop rushing, and I enjoy things",
+      "indonesian": "Aku berhenti terburu-buru, dan aku menikmati semuanya",
+      "transliteration": "aKU berHEN-ti TER-bu-ru RU, dan aKU me-NI-ma-ti seMUANYA",
+      "category": "Happiness",
+      "generated_at": "2026-11-24T20:23:38.488401"
+    },
+    {
+      "english": "A small walk resets my whole mood",
+      "indonesian": "Jalan kecil saja bisa menyetel ulang suasana hatiku",
+      "transliteration": "ja-LAN ke-CIL sa-ja bi-SA me-Nye-TEL u-LANG su-A-sa-na HA-ti-ku",
+      "category": "Happiness",
+      "generated_at": "2026-11-24T20:23:38.488401"
+    },
+    {
+      "english": "I celebrate effort, not just results",
+      "indonesian": "Aku merayakan usaha, bukan cuma hasil",
+      "transliteration": "AKU me-RA-yA-kan u-SA-ha, bu-kan cu-ma HA-sil",
+      "category": "Happiness",
+      "generated_at": "2026-11-24T20:23:38.488401"
+    },
+    {
+      "english": "I let the day be gentle",
+      "indonesian": "Aku membiarkan harinya berjalan dengan lembut",
+      "transliteration": "aKU mem-biAR-kan ha-ri-nya ber-JA-lan de-ngan lemBUT",
+      "category": "Happiness",
+      "generated_at": "2026-11-24T20:23:38.488401"
+    },
+    {
+      "english": "I agree, and here s why.",
+      "indonesian": "Saya setuju, dan inilah alasannya.",
+      "transliteration": "sa-ya se-tu-ju, dan i-ni-la-h a a-la-sa-nya",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-24T20:23:38.488401"
+    },
+    {
+      "english": "You make sense, I m in.",
+      "indonesian": "Kamu masuk akal, aku setuju.",
+      "transliteration": "ka-mu ma-suk a-kal, a-ku se-tu-ju",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-24T20:23:38.488401"
+    },
+    {
+      "english": "That s true, but I d add more.",
+      "indonesian": "Itu benar, tapi aku mau menambahkan.",
+      "transliteration": "i-tu be-nar, ta-pi a-ku mau me-nam-ba-hkan",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-24T20:23:38.488401"
+    },
+    {
+      "english": "I m convinced, let s proceed.",
+      "indonesian": "Aku yakin, kita lanjutkan.",
+      "transliteration": "a-ku ya-kin, ki-ta lanjut-kan",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-24T20:23:38.488401"
+    },
+    {
+      "english": "Yes, that fits what we need.",
+      "indonesian": "Ya, itu cocok dengan yang kita butuhkan.",
+      "transliteration": "ya, i-tu co-cok de-ngan ya-ng ki-ta bu-tu h-kan",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-24T20:23:38.488401"
+    },
+    {
+      "english": "I think so too, absolutely.",
+      "indonesian": "Aku juga berpikir begitu, benar.",
+      "transliteration": "a-ku ju-ga ber-pi-kir be-g i-tu, be-nar",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-24T20:23:38.488401"
+    },
+    {
+      "english": "Agreed, it s the most practical move.",
+      "indonesian": "Setuju, itu langkah paling praktis.",
+      "transliteration": "se-tu-ju, i-tu lang-kah pa-ling prak-tis",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-24T20:23:38.488401"
+    },
+    {
+      "english": "Thanks for being my steady friend",
+      "indonesian": "Terima kasih sudah jadi teman yang selalu ada",
+      "transliteration": "Terima kasih SUDAH jadi teman yang SELALU ada",
+      "category": "Friendship",
+      "generated_at": "2026-11-24T20:23:38.488401"
+    },
+    {
+      "english": "You understand me without explaining",
+      "indonesian": "Kamu mengerti aku tanpa banyak penjelasan",
+      "transliteration": "KAMU mengerti aku tanpa BANYAK penjelasan",
+      "category": "Friendship",
+      "generated_at": "2026-11-24T20:23:38.488401"
+    },
+    {
+      "english": "Let me return the favor soon",
+      "indonesian": "Nanti aku balas budi juga ya",
+      "transliteration": "Nanti AKU balas BUDI juga YA",
+      "category": "Friendship",
+      "generated_at": "2026-11-24T20:23:38.488401"
+    },
+    {
+      "english": "When I’m stuck, you help me",
+      "indonesian": "Kalau aku buntu, kamu bantu aku",
+      "transliteration": "KALAU aku BUNTU, kamu BANtU aku",
+      "category": "Friendship",
+      "generated_at": "2026-11-24T20:23:38.488401"
+    },
+    {
+      "english": "Your advice is always spot on",
+      "indonesian": "Saran kamu selalu tepat sekali",
+      "transliteration": "SAran kamu SELALU tePAT sekali",
+      "category": "Friendship",
+      "generated_at": "2026-11-24T20:23:38.488401"
+    },
+    {
+      "english": "I feel safe telling you anything",
+      "indonesian": "Aku merasa aman cerita apa pun sama kamu",
+      "transliteration": "Aku MERASA aman CERITA apa pun sama kamu",
+      "category": "Friendship",
+      "generated_at": "2026-11-24T20:23:38.488401"
+    },
+    {
+      "english": "We pick each other back up",
+      "indonesian": "Kita saling ngangkat lagi saat jatuh",
+      "transliteration": "Kita Saling NGAangkat lagi saat JATUH",
+      "category": "Friendship",
+      "generated_at": "2026-11-24T20:23:38.488401"
+    },
+    {
+      "english": "I drink water, then start slow.",
+      "indonesian": "Aku minum air dulu, lalu mulai pelan.",
+      "transliteration": "aku MINUM air dULU, lalu MU-lai pelAN",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-24T20:23:38.488401"
+    },
+    {
+      "english": "I say no, and mean it.",
+      "indonesian": "Aku bilang tidak, dan aku serius.",
+      "transliteration": "aku biLANG TIdak, dan aku seRIUS",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-24T20:23:38.488401"
+    },
+    {
+      "english": "I make my bed, feel the win.",
+      "indonesian": "Aku rapikan kasur, rasakan kemenangannya.",
+      "transliteration": "aku raPIP-kan KA-sur, raSA-kan ke-menang-an-nyA",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-24T20:23:38.488401"
+    },
+    {
+      "english": "I leave the phone in another room.",
+      "indonesian": "Aku tinggalkan ponsel di ruangan lain.",
+      "transliteration": "aku TING-gal-kan PON-sel di RU-an-gan LAIN",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-24T20:23:38.488401"
+    },
+    {
+      "english": "I tidy one drawer, not the whole house.",
+      "indonesian": "Aku bereskan satu laci, bukan seluruh rumah.",
+      "transliteration": "aku be-REs-kan SA-tu laCI, buKAN SELU-ruh ruMAH",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-24T20:23:38.488401"
+    },
+    {
+      "english": "I stretch my body, release tension.",
+      "indonesian": "Aku meregangkan tubuh, lepas tegangnya.",
+      "transliteration": "aku me-REG-kan TUBUH, lePAS teGAN-gan-nyA",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-24T20:23:38.488401"
+    },
+    {
+      "english": "I write a quick apology, then move on.",
+      "indonesian": "Aku menulis permintaan maaf singkat, lalu lanjut.",
+      "transliteration": "aku meNUL-is per-MIN-ta-an maAF singKAT, lalu LANjut",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-24T20:23:38.488401"
+    },
+    {
+      "english": "I wake up, stretch, and listen.",
+      "indonesian": "Aku bangun, lalu meregangkan badan, dan menyimak tubuhku.",
+      "transliteration": "Aku BANGUN, lalu meneRANGkan BAdan, dan meNYIMAK tuBUhku.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-24T20:23:38.488401"
+    },
+    {
+      "english": "I open the curtains, fresh air first.",
+      "indonesian": "Aku buka gorden, lalu biarkan udara segar masuk.",
+      "transliteration": "Aku BUka GARden, lalu biarKAN uDAra SEgar MA*Kuk.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-24T20:23:38.488401"
+    },
+    {
+      "english": "Before messages, I set my first goal.",
+      "indonesian": "Sebelum balas pesan, aku tentukan tujuan pertamaku.",
+      "transliteration": "SeBELUM baLAS PE san, aku tenTuKAN tuJUan PERtama ku.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-24T20:23:38.488401"
+    },
+    {
+      "english": "Coffee or tea, I sip slowly.",
+      "indonesian": "Kopi atau teh, aku minum pelan-pelan.",
+      "transliteration": "KOpi a tau TEH, aku MI-num peLAN-PELAN.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-24T20:23:38.488401"
+    },
+    {
+      "english": "I lay out clothes the night before.",
+      "indonesian": "Aku siapkan baju untuk besok malam ini.",
+      "transliteration": "Aku siAPkan BAju unTuk BEsok maLAm iNi.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-24T20:23:38.488401"
+    },
+    {
+      "english": "I choose one habit to repeat today.",
+      "indonesian": "Aku pilih satu kebiasaan untuk ku ulang hari ini.",
+      "transliteration": "Aku PIlih saTu keBIasaAN unTuk ku Ulang HAri iNi.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-24T20:23:38.488401"
+    },
+    {
+      "english": "I wash up mindfully, no rushing.",
+      "indonesian": "Aku cuci muka dan tangan dengan tenang, tanpa buru-buru.",
+      "transliteration": "Aku cuCI muKA dan tanGAN deNGAN teNANG, TANpa buRU-buRU.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-24T20:23:38.488401"
+    },
+    {
+      "english": "Is it hot out there today?",
+      "indonesian": "Panas ya hari ini di luar?",
+      "transliteration": "Panas ya hari ini di LUAR?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-24T20:23:38.488401"
+    },
+    {
+      "english": "The sunlight is a bit blinding.",
+      "indonesian": "Cahayanya agak silau.",
+      "transliteration": "CAhayanya AGAK SI-lau.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-24T20:23:38.488401"
+    },
+    {
+      "english": "I think it’s going to drizzle again.",
+      "indonesian": "Kayaknya bakal gerimis lagi.",
+      "transliteration": "KAYaknya BAkan GERImis LAgi.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-24T20:23:38.488401"
+    },
+    {
+      "english": "How are the clouds there right now?",
+      "indonesian": "Awan di sana sekarang gimana?",
+      "transliteration": "AWAN di SANA SEKARANG GI-mana?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-24T20:23:38.488401"
+    },
+    {
+      "english": "Do you feel that cool breeze?",
+      "indonesian": "Kamu ngerasain angin sepoi sepoi nggak?",
+      "transliteration": "KAmu NGERasain ANgin SEpoi SEpoi nggak?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-24T20:23:38.488401"
+    },
+    {
+      "english": "It’s clear, but still chilly.",
+      "indonesian": "Langitnya cerah, tapi masih dingin.",
+      "transliteration": "LANGitnya CERah, tapi MASIH DINgin.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-24T20:23:38.488401"
+    },
+    {
+      "english": "Should I wear sneakers or sandals?",
+      "indonesian": "Mending pakai sepatu atau sandal ya?",
+      "transliteration": "MEN-ding pa-kai SE-patu a-tau SANdal ya?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-24T20:23:38.488401"
+    },
+    {
+      "english": "Hi, I’m calling to confirm payment.",
+      "indonesian": "Halo, saya menelepon untuk mengonfirmasi pembayaran.",
+      "transliteration": "HA-lo SA-ya me-ne-lep-on un-tuk meng-on-fir-ma-si pem-bAY-ar-an",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-24T20:23:38.488401"
+    },
+    {
+      "english": "Can we handle this by message instead?",
+      "indonesian": "Bisa kita lanjutkan lewat pesan saja?",
+      "transliteration": "BI-sa ki-ta LAN-jut-kan le-wat pe-san sa-ja",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-24T20:23:38.488401"
+    },
+    {
+      "english": "What time does your driver get here?",
+      "indonesian": "Pukul berapa pengantar sampai ke sini?",
+      "transliteration": "pu-kul BE-ra-pa pen-GANT-ar SAM-pai ke si-ni",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-24T20:23:38.488401"
+    },
+    {
+      "english": "Please keep my package at the office.",
+      "indonesian": "Tolong titipkan paket saya di kantor dulu.",
+      "transliteration": "TO-long ti-tip-kan PA-ket SA-ya di kan-tor du-lu",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-24T20:23:38.488401"
+    },
+    {
+      "english": "I sent the photo, please check it.",
+      "indonesian": "Saya sudah kirim fotonya, tolong cek ya.",
+      "transliteration": "SA-ya SU-dah ki-rim FO-to-ny-a, TO-long cek ya",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-24T20:23:38.488401"
+    },
+    {
+      "english": "The code didn’t work, can you resend?",
+      "indonesian": "Kode-nya tidak berhasil, bisa kirim ulang?",
+      "transliteration": "KO-de-ny-a ti-dak ber-HAS-il, BI-sa ki-rim u-lANG",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-24T20:23:38.488401"
+    },
+    {
+      "english": "Can you update my order status?",
+      "indonesian": "Bisa update status pesanan saya?",
+      "transliteration": "BI-sa up-date STA-tus pe-SA-nan SA-ya",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-24T20:23:38.488401"
     }
   ],
-  "last_updated": "2026-11-23T21:41:54.035218"
+  "last_updated": "2026-11-24T20:23:38.488401"
 }
