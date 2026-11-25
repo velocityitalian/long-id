@@ -23095,7 +23095,399 @@
       "transliteration": "BI-sa up-date STA-tus pe-SA-nan SA-ya",
       "category": "Phone Calls & Messages",
       "generated_at": "2026-11-24T20:23:38.488401"
+    },
+    {
+      "english": "I need a new debit card, please.",
+      "indonesian": "Saya ingin ganti kartu debit baru, tolong.",
+      "transliteration": "Saya ingin GANti KARtu DEBIT BAru, TOLong.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-25T19:37:54.869127"
+    },
+    {
+      "english": "Do you accept international money orders?",
+      "indonesian": "Apakah Anda menerima wesel internasional?",
+      "transliteration": "ApaKAH Anda MENERima WEsel interNASional?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-25T19:37:54.869127"
+    },
+    {
+      "english": "How do I activate my e-banking?",
+      "indonesian": "Bagaimana cara mengaktifkan e-banking saya?",
+      "transliteration": "BAGAimaNA caRA mengAKtifkan e-BANking saya?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-25T19:37:54.869127"
+    },
+    {
+      "english": "Can I pay my bill here?",
+      "indonesian": "Bisa bayar tagihan di sini?",
+      "transliteration": "BISA baYAR TAgiHAN di siNI?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-25T19:37:54.869127"
+    },
+    {
+      "english": "What’s the ATM limit per day?",
+      "indonesian": "Berapa batas tarik tunai per hari di ATM?",
+      "transliteration": "BEraPA baTAS tarik TU nai per HARI di ATM?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-25T19:37:54.869127"
+    },
+    {
+      "english": "My app says invalid account number.",
+      "indonesian": "Di aplikasi saya tertulis nomor rekening tidak valid.",
+      "transliteration": "Di aPLIkaSI saya terTUlis NOMor reKEning tiDAK vaLID.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-25T19:37:54.869127"
+    },
+    {
+      "english": "Can you help me with a chargeback?",
+      "indonesian": "Bisakah Anda bantu saya mengajukan chargeback?",
+      "transliteration": "BIsaKAH Anda BANtu saya mengAjuKAN chargeback?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-25T19:37:54.869127"
+    },
+    {
+      "english": "I forgive, but I ask for consistency.",
+      "indonesian": "Aku memaafkan, tapi aku minta konsistensi.",
+      "transliteration": "Aku memaaFKAN, tapi aku MINTA KONsistenSI.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-25T19:37:54.869127"
+    },
+    {
+      "english": "Thank you, that helped me release.",
+      "indonesian": "Terima kasih, itu membantu aku melepasnya.",
+      "transliteration": "TeriMA kaSIH, iTu memBANTU aku MElePASnya.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-25T19:37:54.869127"
+    },
+    {
+      "english": "I let go, one breath at a time.",
+      "indonesian": "Aku melepaskan, satu tarikan napas demi satu tarikan napas.",
+      "transliteration": "Aku MElePASkan, saTU taRiKAN NApas deMI saTU taRiKAN NApas.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-25T19:37:54.869127"
+    },
+    {
+      "english": "I choose forgiveness without forgetting my needs.",
+      "indonesian": "Aku memilih pengampunan tanpa mengabaikan kebutuhanku.",
+      "transliteration": "Aku MEMilih pengamPUNan tanPa mengaBAikan keBUTuhanku.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-25T19:37:54.869127"
+    },
+    {
+      "english": "Let’s talk kindly, not just quickly.",
+      "indonesian": "Kita bicara dengan lembut, bukan hanya cepat.",
+      "transliteration": "KiTa biCARA deNgan lemBUT, buKAN haNya CEpat.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-25T19:37:54.869127"
+    },
+    {
+      "english": "I forgive, and I won't carry it daily.",
+      "indonesian": "Aku memaafkan, dan aku tidak mau memikulnya tiap hari.",
+      "transliteration": "Aku memAAFKAN, dan aku tiDAK mau meMikuLnya TIAp HAri.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-25T19:37:54.869127"
+    },
+    {
+      "english": "I hear you, and I still heal.",
+      "indonesian": "Aku mendengar kamu, dan aku tetap menyembuhkan diri.",
+      "transliteration": "Aku menDENGAR kaMU, dan aku TEtap meNYEMBUHkan diRI.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-25T19:37:54.869127"
+    },
+    {
+      "english": "Breathe, unclench your jaw, now.",
+      "indonesian": "Tarik napas, lemaskan rahang Anda sekarang.",
+      "transliteration": "TA-rik na-PAS, le-MAS-kan ra-HANG an-da se-KA-rang.",
+      "category": "Balance",
+      "generated_at": "2026-11-25T19:37:54.869127"
+    },
+    {
+      "english": "Choose one habit, keep it steady.",
+      "indonesian": "Pilih satu kebiasaan, jalankan dengan stabil.",
+      "transliteration": "PI-lih sa-tu ke-BIA-saan, JA-lan-kan de-ngan sta-BIL.",
+      "category": "Balance",
+      "generated_at": "2026-11-25T19:37:54.869127"
+    },
+    {
+      "english": "Set a bedtime, protect your sleep.",
+      "indonesian": "Tentukan jam tidur, lindungi waktu tidur Anda.",
+      "transliteration": "TEN-tu-kan jam TI-dur, LIN-du-ngi wak-tu TI-dur an-da.",
+      "category": "Balance",
+      "generated_at": "2026-11-25T19:37:54.869127"
+    },
+    {
+      "english": "Make space for joy each day.",
+      "indonesian": "Luangkan waktu untuk hal yang membuat Anda bahagia setiap hari.",
+      "transliteration": "LU-ang-kan WAK-tu un-tuk hal yang mem-BUAT an-da bahAGI-a seti-ap HA-ri.",
+      "category": "Balance",
+      "generated_at": "2026-11-25T19:37:54.869127"
+    },
+    {
+      "english": "Stand up, reset your energy balance.",
+      "indonesian": "Berdiri sebentar, atur ulang energi Anda.",
+      "transliteration": "BER-di-ri se-ben-tar, a-TUR u-lANG e-NER-gi an-da.",
+      "category": "Balance",
+      "generated_at": "2026-11-25T19:37:54.869127"
+    },
+    {
+      "english": "Eat slowly, let fullness catch up.",
+      "indonesian": "Makan pelan-pelan, biarkan rasa kenyang menyusul.",
+      "transliteration": "MA-kan pe-lan-pe-lan, bi-ar-kan ra-sa KE-Nyang me-nYE-sul.",
+      "category": "Balance",
+      "generated_at": "2026-11-25T19:37:54.869127"
+    },
+    {
+      "english": "Tidy one corner, calm your mind.",
+      "indonesian": "Rapikan satu sudut kecil, pikiran Anda akan lebih tenang.",
+      "transliteration": "RA-pik-an sa-tu SU-dut ke-CIL, pi-KI-ran an-da a-kan le-bih TE-nang.",
+      "category": "Balance",
+      "generated_at": "2026-11-25T19:37:54.869127"
+    },
+    {
+      "english": "Can we improvise from what we have?",
+      "indonesian": "Bisa kita improvisasi dari apa yang ada, ya?",
+      "transliteration": "Bisa kita IMPROVISA si dari apa yang ADA, ya?",
+      "category": "Creativity",
+      "generated_at": "2026-11-25T19:37:54.869127"
+    },
+    {
+      "english": "Give it a weird twist, on purpose.",
+      "indonesian": "Coba kasih sentuhan yang aneh, dengan sengaja.",
+      "transliteration": "Coba KASIH sentuhan yang ANEH, dengan SENGAJA.",
+      "category": "Creativity",
+      "generated_at": "2026-11-25T19:37:54.869127"
+    },
+    {
+      "english": "Let’s sketch first, decide after.",
+      "indonesian": "Kita gambar dulu, baru putuskan nanti.",
+      "transliteration": "Kita GAMBAR DULU, baru PUTUSkan NANTI.",
+      "category": "Creativity",
+      "generated_at": "2026-11-25T19:37:54.869127"
+    },
+    {
+      "english": "What if we build a tiny test?",
+      "indonesian": "Bagaimana kalau kita bikin versi kecil dulu?",
+      "transliteration": "BAGAIMANA kalau kita BIKIN VERsi KECIL dulu?",
+      "category": "Creativity",
+      "generated_at": "2026-11-25T19:37:54.869127"
+    },
+    {
+      "english": "Try a metaphor, not a manual.",
+      "indonesian": "Coba pakai metafora, bukan panduan langkah demi langkah.",
+      "transliteration": "Coba PAKAI METAfora, bukan PANduan langkah demi LANGKAH.",
+      "category": "Creativity",
+      "generated_at": "2026-11-25T19:37:54.869127"
+    },
+    {
+      "english": "Design for surprise, not just clarity.",
+      "indonesian": "Rancang untuk kejutan, bukan cuma kejernihan.",
+      "transliteration": "RANCANG untuk KEJUTAN, bukan cuma KEJERnihan.",
+      "category": "Creativity",
+      "generated_at": "2026-11-25T19:37:54.869127"
+    },
+    {
+      "english": "Let’s flip the order and see.",
+      "indonesian": "Coba balik urutannya, lihat apa yang berubah.",
+      "transliteration": "Coba BALIK urutannya, LIHAT apa yang BERubah.",
+      "category": "Creativity",
+      "generated_at": "2026-11-25T19:37:54.869127"
+    },
+    {
+      "english": "Is there a quiet room available?",
+      "indonesian": "Apa ada kamar yang lebih tenang?",
+      "transliteration": "APA a da kaMAR yang le BIH te NANG?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-25T19:37:54.869127"
+    },
+    {
+      "english": "Do you have a room with a view?",
+      "indonesian": "Apakah ada kamar dengan pemandangan?",
+      "transliteration": "A PA kah a DA kaMAR de ngan pe MAN dANG an?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-25T19:37:54.869127"
+    },
+    {
+      "english": "Can I get a higher floor room?",
+      "indonesian": "Bisa minta kamar di lantai yang lebih tinggi?",
+      "transliteration": "BI SA min TA kaMAR di LAN tai yang le BIH TING GI?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-25T19:37:54.869127"
+    },
+    {
+      "english": "My room card isn't working, please.",
+      "indonesian": "Kartu kamar saya tidak berfungsi, tolong.",
+      "transliteration": "KAR tu kaMAR sa ya TI dak ber FUN gSI, TO LONG.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-25T19:37:54.869127"
+    },
+    {
+      "english": "I’d like extra towels, please.",
+      "indonesian": "Saya mau handuk tambahan, tolong.",
+      "transliteration": "SA ya MAU HAN duk TAM bah an, TO LONG.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-25T19:37:54.869127"
+    },
+    {
+      "english": "Could you bring an iron and board?",
+      "indonesian": "Bisa minta setrika dan papan setrika?",
+      "transliteration": "BI SA min TA se TRI ka dan PA pan se TRI ka?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-25T19:37:54.869127"
+    },
+    {
+      "english": "Is there a gym or fitness center?",
+      "indonesian": "Di sini ada pusat kebugaran atau gym?",
+      "transliteration": "DI si NI a DA PUS at ke BUGA ran a tau GYM?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-25T19:37:54.869127"
+    },
+    {
+      "english": "I steady my mind, then act.",
+      "indonesian": "Aku menenangkan pikiran dulu, lalu bertindak.",
+      "transliteration": "Aku MENEnangkan PIKIRan dulu, lalu BERtindak.",
+      "category": "Strength",
+      "generated_at": "2026-11-25T19:37:54.869127"
+    },
+    {
+      "english": "I take one tough step today.",
+      "indonesian": "Aku mengambil satu langkah berat hari ini.",
+      "transliteration": "Aku MENgamBIL satu LANGkah BERat haRi ini.",
+      "category": "Strength",
+      "generated_at": "2026-11-25T19:37:54.869127"
+    },
+    {
+      "english": "My strength is setting a boundary.",
+      "indonesian": "Kekuatan saya adalah membuat batas yang jelas.",
+      "transliteration": "KeKuATan saYA adaLah memBUAT baTAS yang JElas.",
+      "category": "Strength",
+      "generated_at": "2026-11-25T19:37:54.869127"
+    },
+    {
+      "english": "I don’t rush my healing process.",
+      "indonesian": "Aku tidak terburu-buru memulihkan diri.",
+      "transliteration": "Aku TI dak terBURU-buru memuLIHkan diRi.",
+      "category": "Strength",
+      "generated_at": "2026-11-25T19:37:54.869127"
+    },
+    {
+      "english": "I can handle this, slowly.",
+      "indonesian": "Aku bisa mengatasi ini, pelan-pelan.",
+      "transliteration": "Aku BI sa mengAtaSI ini, peLAN-peLAN.",
+      "category": "Strength",
+      "generated_at": "2026-11-25T19:37:54.869127"
+    },
+    {
+      "english": "I speak up, even with shaky nerves.",
+      "indonesian": "Aku berani bersuara, meski gugup.",
+      "transliteration": "Aku BE rani berSUara, meSKI GUgup.",
+      "category": "Strength",
+      "generated_at": "2026-11-25T19:37:54.869127"
+    },
+    {
+      "english": "I choose effort over motivation.",
+      "indonesian": "Aku memilih usaha daripada menunggu semangat.",
+      "transliteration": "Aku MEMiLIH USa ha daRIpada MENunggu seMANgat.",
+      "category": "Strength",
+      "generated_at": "2026-11-25T19:37:54.869127"
+    },
+    {
+      "english": "I can’t stop grinning, wow",
+      "indonesian": "Aku nggak bisa berhenti senyum, wow.",
+      "transliteration": "Aku NGGAK bisa berhenti SENYUM, wow.",
+      "category": "Joy",
+      "generated_at": "2026-11-25T19:37:54.869127"
+    },
+    {
+      "english": "Today feels like a fresh start",
+      "indonesian": "Hari ini terasa seperti awal yang segar.",
+      "transliteration": "Hari ini terasa seperti awal yang SEGAR.",
+      "category": "Joy",
+      "generated_at": "2026-11-25T19:37:54.869127"
+    },
+    {
+      "english": "I’m dancing inside, seriously",
+      "indonesian": "Aku berdansa di dalam, serius.",
+      "transliteration": "Aku BERDANSA di dalam, SERIUS.",
+      "category": "Joy",
+      "generated_at": "2026-11-25T19:37:54.869127"
+    },
+    {
+      "english": "That message made me so happy",
+      "indonesian": "Pesan itu bikin aku senang banget.",
+      "transliteration": "PE-SAN itu BI-kin aku SENANG banget.",
+      "category": "Joy",
+      "generated_at": "2026-11-25T19:37:54.869127"
+    },
+    {
+      "english": "My whole day is turning bright",
+      "indonesian": "Sepanjang hariku terasa makin cerah.",
+      "transliteration": "SePANjang HA-riku teRASA maKIN ceRAH.",
+      "category": "Joy",
+      "generated_at": "2026-11-25T19:37:54.869127"
+    },
+    {
+      "english": "I just smiled at that joke",
+      "indonesian": "Baru saja aku ketawa, dan senyum sendiri.",
+      "transliteration": "Ba-ru sa-ja AKU keTA-wa, dan SE-Nyum senDI-ri.",
+      "category": "Joy",
+      "generated_at": "2026-11-25T19:37:54.869127"
+    },
+    {
+      "english": "Everything feels easy right now",
+      "indonesian": "Semua terasa gampang sekarang.",
+      "transliteration": "SeMUA teRASA GAmPANG seKA-RANG.",
+      "category": "Joy",
+      "generated_at": "2026-11-25T19:37:54.869127"
+    },
+    {
+      "english": "Kok bisa sih, serius?",
+      "indonesian": "Kok bisa sih, serius?",
+      "transliteration": "KOK bi-sa SIH, se-RIUS?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-25T19:37:54.869127"
+    },
+    {
+      "english": "Waduh, ribet amat deh.",
+      "indonesian": "Waduh, ribet amat deh.",
+      "transliteration": "WA-duh, RI-bet a-mat deh",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-25T19:37:54.869127"
+    },
+    {
+      "english": "Santai, gue nyusul.",
+      "indonesian": "Santai, gue nyusul.",
+      "transliteration": "SAN-tai, gue NYU-sul",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-25T19:37:54.869127"
+    },
+    {
+      "english": "Itu ngegas banget, bro.",
+      "indonesian": "Itu ngegas banget, bro.",
+      "transliteration": "i-tu NGE-gas ba-nyak, BRO",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-25T19:37:54.869127"
+    },
+    {
+      "english": "Gue lupa total soal itu.",
+      "indonesian": "Gue lupa total soal itu.",
+      "transliteration": "gue LU-pa TO-tal SO-al i-tu",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-25T19:37:54.869127"
+    },
+    {
+      "english": "Bentar, gue cek dulu ya.",
+      "indonesian": "Bentar, gue cek dulu ya.",
+      "transliteration": "BEN-tar, gue CE K DULU ya",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-25T19:37:54.869127"
+    },
+    {
+      "english": "Nggak usah lebay deh.",
+      "indonesian": "Nggak usah lebay deh.",
+      "transliteration": "ng-GAK u-sah LE-bay deh",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-25T19:37:54.869127"
     }
   ],
-  "last_updated": "2026-11-24T20:23:38.488401"
+  "last_updated": "2026-11-25T19:37:54.869127"
 }
